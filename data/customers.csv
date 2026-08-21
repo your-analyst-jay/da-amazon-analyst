@@ -1,0 +1,1801 @@
+customer_id,first_name,last_name,ship_state,ship_city,ship_country,postal_code,prime_flag,customer_since,lifetime_orders,lifetime_spend,customer_segment
+CUST-00001,Ashley,Turner,LA,Fairview,US,45554,Y,2020-09-13,1,106.68,One-time
+CUST-00002,Michael,Thompson,MA,Worcester,US,77603,Y,2017-05-04,2,70.93,Repeat
+CUST-00003,Andrew,Flores,AK,Fairview,US,21322,N,2016-10-09,2,65.41,Repeat
+CUST-00004,Henry,Hill,CA,Fresno,US,91620,Y,2018-04-01,3,237.0,Repeat
+CUST-00005,Amelia,Sanchez,OH,Cleveland,US,29735,N,2021-07-13,3,135.75,Repeat
+CUST-00006,Aisha,Ruiz,GA,Atlanta,US,53911,Y,2018-08-12,5,411.28,VIP
+CUST-00007,Susan,Clark,WI,Georgetown,US,41217,N,2024-04-11,1,110.91,One-time
+CUST-00008,Barbara,Garcia,ND,Riverside,US,78125,N,2017-08-06,2,193.65,Repeat
+CUST-00009,William,Howard,ID,Springfield,US,76247,N,2021-02-20,2,156.64,Repeat
+CUST-00010,Linda,Parker,UT,Riverside,US,41034,Y,2016-11-02,4,459.35,Repeat
+CUST-00011,Mason,Adams,IA,Fairview,US,69343,Y,2024-12-24,1,29.77,One-time
+CUST-00012,Lucas,Howard,CA,Los Angeles,US,30369,Y,2018-04-10,2,15.89,Repeat
+CUST-00013,Jonathan,Rivera,NC,Raleigh,US,69233,Y,2019-07-10,1,86.54,One-time
+CUST-00014,Maria,Hill,NY,Syracuse,US,15286,Y,2017-05-06,3,132.01,Repeat
+CUST-00015,Ashley,Rivera,KS,Centerville,US,77300,Y,2017-08-30,2,109.99,Repeat
+CUST-00016,Patricia,Phillips,PA,Erie,US,82869,N,2025-03-13,2,59.4,Repeat
+CUST-00017,Harper,Moore,NY,New York,US,11567,Y,2021-03-07,5,361.5,VIP
+CUST-00018,Rebecca,Mitchell,OR,Springfield,US,86326,Y,2018-06-29,2,125.83,Repeat
+CUST-00019,David,Sanchez,NH,Centerville,US,26880,Y,2016-11-03,4,238.56,Repeat
+CUST-00020,Jennifer,Reyes,IA,Springfield,US,32018,Y,2025-01-26,1,205.42,One-time
+CUST-00021,Patricia,Carter,NC,Durham,US,32650,Y,2024-02-15,3,245.67,Repeat
+CUST-00022,Karen,Jones,HI,Georgetown,US,91156,Y,2019-01-31,1,19.53,One-time
+CUST-00023,Stephen,Morris,MO,Springfield,US,21497,Y,2021-08-05,1,74.27,One-time
+CUST-00024,Brenda,Young,TX,El Paso,US,81258,Y,2018-03-27,1,36.36,One-time
+CUST-00025,Kathleen,Cooper,WY,Centerville,US,55093,N,2024-10-07,0,0.0,One-time
+CUST-00026,Patricia,Green,VA,Richmond,US,13840,Y,2020-05-09,1,53.81,One-time
+CUST-00027,Jacob,Ortiz,OR,Fairview,US,86544,N,2016-08-27,1,64.56,One-time
+CUST-00028,Donald,Wright,SD,Georgetown,US,17328,Y,2017-02-14,1,31.54,One-time
+CUST-00029,Stephanie,Rivera,DE,Riverside,US,33081,N,2022-06-16,4,275.43,Repeat
+CUST-00030,Katherine,Brown,PA,Allentown,US,84403,N,2024-04-11,1,0.0,One-time
+CUST-00031,Angela,Cooper,AZ,Mesa,US,33010,N,2018-02-10,0,0.0,One-time
+CUST-00032,Robert,Ortiz,CA,San Francisco,US,10089,Y,2018-08-10,2,252.64,Repeat
+CUST-00033,Olivia,Thompson,TN,Knoxville,US,17806,Y,2025-01-16,6,729.82,VIP
+CUST-00034,Brenda,Campbell,MA,Boston,US,58967,N,2017-08-03,2,253.63,Repeat
+CUST-00035,Joshua,Adams,WI,Riverside,US,30644,Y,2022-07-28,2,265.03,Repeat
+CUST-00036,Priya,Green,NC,Raleigh,US,83659,N,2023-03-03,0,0.0,One-time
+CUST-00037,Fatima,Ramos,ME,Riverside,US,59595,Y,2024-10-28,0,0.0,One-time
+CUST-00038,James,Hughes,MN,Georgetown,US,61327,Y,2017-06-05,1,0.0,One-time
+CUST-00039,Rachel,Green,OR,Georgetown,US,38953,Y,2022-05-13,0,0.0,One-time
+CUST-00040,Isabella,Martinez,TX,San Antonio,US,55457,Y,2021-07-25,0,0.0,One-time
+CUST-00041,Fatima,Brooks,FL,Tampa,US,68540,N,2016-12-29,7,254.25,VIP
+CUST-00042,Steven,Wilson,FL,Miami,US,16310,Y,2023-10-10,0,0.0,One-time
+CUST-00043,Angela,Carter,AL,Fairview,US,81568,N,2017-11-12,0,0.0,One-time
+CUST-00044,Priya,Mendoza,NV,Riverside,US,31319,N,2024-11-04,1,46.0,One-time
+CUST-00045,Kenneth,King,CT,Springfield,US,19725,Y,2016-05-16,4,237.18,Repeat
+CUST-00046,Stephen,Lopez,NE,Fairview,US,87860,N,2017-10-21,1,121.73,One-time
+CUST-00047,Priya,Perez,ID,Georgetown,US,66911,Y,2023-11-25,6,1123.43,VIP
+CUST-00048,Timothy,Hughes,TX,Fort Worth,US,80795,N,2018-04-21,2,139.45,Repeat
+CUST-00049,Ronald,Kelly,PA,Erie,US,30131,Y,2018-08-30,3,237.4,Repeat
+CUST-00050,Hiroshi,Watson,CA,Sacramento,US,72957,Y,2016-12-24,4,231.09,Repeat
+CUST-00051,William,Stewart,CA,Los Angeles,US,50416,Y,2017-11-30,1,55.54,One-time
+CUST-00052,Wei,Cooper,MI,Lansing,US,34232,Y,2023-05-31,0,0.0,One-time
+CUST-00053,Kimberly,Cruz,OH,Toledo,US,44524,Y,2018-02-03,1,29.15,One-time
+CUST-00054,Grace,Bennett,NY,New York,US,21233,Y,2016-09-09,0,0.0,One-time
+CUST-00055,Katherine,Robinson,CT,Georgetown,US,17993,N,2020-08-22,1,23.36,One-time
+CUST-00056,Maria,Stewart,UT,Georgetown,US,40886,N,2020-09-10,1,24.82,One-time
+CUST-00057,Samantha,Gutierrez,CA,Sacramento,US,98805,Y,2024-01-04,0,0.0,One-time
+CUST-00058,Lisa,Ramirez,TX,San Antonio,US,26539,Y,2024-06-28,1,91.56,One-time
+CUST-00059,Diego,Jackson,CA,Sacramento,US,43801,Y,2023-08-30,0,0.0,One-time
+CUST-00060,Stephanie,Bailey,AL,Centerville,US,82358,Y,2025-01-19,1,66.6,One-time
+CUST-00061,Mary,Hughes,NY,Syracuse,US,87014,N,2021-02-19,0,0.0,One-time
+CUST-00062,Larry,Ramos,GA,Atlanta,US,23845,Y,2020-08-24,0,0.0,One-time
+CUST-00063,Brian,Evans,TX,Dallas,US,60206,N,2019-03-17,2,217.37,Repeat
+CUST-00064,Emily,Phillips,MA,Worcester,US,91034,Y,2021-04-21,1,19.42,One-time
+CUST-00065,Kevin,Ruiz,MN,Riverside,US,16460,Y,2016-06-07,1,63.85,One-time
+CUST-00066,Harper,Hill,NH,Fairview,US,46745,Y,2020-03-05,1,221.25,One-time
+CUST-00067,Sandra,Moore,KS,Fairview,US,68079,Y,2023-09-06,3,182.57,Repeat
+CUST-00068,Wei,Lopez,IL,Naperville,US,67896,,2024-03-04,5,242.46,VIP
+CUST-00069,Eric,Mitchell,UT,Springfield,US,77537,Y,2024-04-22,1,14.13,One-time
+CUST-00070,Sarah,Ortiz,CA,Sacramento,US,13794,Y,2023-12-16,1,19.25,One-time
+CUST-00071,Ashley,Jones,NM,Centerville,US,16626,N,2018-04-02,1,23.75,One-time
+CUST-00072,Amy,Cook,SC,Centerville,US,93284,Y,2019-01-27,2,82.69,Repeat
+CUST-00073,Scott,Edwards,MD,Riverside,US,72204,Y,2018-09-17,0,0.0,One-time
+CUST-00074,Kimberly,Ruiz,IL,Chicago,US,47364,N,2017-10-31,2,248.77,Repeat
+CUST-00075,Margaret,Lewis,CA,Fresno,US,39505,N,2022-06-01,2,245.68,Repeat
+CUST-00076,Amelia,Mendoza,NY,New York,US,72140,Y,2020-08-04,1,10.4,One-time
+CUST-00077,Mark,Allen,MO,Georgetown,US,50037,N,2022-09-28,0,0.0,One-time
+CUST-00078,Edward,Hall,SC,Centerville,US,43029,Y,2019-02-01,6,632.66,VIP
+CUST-00079,Ronald,Howard,PA,Philadelphia,US,10963,N,2021-11-02,1,33.34,One-time
+CUST-00080,Nicole,Chavez,WI,Georgetown,US,89829,N,2025-06-16,1,125.64,One-time
+CUST-00081,Emily,Brooks,MD,Fairview,US,46291,Y,2021-05-27,8,261.26,VIP
+CUST-00082,Karen,Gutierrez,SC,Riverside,US,17441,Y,2023-04-22,0,0.0,One-time
+CUST-00083,Kenneth,Mendoza,CT,Riverside,US,13336,Y,2022-09-23,1,56.71,One-time
+CUST-00084,Rebecca,Roberts,DC,Springfield,US,86418,N,2018-11-28,0,0.0,One-time
+CUST-00085,Olivia,Lewis,MA,Cambridge,US,98063,Y,2018-02-16,0,0.0,One-time
+CUST-00086,Nicole,White,PA,Allentown,US,22793,N,2017-11-27,0,0.0,One-time
+CUST-00087,Mia,White,LA,Fairview,US,95778,N,2024-02-18,5,399.85,VIP
+CUST-00088,Sharon,Nelson,IL,Springfield,US,44152,N,2024-05-06,1,91.24,One-time
+CUST-00089,Aisha,Howard,MI,Detroit,US,71894,Y,2017-04-27,0,0.0,One-time
+CUST-00090,Joshua,Evans,VA,Virginia Beach,US,29762,Y,2023-08-20,5,477.84,VIP
+CUST-00091,Ryan,Jackson,FL,Tampa,US,33639,N,2020-08-03,1,19.25,One-time
+CUST-00092,Kenneth,Brooks,NJ,Newark,US,10617,N,2023-01-28,0,0.0,One-time
+CUST-00093,Mia,Lee,FL,Jacksonville,US,21539,Y,2024-09-03,5,385.67,VIP
+CUST-00094,Kathleen,Roberts,NC,Charlotte,US,14944,Y,2020-10-24,2,112.79,Repeat
+CUST-00095,Ethan,Ortiz,AL,Riverside,US,12348,N,2016-02-27,1,66.14,One-time
+CUST-00096,Brian,Flores,IN,Riverside,US,23462,Y,2018-10-16,2,141.84,Repeat
+CUST-00097,Jennifer,Hill,MA,Springfield,US,69759,Y,2017-11-15,0,0.0,One-time
+CUST-00098,Maria,Moore,CO,Fairview,US,74248,Y,2019-10-15,1,26.35,One-time
+CUST-00099,Sandra,Lewis,FL,Orlando,US,37681,Y,2025-02-07,5,593.25,VIP
+CUST-00100,Olivia,Wood,MA,Boston,US,59177,Y,2017-11-23,0,0.0,One-time
+CUST-00101,Scott,Miller,NY,New York,US,95664,Y,2021-12-30,2,160.52,Repeat
+CUST-00102,Edward,Thomas,CA,Sacramento,US,43126,Y,2017-04-19,0,0.0,One-time
+CUST-00103,Mary,Hill,TX,Austin,US,96725,N,2023-10-18,4,446.97,Repeat
+CUST-00104,Sarah,Turner,VA,Virginia Beach,US,77054,Y,2022-12-25,0,0.0,One-time
+CUST-00105,Angela,Sanchez,TX,Fort Worth,US,36181,N,2017-04-11,1,80.14,One-time
+CUST-00106,Timothy,Nguyen,NV,Riverside,US,15164,Y,2018-04-06,0,0.0,One-time
+CUST-00107,Kevin,Walker,HI,Springfield,US,11671,N,2023-09-19,0,0.0,One-time
+CUST-00108,Angela,Martin,HI,Springfield,US,77070,Y,2025-05-14,1,0.0,One-time
+CUST-00109,Ryan,Nguyen,AL,Fairview,US,70853,Y,2018-11-14,8,1091.35,VIP
+CUST-00110,George,Gray,UT,Fairview,US,65836,N,2016-06-10,2,142.81,Repeat
+CUST-00111,Mary,Moore,TX,El Paso,US,94829,N,2024-07-02,4,357.88,Repeat
+CUST-00112,Paul,Lopez,IL,Springfield,US,54921,N,2020-11-27,3,162.11,Repeat
+CUST-00113,Stephanie,Ruiz,GA,Macon,US,65278,Y,2021-02-12,0,0.0,One-time
+CUST-00114,Noah,Davis,CT,Riverside,US,23593,Y,2017-04-08,2,128.65,Repeat
+CUST-00115,Jeffrey,White,MA,Cambridge,US,57002,Y,2024-12-30,0,0.0,One-time
+CUST-00116,Thomas,Morris,AR,Centerville,US,24802,N,2025-05-27,0,0.0,One-time
+CUST-00117,Kenneth,Johnson,NC,Raleigh,US,97797,Y,2016-09-16,0,0.0,One-time
+CUST-00118,Richard,Parker,VA,Richmond,US,73167,N,2023-09-20,1,81.83,One-time
+CUST-00119,Nicole,Ward,MD,Springfield,US,11526,Y,2020-04-25,1,11.33,One-time
+CUST-00120,Lisa,Martinez,TX,Austin,US,52026,N,2021-04-06,4,186.1,Repeat
+CUST-00121,Stephen,Chavez,SD,Centerville,US,62858,Y,2016-07-25,2,138.22,Repeat
+CUST-00122,Cynthia,Lopez,CA,San Francisco,US,68598,N,2020-12-24,0,0.0,One-time
+CUST-00123,Susan,Phillips,VT,Centerville,US,14696,N,2024-05-10,0,0.0,One-time
+CUST-00124,Jose,Brooks,CA,San Jose,US,76628,N,2017-01-07,0,0.0,One-time
+CUST-00125,George,Miller,MO,Riverside,US,69566,N,2021-02-11,1,19.25,One-time
+CUST-00126,Hiroshi,Campbell,OR,Centerville,US,24945,Y,2022-09-23,2,40.48,Repeat
+CUST-00127,Aisha,Nguyen,WI,Georgetown,US,78417,Y,2016-01-09,1,0.0,One-time
+CUST-00128,Olivia,Evans,TX,Houston,US,43330,Y,2017-11-03,0,0.0,One-time
+CUST-00129,Henry,Harris,FL,Tampa,US,24125,Y,2020-05-28,1,95.49,One-time
+CUST-00130,Katherine,Thomas,CA,San Francisco,US,69950,N,2023-02-06,0,0.0,One-time
+CUST-00131,James,Ortiz,AK,Springfield,US,82512,N,2017-07-05,0,0.0,One-time
+CUST-00132,Amelia,Thompson,NV,Georgetown,US,32760,N,2021-06-01,2,103.39,Repeat
+CUST-00133,Rachel,Adams,TX,Fort Worth,US,60418,N,2020-05-05,0,0.0,One-time
+CUST-00134,Emily,Gomez,CO,Fairview,US,48557,N,2023-10-07,1,115.72,One-time
+CUST-00135,Isabella,Rogers,TX,Dallas,US,81802,Y,2020-08-17,1,31.9,One-time
+CUST-00136,Betty,Clark,SC,Georgetown,US,48086,Y,2022-03-17,1,441.5,One-time
+CUST-00137,Priya,Thompson,NH,Georgetown,US,81105,N,2017-06-27,1,86.61,One-time
+CUST-00138,Nicole,Morris,IL,Peoria,US,98374,N,2017-04-17,0,0.0,One-time
+CUST-00139,Jason,Johnson,NV,Georgetown,US,23955,N,2019-03-17,3,157.91,Repeat
+CUST-00140,Paul,Lee,TX,Dallas,US,99573,Y,2023-07-08,3,191.81,Repeat
+CUST-00141,Anthony,Cooper,NV,Springfield,US,57013,N,2023-09-29,2,314.56,Repeat
+CUST-00142,Mark,Chavez,TX,Fort Worth,US,60972,N,2023-07-29,4,420.17,Repeat
+CUST-00143,Ahmed,Bennett,OK,Springfield,US,60014,N,2024-12-15,1,57.78,One-time
+CUST-00144,Stephen,Miller,AK,Springfield,US,42943,Y,2023-09-07,6,1175.74,VIP
+CUST-00145,Aisha,Price,MS,Fairview,US,87120,N,2020-12-19,0,0.0,One-time
+CUST-00146,Matthew,Nguyen,CO,Centerville,US,33255,N,2024-09-14,1,110.91,One-time
+CUST-00147,Jessica,Carter,CA,Los Angeles,US,66165,N,2017-12-12,5,233.05,VIP
+CUST-00148,Steven,Smith,NY,Rochester,US,71122,Y,2017-10-21,1,23.76,One-time
+CUST-00149,Scott,Miller,TX,El Paso,US,90689,N,2017-09-21,1,290.87,One-time
+CUST-00150,Melissa,Martinez,PA,Allentown,US,78864,Y,2024-11-09,4,280.89,Repeat
+CUST-00151,Christopher,Turner,FL,Fort Lauderdale,US,80390,N,2016-10-06,1,39.72,One-time
+CUST-00152,Kevin,Campbell,IL,Springfield,US,38632,N,2018-05-23,0,0.0,One-time
+CUST-00153,Ethan,Wood,TN,Nashville,US,25036,N,2021-04-29,0,0.0,One-time
+CUST-00154,Jose,Young,NC,Charlotte,US,99463,Y,2023-03-15,3,240.32,Repeat
+CUST-00155,Stephanie,Allen,OH,Cincinnati,US,13238,N,2024-12-05,1,30.26,One-time
+CUST-00156,Emma,Edwards,UT,Centerville,US,15747,Y,2020-03-15,1,25.43,One-time
+CUST-00157,Richard,Perez,MO,Georgetown,US,79888,Y,2019-08-05,2,261.1,Repeat
+CUST-00158,Margaret,Mendoza,CA,San Francisco,US,23621,Y,2023-07-08,3,690.33,Repeat
+CUST-00159,Wei,Martinez,NV,Riverside,US,13113,N,2024-04-24,1,113.0,One-time
+CUST-00160,Daniel,Allen,IL,Chicago,US,85361,Y,2016-12-24,2,118.71,Repeat
+CUST-00161,Diego,Phillips,HI,Centerville,US,51471,Y,2020-07-27,6,425.67,VIP
+CUST-00162,Noah,Richardson,MD,Springfield,US,86756,Y,2021-12-30,5,371.78,VIP
+CUST-00163,Susan,Nguyen,IA,Fairview,US,89503,N,2020-01-05,5,678.03,VIP
+CUST-00164,Hiroshi,Brown,KY,Centerville,US,30489,Y,2020-11-27,1,29.45,One-time
+CUST-00165,Pamela,Nguyen,TX,El Paso,US,28884,N,2020-05-20,3,276.07,Repeat
+CUST-00166,Wei,Mitchell,NE,Springfield,US,82551,N,2024-11-30,1,358.92,One-time
+CUST-00167,Scott,Gomez,TX,Fort Worth,US,81765,Y,2016-06-20,0,0.0,One-time
+CUST-00168,Noah,Hall,PA,Pittsburgh,US,64087,N,2024-05-23,0,0.0,One-time
+CUST-00169,Mark,Ward,IA,Fairview,US,35470,Y,2017-08-06,3,658.25,Repeat
+CUST-00170,Ethan,Peterson,WI,Centerville,US,94498,N,2022-05-12,2,123.12,Repeat
+CUST-00171,Betty,Howard,PA,Erie,US,53365,Y,2016-10-02,1,126.83,One-time
+CUST-00172,Jose,Rodriguez,WI,Riverside,US,51652,Y,2018-08-18,1,106.74,One-time
+CUST-00173,Justin,Martin,IL,Springfield,US,51462,Y,2023-05-24,0,0.0,One-time
+CUST-00174,Mark,Alvarez,FL,Jacksonville,US,46264,Y,2019-07-06,2,115.09,Repeat
+CUST-00175,Kathleen,Reyes,TX,Austin,US,57020,Y,2024-03-21,1,62.76,One-time
+CUST-00176,Rachel,Hernandez,NJ,Trenton,US,28350,Y,2017-03-21,1,55.67,One-time
+CUST-00177,Elizabeth,Martinez,FL,Miami,US,76476,N,2024-03-23,4,216.24,Repeat
+CUST-00178,Katherine,Ramirez,UT,Springfield,US,82298,Y,2022-06-29,1,442.86,One-time
+CUST-00179,Amelia,Martin,ID,Fairview,US,61445,Y,2022-01-19,4,478.1,Repeat
+CUST-00180,Sarah,Reyes,OR,Georgetown,US,76900,N,2024-03-22,0,0.0,One-time
+CUST-00181,Brandon,Mendoza,OH,Cleveland,US,77388,N,2016-02-13,5,565.43,VIP
+CUST-00182,Hiroshi,Jackson,TX,El Paso,US,73373,N,2022-05-08,0,0.0,One-time
+CUST-00183,David,King,CA,San Jose,US,40673,Y,2024-07-15,4,82.61,Repeat
+CUST-00184,Jacob,Collins,FL,Miami,US,15230,Y,2024-11-15,1,463.18,One-time
+CUST-00185,Aisha,Scott,IL,Springfield,US,85842,N,2023-11-22,0,0.0,One-time
+CUST-00186,Katherine,Wood,FL,Miami,US,77720,Y,2023-05-01,5,454.87,VIP
+CUST-00187,Melissa,Hall,SD,Centerville,US,73191,Y,2018-07-01,0,0.0,One-time
+CUST-00188,Sandra,Martinez,CA,Sacramento,US,94341,Y,2017-07-23,6,787.06,VIP
+CUST-00189,Olivia,Thomas,TX,El Paso,US,40191,Y,2017-10-06,4,292.85,Repeat
+CUST-00190,Kathleen,Morris,IL,Naperville,US,87436,Y,2017-04-09,6,337.48,VIP
+CUST-00191,Thomas,Kelly,NV,Georgetown,US,31119,Y,2016-04-01,3,126.15,Repeat
+CUST-00192,Lisa,King,VA,Richmond,US,77717,Y,2022-06-02,2,132.69,Repeat
+CUST-00193,Noah,James,CO,Fairview,US,21239,Y,2022-04-27,3,271.79,Repeat
+CUST-00194,Lisa,Lewis,CO,Centerville,US,88753,N,2021-04-14,3,94.01,Repeat
+CUST-00195,Hiroshi,Rogers,MA,Springfield,US,31983,Y,2024-08-09,3,118.96,Repeat
+CUST-00196,David,Robinson,IL,Peoria,US,60523,Y,2021-01-31,1,136.02,One-time
+CUST-00197,Nicholas,Mendoza,CA,San Francisco,US,29603,N,2021-11-11,1,56.6,One-time
+CUST-00198,Henry,Morgan,FL,Fort Lauderdale,US,25403,Y,2022-11-23,3,282.33,Repeat
+CUST-00199,James,Gray,WI,Centerville,US,78425,Y,2022-10-07,1,107.91,One-time
+CUST-00200,Sandra,Morris,MS,Centerville,US,55943,Y,2023-10-28,0,0.0,One-time
+CUST-00201,Samantha,Gonzalez,LA,Centerville,US,27548,N,2024-07-16,1,70.82,One-time
+CUST-00202,Pamela,Evans,OR,Fairview,US,34775,Y,2016-12-09,3,215.19,Repeat
+CUST-00203,Jessica,Gutierrez,LA,Springfield,US,59155,Y,2016-01-30,0,0.0,One-time
+CUST-00204,Susan,Martin,MN,Centerville,US,95403,Y,2019-07-17,1,192.96,One-time
+CUST-00205,George,Ward,NY,Rochester,US,99208,Y,2022-01-04,0,0.0,One-time
+CUST-00206,Kathleen,Thompson,FL,Tampa,US,83281,N,2022-03-11,2,227.96,Repeat
+CUST-00207,Amelia,Price,NY,Albany,US,28096,Y,2019-06-10,1,58.26,One-time
+CUST-00208,Henry,Hughes,WI,Riverside,US,23143,Y,2024-05-21,5,675.56,VIP
+CUST-00209,Brandon,Hughes,GA,Atlanta,US,31068,N,2019-10-18,0,0.0,One-time
+CUST-00210,Charles,Stewart,IN,Georgetown,US,67065,Y,2025-01-07,0,0.0,One-time
+CUST-00211,John,Roberts,NY,Albany,US,90473,Y,2020-02-27,0,0.0,One-time
+CUST-00212,Amelia,Thompson,PA,Erie,US,67536,Y,2022-09-13,3,105.03,Repeat
+CUST-00213,Matthew,Jones,IA,Georgetown,US,76918,Y,2025-01-05,0,0.0,One-time
+CUST-00214,George,Walker,NY,New York,US,30636,N,2017-11-25,0,0.0,One-time
+CUST-00215,Ronald,Phillips,NY,Syracuse,US,36255,Y,2020-06-24,4,429.16,Repeat
+CUST-00216,Stephen,Torres,LA,Georgetown,US,86406,N,2016-10-08,1,49.74,One-time
+CUST-00217,Matthew,Collins,ND,Centerville,US,85354,Y,2019-02-06,3,242.52,Repeat
+CUST-00218,Elizabeth,Cook,FL,Tampa,US,54560,Y,2021-09-04,1,38.84,One-time
+CUST-00219,Harper,Kelly,CT,Fairview,US,68034,N,2018-11-21,3,101.35,Repeat
+CUST-00220,Amanda,Collins,AZ,Scottsdale,US,86916,Y,2024-08-19,1,141.77,One-time
+CUST-00221,Aisha,Lewis,NJ,Jersey City,US,51383,Y,2018-11-22,2,178.09,Repeat
+CUST-00222,Kimberly,Young,IL,Springfield,US,22190,Y,2022-01-03,1,65.33,One-time
+CUST-00223,Daniel,Stewart,LA,Fairview,US,56338,Y,2019-11-01,3,118.79,Repeat
+CUST-00224,Maria,Harris,MA,Cambridge,US,36170,N,2018-01-18,2,154.2,Repeat
+CUST-00225,Betty,Young,NY,Syracuse,US,56665,Y,2018-12-23,6,667.36,VIP
+CUST-00226,Hiroshi,Murphy,TX,Fort Worth,US,10868,N,2016-11-17,1,63.85,One-time
+CUST-00227,Deborah,Richardson,WA,Tacoma,US,74532,N,2016-06-22,1,98.5,One-time
+CUST-00228,Gary,White,NM,Georgetown,US,46735,N,2022-06-11,0,0.0,One-time
+CUST-00229,Jason,Morris,KY,Georgetown,US,14268,Y,2017-06-09,1,138.8,One-time
+CUST-00230,Ryan,Thomas,GA,Macon,US,51373,N,2023-09-12,1,91.31,One-time
+CUST-00231,Richard,Adams,CA,San Jose,US,90318,Y,2018-05-13,1,29.39,One-time
+CUST-00232,Jacob,Ward,FL,Tampa,US,57962,Y,2018-12-12,5,475.77,VIP
+CUST-00233,Deborah,Campbell,NC,Durham,US,46651,N,2020-09-12,1,18.77,One-time
+CUST-00234,Richard,Wright,MA,Worcester,US,82789,N,2022-06-16,3,253.77,Repeat
+CUST-00235,Mason,Martin,OH,Toledo,US,11276,N,2017-08-20,4,424.33,Repeat
+CUST-00236,Noah,Green,NJ,Paterson,US,49326,Y,2023-01-27,6,913.83,VIP
+CUST-00237,Ahmed,Lee,KS,Springfield,US,38241,Y,2016-07-14,1,34.26,One-time
+CUST-00238,Isabella,Nelson,MI,Ann Arbor,US,57312,Y,2023-01-23,0,0.0,One-time
+CUST-00239,Robert,Evans,AZ,Phoenix,US,56018,Y,2025-01-30,2,169.49,Repeat
+CUST-00240,Priya,Wood,ND,Georgetown,US,32877,Y,2018-03-25,1,116.35,One-time
+CUST-00241,Gary,Edwards,PA,Philadelphia,US,59947,N,2019-08-24,1,109.5,One-time
+CUST-00242,Aisha,Baker,MI,Lansing,US,92742,N,2017-08-16,3,605.38,Repeat
+CUST-00243,Amanda,Robinson,GA,Augusta,US,51533,Y,2016-10-19,2,69.46,Repeat
+CUST-00244,Paul,Cruz,SC,Fairview,US,86928,Y,2022-10-15,1,184.78,One-time
+CUST-00245,Robert,Taylor,NC,Raleigh,US,96772,Y,2017-11-16,5,228.57,VIP
+CUST-00246,Lisa,Gomez,LA,Springfield,US,22524,Y,2024-05-28,4,738.34,Repeat
+CUST-00247,Lucas,Gomez,NM,Georgetown,US,20911,Y,2022-02-24,10,536.69,VIP
+CUST-00248,Stephanie,Flores,TN,Memphis,US,42426,N,2016-12-11,1,80.0,One-time
+CUST-00249,Lisa,Brown,NC,Charlotte,US,96972,Y,2017-06-01,1,80.01,One-time
+CUST-00250,Pamela,Wright,NH,Georgetown,US,68306,Y,2021-05-04,6,890.84,VIP
+CUST-00251,Scott,Collins,DE,Georgetown,US,67013,Y,2022-01-17,0,0.0,One-time
+CUST-00252,Kathleen,Cooper,IN,Riverside,US,21738,N,2019-06-22,1,158.1,One-time
+CUST-00253,Mary,Smith,OH,Cleveland,US,55073,Y,2018-11-30,4,570.09,Repeat
+CUST-00254,Ethan,Morris,WA,Tacoma,US,11197,N,2023-09-18,0,0.0,One-time
+CUST-00255,James,Peterson,CT,Fairview,US,34716,Y,2022-09-11,2,66.72,Repeat
+CUST-00256,Olivia,Chavez,AZ,Scottsdale,US,59592,Y,2020-06-04,4,272.35,Repeat
+CUST-00257,Mia,Ward,CA,Fresno,US,99737,Y,2023-01-05,5,202.32,VIP
+CUST-00258,Timothy,Harris,MO,Springfield,US,33908,N,2021-12-18,7,665.51,VIP
+CUST-00259,Paul,Hughes,TX,Fort Worth,US,74486,Y,2021-02-08,7,233.61,VIP
+CUST-00260,Robert,White,CA,Los Angeles,US,46977,N,2016-07-22,4,447.35,Repeat
+CUST-00261,Barbara,Martin,SC,Springfield,US,74694,Y,2024-02-26,6,308.13,VIP
+CUST-00262,Deborah,Reyes,GA,Atlanta,US,53286,N,2024-10-23,2,104.78,Repeat
+CUST-00263,Amelia,Gomez,KY,Springfield,US,81197,Y,2017-08-21,2,152.55,Repeat
+CUST-00264,Edward,Johnson,FL,Miami,US,42631,Y,2025-06-08,0,0.0,One-time
+CUST-00265,John,Sanchez,SD,Centerville,US,22315,N,2018-10-09,2,200.06,Repeat
+CUST-00266,Michelle,Adams,VT,Riverside,US,92465,Y,2021-04-20,1,36.34,One-time
+CUST-00267,Steven,Morris,LA,Fairview,US,36047,Y,2022-03-01,0,0.0,One-time
+CUST-00268,Joseph,Walker,CA,Fresno,US,66906,Y,2023-06-23,0,0.0,One-time
+CUST-00269,Ronald,Young,FL,Miami,US,15504,Y,2019-02-04,1,15.31,One-time
+CUST-00270,Deborah,Lopez,MN,Riverside,US,30669,Y,2023-09-20,0,0.0,One-time
+CUST-00271,Mia,Watson,MD,Springfield,US,17834,N,2019-10-18,1,79.39,One-time
+CUST-00272,Thomas,Morales,TX,San Antonio,US,51515,N,2022-01-05,0,0.0,One-time
+CUST-00273,Jeffrey,Harris,OK,Springfield,US,59514,Y,2024-06-26,2,192.01,Repeat
+CUST-00274,Jeffrey,Bailey,TX,Dallas,US,81137,Y,2016-06-10,2,86.49,Repeat
+CUST-00275,Carol,Reyes,FL,Tampa,US,88470,Y,2018-02-03,1,111.92,One-time
+CUST-00276,Cynthia,Nguyen,AZ,Mesa,US,80989,Y,2016-10-09,1,18.98,One-time
+CUST-00277,Sophia,White,CA,Los Angeles,US,91229,Y,2023-02-26,1,0.0,One-time
+CUST-00278,David,James,OR,Georgetown,US,60789,Y,2018-09-05,1,27.96,One-time
+CUST-00279,Brandon,Torres,MD,Fairview,US,63713,Y,2024-08-02,1,48.18,One-time
+CUST-00280,Jennifer,Taylor,TX,San Antonio,US,14099,N,2021-11-13,3,129.69,Repeat
+CUST-00281,Wei,Roberts,NJ,Paterson,US,78920,Y,2017-02-08,1,29.77,One-time
+CUST-00282,Rachel,Alvarez,MA,Boston,US,11715,Y,2016-07-20,1,58.01,One-time
+CUST-00283,William,Reyes,FL,Miami,US,57307,N,2021-07-05,0,0.0,One-time
+CUST-00284,Harper,Price,MT,Springfield,US,90862,N,2020-08-30,1,9.99,One-time
+CUST-00285,Elizabeth,Ramirez,CA,Sacramento,US,22729,N,2016-10-15,0,0.0,One-time
+CUST-00286,Brenda,James,NY,Buffalo,US,84714,Y,2020-04-27,1,74.58,One-time
+CUST-00287,Isabella,Wilson,FL,Fort Lauderdale,US,56918,Y,2024-05-26,0,0.0,One-time
+CUST-00288,Lisa,White,MN,Georgetown,US,62632,N,2020-10-15,0,0.0,One-time
+CUST-00289,Jeffrey,Rivera,WI,Fairview,US,82100,N,2021-12-26,0,0.0,One-time
+CUST-00290,Aisha,Parker,IL,Springfield,US,89745,Y,2020-03-02,7,476.32,VIP
+CUST-00291,Isabella,Allen,WA,Tacoma,US,69297,N,2020-03-16,0,0.0,One-time
+CUST-00292,Andrew,Kim,GA,Atlanta,US,77844,Y,2024-02-22,4,291.08,Repeat
+CUST-00293,Mark,Ramirez,NE,Fairview,US,12844,Y,2016-01-27,1,73.54,One-time
+CUST-00294,Stephen,Rogers,MT,Georgetown,US,84798,Y,2025-03-22,0,0.0,One-time
+CUST-00295,Karen,Moore,TX,Dallas,US,58114,Y,2016-06-03,1,74.06,One-time
+CUST-00296,Barbara,Kelly,NY,Albany,US,84588,N,2018-11-15,0,0.0,One-time
+CUST-00297,Kathleen,Thompson,AL,Centerville,US,85527,Y,2024-02-11,1,21.36,One-time
+CUST-00298,Sophia,Kelly,TX,Austin,US,20286,Y,2023-03-15,1,32.35,One-time
+CUST-00299,Laura,Turner,NH,Springfield,US,39716,Y,2019-10-01,0,0.0,One-time
+CUST-00300,Diego,Carter,IA,Springfield,US,49948,Y,2016-02-16,1,27.71,One-time
+CUST-00301,Nicholas,Hughes,PA,Pittsburgh,US,30079,Y,2022-05-02,3,186.6,Repeat
+CUST-00302,Ethan,Kim,AL,Georgetown,US,76155,N,2020-05-28,2,252.82,Repeat
+CUST-00303,Thomas,Baker,NC,Charlotte,US,72371,Y,2024-10-25,4,336.25,Repeat
+CUST-00304,Rebecca,Cook,CA,San Francisco,US,27088,Y,2020-06-23,0,0.0,One-time
+CUST-00305,Priya,Kelly,NJ,Jersey City,US,83553,Y,2018-03-22,3,186.78,Repeat
+CUST-00306,Paul,Parker,LA,Fairview,US,99749,Y,2018-10-05,1,143.57,One-time
+CUST-00307,George,Hall,CA,San Diego,US,52039,Y,2023-07-14,0,0.0,One-time
+CUST-00308,Brian,Ward,MO,Centerville,US,91681,Y,2024-08-18,4,453.05,Repeat
+CUST-00309,Maria,Mitchell,CA,San Diego,US,21247,Y,2025-03-05,3,98.77,Repeat
+CUST-00310,Andrew,Johnson,CA,San Jose,US,24585,N,2022-12-18,1,34.98,One-time
+CUST-00311,Jonathan,Ramirez,MI,Grand Rapids,US,81620,Y,2019-09-21,1,13.62,One-time
+CUST-00312,Charles,Ruiz,NY,New York,US,59362,Y,2021-06-01,2,219.58,Repeat
+CUST-00313,Linda,Torres,WI,Riverside,US,90997,Y,2016-06-27,3,300.5,Repeat
+CUST-00314,Hiroshi,Wright,MI,Ann Arbor,US,24141,Y,2016-02-04,3,263.85,Repeat
+CUST-00315,Edward,Rogers,MS,Springfield,US,51347,Y,2023-04-13,1,41.66,One-time
+CUST-00316,Nicholas,Collins,CO,Georgetown,US,12816,Y,2016-12-26,3,68.17,Repeat
+CUST-00317,Ronald,Lee,ME,Springfield,US,55453,Y,2019-06-02,0,0.0,One-time
+CUST-00318,Nicholas,Scott,IL,Chicago,US,92023,Y,2019-05-23,1,20.22,One-time
+CUST-00319,Nicole,Scott,OH,Cleveland,US,29884,N,2025-02-19,0,0.0,One-time
+CUST-00320,Edward,Gutierrez,GA,Savannah,US,64700,Y,2017-07-16,6,652.94,VIP
+CUST-00321,Kevin,Edwards,TX,Fort Worth,US,27271,N,2019-07-03,0,0.0,One-time
+CUST-00322,Betty,Moore,TX,Dallas,US,78656,N,2022-01-26,0,0.0,One-time
+CUST-00323,Larry,Lee,NC,Greensboro,US,18888,Y,2024-08-20,0,0.0,One-time
+CUST-00324,Charles,Brown,DE,Fairview,US,64269,Y,2017-04-29,0,0.0,One-time
+CUST-00325,Aisha,Scott,PA,Pittsburgh,US,34632,N,2024-05-12,4,383.65,Repeat
+CUST-00326,Brandon,Wright,FL,Fort Lauderdale,US,84323,N,2024-07-19,2,126.67,Repeat
+CUST-00327,Melissa,Hernandez,CO,Centerville,US,27575,N,2018-08-03,1,303.69,One-time
+CUST-00328,Nancy,Roberts,CO,Centerville,US,72108,Y,2023-12-26,4,138.07,Repeat
+CUST-00329,Mary,Wright,FL,Jacksonville,US,39170,Y,2016-05-12,2,78.03,Repeat
+CUST-00330,Daniel,Cruz,WY,Georgetown,US,74217,Y,2024-06-30,0,0.0,One-time
+CUST-00331,Amelia,Garcia,AR,Georgetown,US,59856,Y,2018-10-07,0,0.0,One-time
+CUST-00332,Jonathan,Ortiz,GA,Atlanta,US,78242,Y,2024-04-29,2,126.56,Repeat
+CUST-00333,Ashley,Gutierrez,MI,Lansing,US,15144,N,2016-06-22,0,0.0,One-time
+CUST-00334,Matthew,Nguyen,VA,Arlington,US,62171,N,2023-01-27,1,107.84,One-time
+CUST-00335,Jason,Nguyen,OR,Georgetown,US,17149,Y,2019-03-17,1,178.43,One-time
+CUST-00336,Cynthia,Lopez,WV,Georgetown,US,24833,N,2021-03-13,1,74.42,One-time
+CUST-00337,Ronald,Evans,MA,Springfield,US,69098,Y,2023-10-22,5,350.76,VIP
+CUST-00338,Ryan,Lopez,MI,Ann Arbor,US,52477,N,2023-12-28,2,242.6,Repeat
+CUST-00339,Sophia,Thomas,HI,Springfield,US,24963,Y,2024-12-06,0,0.0,One-time
+CUST-00340,Stephanie,Rogers,IN,Georgetown,US,30958,Y,2016-12-15,1,310.15,One-time
+CUST-00341,Kevin,Reed,OH,Cleveland,US,31249,Y,2024-08-12,1,40.43,One-time
+CUST-00342,Michelle,Flores,FL,Jacksonville,US,47851,Y,2023-12-26,2,293.32,Repeat
+CUST-00343,James,Richardson,TX,Dallas,US,11600,N,2017-06-22,1,31.9,One-time
+CUST-00344,Rachel,Murphy,KS,Riverside,US,38426,N,2022-02-04,1,68.26,One-time
+CUST-00345,Scott,Kim,MI,Detroit,US,42075,Y,2020-08-06,2,244.89,Repeat
+CUST-00346,Anthony,Miller,NY,Buffalo,US,29432,Y,2023-01-18,7,748.56,VIP
+CUST-00347,Fatima,Kelly,IL,Springfield,US,53399,N,2017-08-18,3,140.77,Repeat
+CUST-00348,Christopher,Gray,CA,San Jose,US,90096,N,2020-09-03,3,212.89,Repeat
+CUST-00349,Daniel,Collins,MN,Georgetown,US,57210,N,2022-06-02,2,142.94,Repeat
+CUST-00350,Edward,Rodriguez,CA,San Francisco,US,82151,Y,2019-05-10,2,315.28,Repeat
+CUST-00351,Emily,Nelson,MI,Lansing,US,78766,N,2017-05-14,2,619.03,Repeat
+CUST-00352,Sophia,Watson,FL,Fort Lauderdale,US,21491,Y,2016-08-26,0,0.0,One-time
+CUST-00353,Andrew,Diaz,MN,Georgetown,US,51482,N,2024-11-02,0,0.0,One-time
+CUST-00354,Thomas,Ward,MA,Cambridge,US,78118,Y,2022-12-27,0,0.0,One-time
+CUST-00355,Brandon,Robinson,NJ,Trenton,US,35369,Y,2025-01-22,1,108.32,One-time
+CUST-00356,Mason,Clark,CA,Sacramento,US,64346,N,2023-01-05,1,65.31,One-time
+CUST-00357,Margaret,Johnson,IL,Naperville,US,46913,N,2022-04-14,4,418.17,Repeat
+CUST-00358,Carol,Smith,CA,Los Angeles,US,99893,Y,2019-05-14,0,0.0,One-time
+CUST-00359,Patricia,Thompson,GA,Savannah,US,53321,Y,2022-05-19,0,0.0,One-time
+CUST-00360,John,Chavez,ME,Riverside,US,73110,N,2021-05-16,1,29.77,One-time
+CUST-00361,Amy,Evans,MI,Detroit,US,78298,N,2022-01-08,4,229.46,Repeat
+CUST-00362,Robert,Clark,AL,Georgetown,US,99848,Y,2019-07-16,2,119.8,Repeat
+CUST-00363,Karen,Scott,NH,Springfield,US,54453,Y,2024-12-03,1,54.16,One-time
+CUST-00364,Rachel,Roberts,IN,Riverside,US,88012,Y,2025-06-12,0,0.0,One-time
+CUST-00365,Kenneth,Price,OK,Springfield,US,45585,N,2019-06-16,0,0.0,One-time
+CUST-00366,Joshua,Ramirez,NJ,Trenton,US,32939,Y,2018-08-31,3,288.02,Repeat
+CUST-00367,Barbara,Cruz,OK,Georgetown,US,13268,Y,2024-09-20,2,238.09,Repeat
+CUST-00368,Kathleen,Ortiz,WV,Fairview,US,52904,Y,2017-09-23,2,52.32,Repeat
+CUST-00369,Eric,Gray,MS,Riverside,US,36894,N,2025-03-21,1,75.87,One-time
+CUST-00370,Joseph,Smith,MI,Ann Arbor,US,15771,N,2024-01-02,0,0.0,One-time
+CUST-00371,Jennifer,Wilson,CO,Georgetown,US,96374,Y,2016-12-22,0,0.0,One-time
+CUST-00372,Anthony,Adams,CA,San Diego,US,35237,Y,2024-07-03,8,624.16,VIP
+CUST-00373,Jessica,Wright,WA,Spokane,US,30643,Y,2024-08-31,4,262.98,Repeat
+CUST-00374,Susan,Clark,CA,Sacramento,US,55916,Y,2022-12-26,0,0.0,One-time
+CUST-00375,Samantha,Young,NY,Buffalo,US,19337,N,2023-11-25,0,0.0,One-time
+CUST-00376,Thomas,Brown,ID,Centerville,US,98538,Y,2022-01-23,5,207.18,VIP
+CUST-00377,Daniel,Price,OH,Toledo,US,90781,Y,2016-12-18,0,0.0,One-time
+CUST-00378,Fatima,Morgan,IL,Chicago,US,71039,N,2018-03-22,2,550.63,Repeat
+CUST-00379,Amy,Gonzalez,CA,San Francisco,US,50683,N,2024-12-30,0,0.0,One-time
+CUST-00380,Mark,Jackson,SC,Georgetown,US,43823,Y,2021-03-21,1,28.36,One-time
+CUST-00381,Kevin,Adams,GA,Macon,US,73898,N,2023-11-05,7,748.03,VIP
+CUST-00382,Lisa,Torres,MI,Ann Arbor,US,89225,Y,2019-12-10,0,0.0,One-time
+CUST-00383,Harper,Wilson,VA,Norfolk,US,82895,N,2020-07-19,3,183.12,Repeat
+CUST-00384,Katherine,Evans,OK,Riverside,US,91379,Y,2021-12-22,5,245.45,VIP
+CUST-00385,Amanda,Clark,TX,El Paso,US,87459,Y,2021-05-29,0,0.0,One-time
+CUST-00386,Pamela,Ruiz,VT,Riverside,US,32686,N,2022-05-12,2,256.2,Repeat
+CUST-00387,Gary,Anderson,CA,Sacramento,US,88128,Y,2023-12-25,1,19.42,One-time
+CUST-00388,Michelle,Phillips,AZ,Phoenix,US,88415,Y,2025-03-21,5,180.66,VIP
+CUST-00389,Carol,Murphy,UT,Springfield,US,21866,N,2024-08-25,6,549.92,VIP
+CUST-00390,Aisha,Smith,TX,San Antonio,US,96623,N,2022-07-06,1,71.8,One-time
+CUST-00391,Cynthia,Sanchez,WA,Spokane,US,99327,Y,2020-05-16,1,123.72,One-time
+CUST-00392,Joshua,Parker,PA,Allentown,US,21703,,2024-11-27,0,0.0,One-time
+CUST-00393,Thomas,Nguyen,TN,Nashville,US,58394,Y,2021-09-21,3,59.47,Repeat
+CUST-00394,Melissa,Anderson,ND,Fairview,US,14087,N,2016-01-04,1,29.87,One-time
+CUST-00395,Olivia,Carter,MN,Centerville,US,60012,Y,2020-06-02,0,0.0,One-time
+CUST-00396,Matthew,Bailey,FL,Jacksonville,US,57223,Y,2017-12-11,0,0.0,One-time
+CUST-00397,Mary,Martinez,TX,El Paso,US,12058,Y,2023-07-07,5,310.41,VIP
+CUST-00398,Sarah,Hernandez,NE,Riverside,US,94180,Y,2023-05-18,0,0.0,One-time
+CUST-00399,Jason,Richardson,AR,Riverside,US,69558,N,2024-11-05,0,0.0,One-time
+CUST-00400,Mark,White,AZ,Scottsdale,US,89242,Y,2021-01-17,2,284.67,Repeat
+CUST-00401,Nicholas,Wright,NJ,Paterson,US,81587,Y,2024-03-12,0,0.0,One-time
+CUST-00402,Liam,Mitchell,CA,Los Angeles,US,86056,Y,2016-06-04,0,0.0,One-time
+CUST-00403,Brenda,Scott,MN,Centerville,US,77757,N,2017-08-04,6,471.46,VIP
+CUST-00404,Diego,James,NE,Springfield,US,99662,Y,2016-12-28,3,291.4,Repeat
+CUST-00405,Amanda,Morgan,CT,Springfield,US,71455,Y,2019-07-03,2,181.66,Repeat
+CUST-00406,Sharon,Rivera,WV,Fairview,US,47907,N,2022-06-08,4,401.11,Repeat
+CUST-00407,Sophia,Reed,MN,Fairview,US,18050,N,2022-09-13,2,314.09,Repeat
+CUST-00408,Donna,Richardson,MA,Boston,US,47593,Y,2022-06-04,1,43.13,One-time
+CUST-00409,Emily,Allen,TX,San Antonio,US,90713,N,2016-11-10,4,163.48,Repeat
+CUST-00410,Rachel,Thompson,KS,Georgetown,US,29809,N,2016-02-28,1,115.66,One-time
+CUST-00411,Grace,Walker,OH,Toledo,US,33699,Y,2017-12-19,0,0.0,One-time
+CUST-00412,Charles,Kim,AR,Riverside,US,75004,N,2019-11-05,0,0.0,One-time
+CUST-00413,Jeffrey,Brooks,GA,Savannah,US,37637,Y,2020-04-18,1,174.0,One-time
+CUST-00414,Ethan,Anderson,NV,Springfield,US,31967,Y,2016-08-10,0,0.0,One-time
+CUST-00415,Ethan,Morgan,MI,Grand Rapids,US,59781,N,2021-05-04,0,0.0,One-time
+CUST-00416,Laura,Johnson,OH,Cincinnati,US,68827,Y,2018-12-11,2,568.01,Repeat
+CUST-00417,Jennifer,Gonzalez,PA,Allentown,US,66595,N,2021-12-11,0,0.0,One-time
+CUST-00418,Paul,Gonzalez,MO,Fairview,US,95766,Y,2019-01-21,1,84.49,One-time
+CUST-00419,Sophia,Gray,MI,Grand Rapids,US,78151,N,2023-07-28,2,157.96,Repeat
+CUST-00420,Mary,Gray,MN,Springfield,US,18906,Y,2018-01-06,2,67.09,Repeat
+CUST-00421,Brian,Lewis,TX,El Paso,US,47132,N,2017-03-01,2,120.71,Repeat
+CUST-00422,Scott,James,CA,San Diego,US,88562,Y,2022-12-12,1,56.33,One-time
+CUST-00423,Rachel,Taylor,SC,Centerville,US,96034,Y,2017-05-06,0,0.0,One-time
+CUST-00424,Joseph,Hughes,MO,Riverside,US,43205,N,2025-01-02,5,501.04,VIP
+CUST-00425,Emily,Diaz,WI,Fairview,US,43729,Y,2016-11-06,2,99.29,Repeat
+CUST-00426,Stephanie,Nelson,CA,Los Angeles,US,43847,Y,2024-09-18,2,197.97,Repeat
+CUST-00427,Betty,Ward,NY,Albany,US,33388,Y,2020-12-09,1,13.26,One-time
+CUST-00428,Margaret,Ward,TX,El Paso,US,23926,N,2022-01-23,1,129.12,One-time
+CUST-00429,Elizabeth,Kelly,SC,Fairview,US,68442,Y,2017-02-27,3,150.5,Repeat
+CUST-00430,John,Bennett,NJ,Paterson,US,44922,Y,2023-04-28,6,305.55,VIP
+CUST-00431,Emma,Price,IL,Peoria,US,72670,Y,2020-05-21,0,0.0,One-time
+CUST-00432,David,Cooper,IA,Riverside,US,10433,N,2024-10-03,1,113.7,One-time
+CUST-00433,Larry,Morgan,MN,Fairview,US,53704,Y,2024-09-29,0,0.0,One-time
+CUST-00434,Wei,Lopez,GA,Augusta,US,80074,N,2023-02-02,1,87.38,One-time
+CUST-00435,Lucas,Nguyen,IL,Naperville,US,33149,Y,2025-06-07,1,42.64,One-time
+CUST-00436,Grace,Roberts,ND,Springfield,US,92656,Y,2023-05-30,1,109.5,One-time
+CUST-00437,Matthew,Moore,NJ,Newark,US,35309,Y,2023-02-04,5,319.28,VIP
+CUST-00438,David,Cooper,DC,Fairview,US,75494,Y,2018-09-03,2,108.14,Repeat
+CUST-00439,Robert,Jones,NV,Fairview,US,17347,N,2021-01-14,1,36.69,One-time
+CUST-00440,Priya,Bennett,AL,Georgetown,US,70079,Y,2020-07-18,1,30.93,One-time
+CUST-00441,Justin,Robinson,MS,Springfield,US,14833,Y,2022-01-06,1,279.36,One-time
+CUST-00442,Jose,Garcia,NJ,Jersey City,US,95037,Y,2016-03-19,4,129.9,Repeat
+CUST-00443,Harper,Gonzalez,FL,Jacksonville,US,90114,N,2016-07-23,1,196.81,One-time
+CUST-00444,Joseph,Murphy,MA,Worcester,US,18271,N,2025-03-03,1,130.5,One-time
+CUST-00445,Mason,Gray,NC,Durham,US,52498,N,2025-02-05,5,405.42,VIP
+CUST-00446,Harper,Ramirez,MD,Springfield,US,87736,Y,2022-02-13,3,202.13,Repeat
+CUST-00447,Sharon,Perez,CA,Fresno,US,58487,Y,2019-01-26,0,0.0,One-time
+CUST-00448,Richard,Watson,NC,Durham,US,30677,Y,2022-07-11,3,373.74,Repeat
+CUST-00449,Barbara,Price,NJ,Trenton,US,64555,Y,2016-01-27,0,0.0,One-time
+CUST-00450,Anthony,Jackson,OK,Fairview,US,78562,N,2021-05-03,0,0.0,One-time
+CUST-00451,John,Kim,NY,Buffalo,US,75521,Y,2017-12-15,1,26.03,One-time
+CUST-00452,Brian,Turner,CA,Los Angeles,US,83100,N,2025-04-08,10,558.96,VIP
+CUST-00453,Jose,Campbell,TX,Fort Worth,US,76524,N,2021-12-11,3,493.17,Repeat
+CUST-00454,Michael,Harris,OR,Springfield,US,29558,Y,2023-05-24,2,267.63,Repeat
+CUST-00455,Christopher,Bennett,ND,Springfield,US,17081,Y,2021-04-27,0,0.0,One-time
+CUST-00456,Brandon,Collins,PA,Philadelphia,US,23686,Y,2020-11-15,2,85.66,Repeat
+CUST-00457,Patricia,Morales,ME,Georgetown,US,25212,Y,2017-12-21,3,403.91,Repeat
+CUST-00458,Carol,Turner,NY,Buffalo,US,98716,Y,2020-12-26,0,0.0,One-time
+CUST-00459,Richard,Walker,NY,Albany,US,36208,Y,2017-03-27,3,179.58,Repeat
+CUST-00460,Michael,Parker,FL,Orlando,US,38333,Y,2021-04-13,1,77.88,One-time
+CUST-00461,Ryan,Harris,MI,Ann Arbor,US,45349,Y,2020-05-05,5,194.49,VIP
+CUST-00462,Emily,Moore,TX,Houston,US,71018,Y,2023-10-06,0,0.0,One-time
+CUST-00463,Donna,Cox,FL,Orlando,US,93623,Y,2019-11-08,0,0.0,One-time
+CUST-00464,Sandra,Lopez,WV,Centerville,US,78389,N,2022-06-25,0,0.0,One-time
+CUST-00465,Amy,Scott,DC,Springfield,US,66113,Y,2022-08-20,0,0.0,One-time
+CUST-00466,Mark,Ramos,NY,Buffalo,US,85196,Y,2019-09-02,2,26.05,Repeat
+CUST-00467,Jacob,Cook,GA,Atlanta,US,65797,Y,2016-06-30,0,0.0,One-time
+CUST-00468,Richard,Edwards,NJ,Paterson,US,41524,N,2024-12-12,3,140.12,Repeat
+CUST-00469,Margaret,Taylor,KY,Fairview,US,48769,N,2023-10-10,4,227.72,Repeat
+CUST-00470,Michelle,Lee,DC,Centerville,US,84760,Y,2016-03-06,0,0.0,One-time
+CUST-00471,Sarah,Price,CA,San Francisco,US,34241,Y,2021-02-06,2,29.77,Repeat
+CUST-00472,James,Watson,OH,Columbus,US,60446,N,2021-03-16,0,0.0,One-time
+CUST-00473,Ethan,Wright,IL,Naperville,US,99740,Y,2016-05-13,1,198.37,One-time
+CUST-00474,Emma,Gray,NM,Fairview,US,16758,N,2024-04-01,3,537.16,Repeat
+CUST-00475,George,Thompson,OH,Columbus,US,83499,Y,2022-12-10,1,169.85,One-time
+CUST-00476,Joseph,Wood,FL,Jacksonville,US,86037,Y,2019-10-03,0,0.0,One-time
+CUST-00477,Mark,Adams,MN,Fairview,US,45043,N,2024-06-11,1,177.6,One-time
+CUST-00478,Brian,Edwards,NC,Durham,US,75726,Y,2016-08-11,0,0.0,One-time
+CUST-00479,Jonathan,Nguyen,TX,Austin,US,91389,Y,2023-12-17,0,0.0,One-time
+CUST-00480,David,Harris,MD,Centerville,US,21443,N,2023-10-10,4,222.44,Repeat
+CUST-00481,Elizabeth,Wilson,ID,Riverside,US,46168,N,2019-03-27,3,244.38,Repeat
+CUST-00482,Eric,Watson,TX,Houston,US,48426,N,2017-09-08,1,30.93,One-time
+CUST-00483,Sharon,Cruz,MD,Springfield,US,48209,Y,2017-06-24,4,280.88,Repeat
+CUST-00484,Eric,Chavez,CA,San Jose,US,63961,,2024-12-28,0,0.0,One-time
+CUST-00485,Katherine,Bennett,MO,Georgetown,US,81888,Y,2024-10-27,1,134.01,One-time
+CUST-00486,Michelle,Perez,PA,Allentown,US,39724,N,2017-06-24,0,0.0,One-time
+CUST-00487,Charles,Rivera,SD,Fairview,US,69759,N,2024-08-18,0,0.0,One-time
+CUST-00488,Andrew,White,TN,Memphis,US,97340,N,2017-10-20,2,130.13,Repeat
+CUST-00489,Kenneth,Kelly,TX,San Antonio,US,67788,Y,2017-04-23,4,304.56,Repeat
+CUST-00490,Fatima,Green,FL,Tampa,US,29391,N,2022-04-22,1,179.46,One-time
+CUST-00491,Jessica,Brown,WA,Bellevue,US,75459,Y,2017-10-27,0,0.0,One-time
+CUST-00492,Mason,Cooper,DE,Georgetown,US,53421,Y,2019-08-04,0,0.0,One-time
+CUST-00493,Ethan,Kelly,PA,Pittsburgh,US,84086,N,2019-04-02,0,0.0,One-time
+CUST-00494,Sophia,Morris,ME,Springfield,US,28274,N,2019-10-19,2,153.79,Repeat
+CUST-00495,Mark,Edwards,TX,Dallas,US,22121,Y,2016-04-11,0,0.0,One-time
+CUST-00496,Mark,Scott,CO,Riverside,US,12955,Y,2018-03-10,4,272.76,Repeat
+CUST-00497,Barbara,Rogers,IA,Centerville,US,35486,N,2023-08-05,2,99.02,Repeat
+CUST-00498,Fatima,Campbell,CO,Centerville,US,29391,N,2021-09-26,0,0.0,One-time
+CUST-00499,Andrew,Hall,NC,Greensboro,US,50381,Y,2020-04-30,1,63.49,One-time
+CUST-00500,Jeffrey,Turner,MS,Centerville,US,47831,Y,2016-12-24,2,354.18,Repeat
+CUST-00501,Sharon,Moore,AL,Georgetown,US,88372,N,2020-10-02,6,516.95,VIP
+CUST-00502,Brenda,Nelson,FL,Miami,US,87421,N,2021-04-28,3,402.13,Repeat
+CUST-00503,Paul,Turner,CA,San Diego,US,82851,Y,2020-08-04,1,139.26,One-time
+CUST-00504,Edward,Nguyen,AZ,Scottsdale,US,15535,Y,2017-07-14,0,0.0,One-time
+CUST-00505,Nicole,Reyes,PA,Pittsburgh,US,13517,Y,2022-07-25,2,137.86,Repeat
+CUST-00506,Aisha,Stewart,TX,Houston,US,95696,N,2019-05-14,1,54.16,One-time
+CUST-00507,Ahmed,Chavez,PA,Pittsburgh,US,13728,Y,2018-01-04,3,301.36,Repeat
+CUST-00508,George,Howard,NY,Albany,US,84130,Y,2016-09-30,1,18.37,One-time
+CUST-00509,Ahmed,Thomas,NY,Rochester,US,77177,Y,2023-09-10,0,0.0,One-time
+CUST-00510,Linda,Jackson,CA,San Jose,US,70429,Y,2018-11-29,2,137.34,Repeat
+CUST-00511,George,Turner,TX,El Paso,US,56659,Y,2017-10-30,2,98.77,Repeat
+CUST-00512,Emma,Harris,PA,Pittsburgh,US,22387,N,2023-03-02,0,0.0,One-time
+CUST-00513,Maria,Hill,FL,Tampa,US,99842,N,2019-08-14,0,0.0,One-time
+CUST-00514,Charles,Johnson,OH,Cleveland,US,77917,Y,2021-12-28,4,306.59,Repeat
+CUST-00515,Christopher,Wilson,OR,Riverside,US,30257,Y,2020-08-14,1,11.77,One-time
+CUST-00516,Brandon,Ruiz,NV,Georgetown,US,79742,N,2024-11-30,1,25.31,One-time
+CUST-00517,Ryan,Martinez,MN,Springfield,US,27200,Y,2024-12-31,2,163.03,Repeat
+CUST-00518,Sarah,Cruz,NJ,Trenton,US,32571,,2019-06-30,0,0.0,One-time
+CUST-00519,Thomas,Ruiz,CA,San Diego,US,39697,Y,2025-02-18,1,30.08,One-time
+CUST-00520,Mia,Anderson,FL,Miami,US,12464,Y,2016-11-17,1,270.06,One-time
+CUST-00521,John,James,KY,Georgetown,US,87748,Y,2016-06-23,4,486.74,Repeat
+CUST-00522,Joshua,Bennett,TX,Houston,US,22648,Y,2018-11-02,0,0.0,One-time
+CUST-00523,Betty,White,NH,Fairview,US,13835,Y,2018-04-21,3,143.4,Repeat
+CUST-00524,Brian,Rivera,IA,Riverside,US,75619,N,2019-02-10,1,69.48,One-time
+CUST-00525,Richard,Howard,TN,Nashville,US,79315,Y,2021-08-30,3,317.13,Repeat
+CUST-00526,Ethan,Morgan,FL,Miami,US,22934,Y,2019-02-28,1,70.66,One-time
+CUST-00527,Grace,Ramos,NH,Riverside,US,67627,Y,2023-12-08,1,24.09,One-time
+CUST-00528,Edward,Diaz,TX,San Antonio,US,77403,Y,2025-05-12,4,378.4,Repeat
+CUST-00529,Joseph,Gutierrez,TX,San Antonio,US,74987,Y,2019-07-11,0,0.0,One-time
+CUST-00530,William,Adams,SC,Centerville,US,25167,N,2022-04-01,1,76.29,One-time
+CUST-00531,Jeffrey,Lewis,MI,Lansing,US,48088,Y,2024-04-03,0,0.0,One-time
+CUST-00532,Jacob,Gray,NC,Greensboro,US,33500,N,2016-10-12,6,476.31,VIP
+CUST-00533,Jeffrey,Gutierrez,MD,Springfield,US,25626,Y,2023-07-15,2,190.16,Repeat
+CUST-00534,Mason,Perez,GA,Atlanta,US,57672,N,2022-08-15,2,305.99,Repeat
+CUST-00535,Rebecca,Thomas,IL,Naperville,US,65666,N,2022-09-02,1,53.13,One-time
+CUST-00536,Katherine,Wright,NY,Albany,US,56674,N,2024-01-01,0,0.0,One-time
+CUST-00537,Emma,Scott,CO,Riverside,US,69589,N,2020-07-14,2,281.33,Repeat
+CUST-00538,Sarah,Brown,NY,New York,US,16927,Y,2021-07-29,1,287.46,One-time
+CUST-00539,Edward,Cox,NJ,Trenton,US,30019,N,2016-04-19,0,0.0,One-time
+CUST-00540,Ethan,Gutierrez,TN,Chattanooga,US,71082,Y,2024-07-10,3,104.88,Repeat
+CUST-00541,Pamela,Baker,WI,Georgetown,US,81646,Y,2021-07-01,2,278.78,Repeat
+CUST-00542,Jessica,Roberts,KY,Centerville,US,51229,N,2020-10-28,0,0.0,One-time
+CUST-00543,Nicole,James,NC,Greensboro,US,31514,Y,2016-05-27,0,0.0,One-time
+CUST-00544,Mia,Anderson,TX,Fort Worth,US,98476,Y,2024-01-10,2,71.59,Repeat
+CUST-00545,Jacob,Bailey,AZ,Tucson,US,76412,Y,2022-01-18,3,238.34,Repeat
+CUST-00546,Brandon,Gray,NY,Rochester,US,47281,N,2022-08-17,1,24.09,One-time
+CUST-00547,George,Hall,CA,Fresno,US,86541,Y,2016-07-03,5,500.29,VIP
+CUST-00548,Jason,Hall,ID,Fairview,US,63992,Y,2019-10-29,1,58.94,One-time
+CUST-00549,Michelle,Ramos,WI,Springfield,US,18585,Y,2018-10-11,1,48.58,One-time
+CUST-00550,Carol,Jones,TX,Austin,US,96214,Y,2017-11-26,5,502.11,VIP
+CUST-00551,Grace,Stewart,AZ,Phoenix,US,51486,Y,2020-09-21,1,70.44,One-time
+CUST-00552,Gary,Gonzalez,OH,Cleveland,US,54035,Y,2022-06-03,2,99.95,Repeat
+CUST-00553,Brandon,Hill,CT,Fairview,US,67146,Y,2023-06-26,2,54.34,Repeat
+CUST-00554,Jonathan,Ramirez,IN,Fairview,US,44754,Y,2024-10-29,5,772.35,VIP
+CUST-00555,Jose,Lopez,DC,Georgetown,US,22416,N,2020-07-04,1,34.09,One-time
+CUST-00556,Jacob,Diaz,NY,Buffalo,US,55523,N,2022-05-09,0,0.0,One-time
+CUST-00557,Joshua,Parker,MO,Georgetown,US,51071,Y,2019-05-21,5,642.11,VIP
+CUST-00558,Fatima,Peterson,GA,Savannah,US,12438,Y,2023-01-03,0,0.0,One-time
+CUST-00559,Margaret,James,VA,Arlington,US,45118,Y,2018-02-03,2,109.99,Repeat
+CUST-00560,Laura,Reed,WA,Seattle,US,78454,N,2022-11-21,3,250.3,Repeat
+CUST-00561,Maria,Hill,MI,Lansing,US,63773,Y,2018-09-11,1,19.25,One-time
+CUST-00562,Timothy,Wright,NV,Fairview,US,94678,Y,2016-09-20,2,251.75,Repeat
+CUST-00563,Joseph,Martin,MD,Riverside,US,13631,Y,2018-08-25,2,93.21,Repeat
+CUST-00564,Laura,Diaz,UT,Springfield,US,36475,Y,2021-03-16,1,205.29,One-time
+CUST-00565,Emily,James,TX,Fort Worth,US,33066,N,2018-11-24,0,0.0,One-time
+CUST-00566,Robert,Davis,CA,Los Angeles,US,51144,Y,2024-02-07,1,43.32,One-time
+CUST-00567,Fatima,James,AR,Springfield,US,62021,N,2020-07-25,0,0.0,One-time
+CUST-00568,Samantha,Cook,AL,Springfield,US,78414,Y,2017-07-29,1,0.0,One-time
+CUST-00569,Steven,Murphy,MA,Boston,US,41205,N,2024-09-09,1,22.81,One-time
+CUST-00570,Justin,Roberts,OR,Riverside,US,65426,Y,2019-07-07,2,57.75,Repeat
+CUST-00571,Jeffrey,Evans,TX,Dallas,US,87264,N,2018-05-26,6,365.62,VIP
+CUST-00572,Kenneth,Cooper,WA,Bellevue,US,72240,N,2023-11-05,0,0.0,One-time
+CUST-00573,George,Stewart,ND,Fairview,US,50392,N,2024-10-17,3,280.48,Repeat
+CUST-00574,Mason,James,ND,Springfield,US,98027,Y,2022-10-17,1,34.22,One-time
+CUST-00575,Grace,Campbell,AZ,Phoenix,US,80111,Y,2019-06-20,0,0.0,One-time
+CUST-00576,Ronald,Allen,KS,Fairview,US,21829,Y,2020-05-10,2,313.31,Repeat
+CUST-00577,Christopher,Cruz,KY,Fairview,US,94466,Y,2019-05-03,1,31.9,One-time
+CUST-00578,Gary,Stewart,CA,Fresno,US,64127,N,2016-11-24,1,111.53,One-time
+CUST-00579,Richard,Lee,IL,Springfield,US,76366,N,2020-09-26,2,165.15,Repeat
+CUST-00580,Mason,Adams,GA,Macon,US,13584,N,2024-03-05,0,0.0,One-time
+CUST-00581,Harper,Chavez,MO,Riverside,US,10403,Y,2018-01-22,0,0.0,One-time
+CUST-00582,Joseph,Lee,IN,Riverside,US,77681,Y,2019-07-09,0,0.0,One-time
+CUST-00583,Scott,Mendoza,OR,Centerville,US,51864,N,2023-04-13,0,0.0,One-time
+CUST-00584,Maria,Ramos,MS,Fairview,US,46935,Y,2017-06-30,6,1296.15,VIP
+CUST-00585,Edward,Kelly,GA,Savannah,US,12717,Y,2018-01-15,1,226.05,One-time
+CUST-00586,Sandra,Lopez,ME,Centerville,US,35987,Y,2023-04-04,2,131.99,Repeat
+CUST-00587,Jason,Kim,KS,Fairview,US,29562,Y,2016-07-22,1,43.13,One-time
+CUST-00588,Olivia,Ortiz,OH,Toledo,US,69468,Y,2022-05-12,0,0.0,One-time
+CUST-00589,Matthew,Wright,NJ,Trenton,US,74771,N,2018-07-08,1,40.54,One-time
+CUST-00590,Andrew,Gray,NC,Raleigh,US,64831,Y,2018-04-26,5,629.46,VIP
+CUST-00591,Kimberly,Walker,OK,Georgetown,US,69110,Y,2016-04-27,0,0.0,One-time
+CUST-00592,William,Johnson,OH,Toledo,US,27459,Y,2023-09-03,2,199.91,Repeat
+CUST-00593,Olivia,Roberts,SD,Centerville,US,88275,N,2020-06-16,5,148.52,VIP
+CUST-00594,Donald,Stewart,TX,Dallas,US,89478,Y,2016-08-28,1,10.4,One-time
+CUST-00595,Jennifer,Smith,ND,Fairview,US,76131,N,2022-09-16,0,0.0,One-time
+CUST-00596,Thomas,Bailey,PA,Philadelphia,US,86085,N,2020-06-04,4,271.28,Repeat
+CUST-00597,Amy,Taylor,FL,Miami,US,51591,N,2021-07-11,1,462.65,One-time
+CUST-00598,Jennifer,Taylor,NC,Durham,US,46831,Y,2018-12-02,0,0.0,One-time
+CUST-00599,Kimberly,Ward,ME,Fairview,US,77760,N,2019-03-04,1,24.09,One-time
+CUST-00600,Gary,Martin,ID,Georgetown,US,96169,N,2019-07-16,2,59.71,Repeat
+CUST-00601,Sandra,White,NC,Charlotte,US,71636,Y,2018-02-12,2,89.89,Repeat
+CUST-00602,Angela,Garcia,SC,Centerville,US,56729,Y,2020-11-22,1,0.0,One-time
+CUST-00603,Noah,Jackson,AZ,Phoenix,US,55823,Y,2021-02-17,2,449.37,Repeat
+CUST-00604,Isabella,Rogers,MS,Fairview,US,83825,N,2018-01-09,4,653.52,Repeat
+CUST-00605,James,Ortiz,MA,Worcester,US,64580,N,2022-07-18,2,25.59,Repeat
+CUST-00606,Kevin,Brown,NY,Rochester,US,99300,N,2021-08-02,0,0.0,One-time
+CUST-00607,Susan,Adams,TX,San Antonio,US,13784,Y,2020-03-10,5,373.86,VIP
+CUST-00608,Diego,Wright,NV,Georgetown,US,96246,Y,2023-05-25,7,441.02,VIP
+CUST-00609,Cynthia,Adams,SD,Georgetown,US,26950,Y,2023-05-11,3,227.72,Repeat
+CUST-00610,Linda,Martinez,CA,Sacramento,US,88943,Y,2023-03-21,0,0.0,One-time
+CUST-00611,Lucas,Phillips,GA,Atlanta,US,12688,Y,2017-12-30,0,0.0,One-time
+CUST-00612,Wei,Wood,TX,San Antonio,US,25807,Y,2024-09-27,3,100.46,Repeat
+CUST-00613,Michelle,Mendoza,CT,Georgetown,US,27208,N,2024-04-02,1,37.34,One-time
+CUST-00614,Gary,Edwards,TX,Austin,US,72447,Y,2020-02-14,4,276.48,Repeat
+CUST-00615,Deborah,Ward,CO,Riverside,US,66899,N,2017-01-04,1,0.0,One-time
+CUST-00616,Amy,Gray,CA,San Diego,US,94883,Y,2021-10-03,2,355.0,Repeat
+CUST-00617,Wei,Ortiz,TX,Houston,US,48103,Y,2021-07-21,0,0.0,One-time
+CUST-00618,Karen,Taylor,CA,Fresno,US,49375,Y,2024-12-27,1,0.0,One-time
+CUST-00619,Stephen,Martinez,VA,Virginia Beach,US,77294,Y,2019-04-25,6,292.04,VIP
+CUST-00620,Noah,Reed,NC,Greensboro,US,56590,Y,2017-01-22,0,0.0,One-time
+CUST-00621,Mason,James,CA,San Francisco,US,33534,Y,2021-08-24,0,0.0,One-time
+CUST-00622,Liam,Hill,NV,Fairview,US,86966,Y,2016-07-04,2,307.23,Repeat
+CUST-00623,Kimberly,Baker,KY,Riverside,US,37665,Y,2021-01-16,5,218.4,VIP
+CUST-00624,Carlos,Wilson,LA,Centerville,US,80041,Y,2022-10-10,0,0.0,One-time
+CUST-00625,Kathleen,Collins,GA,Macon,US,96208,Y,2016-02-24,1,63.85,One-time
+CUST-00626,Brandon,Campbell,CO,Centerville,US,49669,Y,2021-06-16,6,378.06,VIP
+CUST-00627,Robert,Hughes,TX,San Antonio,US,13514,Y,2018-02-20,1,108.79,One-time
+CUST-00628,Diego,Morgan,MO,Riverside,US,21284,Y,2023-04-15,0,0.0,One-time
+CUST-00629,Joseph,Perez,MI,Grand Rapids,US,68361,Y,2021-04-25,2,314.78,Repeat
+CUST-00630,Betty,Nguyen,MI,Lansing,US,16674,Y,2021-01-15,2,151.84,Repeat
+CUST-00631,Sharon,Murphy,TX,El Paso,US,85846,Y,2023-12-30,1,139.91,One-time
+CUST-00632,Rebecca,Morales,AZ,Scottsdale,US,40396,Y,2019-04-06,0,0.0,One-time
+CUST-00633,Stephen,Rodriguez,WA,Tacoma,US,94974,Y,2020-09-24,0,0.0,One-time
+CUST-00634,Wei,Hall,MI,Lansing,US,67177,Y,2021-07-19,2,31.59,Repeat
+CUST-00635,Jeffrey,Robinson,PA,Pittsburgh,US,87025,Y,2018-02-26,1,191.7,One-time
+CUST-00636,Olivia,James,IL,Peoria,US,27191,N,2022-10-02,0,0.0,One-time
+CUST-00637,Carlos,Wood,AL,Fairview,US,71908,N,2020-05-17,2,228.66,Repeat
+CUST-00638,Ahmed,Lopez,IA,Centerville,US,26920,Y,2022-12-22,3,170.42,Repeat
+CUST-00639,Sharon,Murphy,TX,Dallas,US,40765,Y,2021-07-08,1,24.09,One-time
+CUST-00640,Kimberly,Rivera,CA,Fresno,US,30788,Y,2016-03-15,8,600.54,VIP
+CUST-00641,David,Baker,AR,Centerville,US,24938,Y,2021-08-24,1,37.17,One-time
+CUST-00642,Amanda,Rivera,TX,Houston,US,83010,Y,2018-07-06,6,261.35,VIP
+CUST-00643,Rachel,Bennett,TX,Houston,US,16608,N,2023-09-27,4,411.49,Repeat
+CUST-00644,Ethan,Anderson,NC,Charlotte,US,90028,N,2021-02-15,4,330.71,Repeat
+CUST-00645,Jennifer,Cook,KS,Springfield,US,31895,N,2017-02-21,2,517.23,Repeat
+CUST-00646,Donna,Price,MS,Centerville,US,76308,Y,2020-01-21,0,0.0,One-time
+CUST-00647,Kevin,Moore,MS,Springfield,US,36462,Y,2017-09-23,1,69.3,One-time
+CUST-00648,Jacob,Baker,GA,Augusta,US,76194,Y,2024-08-15,8,442.18,VIP
+CUST-00649,George,Watson,NY,Buffalo,US,29871,N,2024-01-08,0,0.0,One-time
+CUST-00650,Jason,Evans,WA,Bellevue,US,70129,Y,2024-10-29,2,86.31,Repeat
+CUST-00651,Patricia,Cruz,VA,Richmond,US,11303,Y,2023-08-26,0,0.0,One-time
+CUST-00652,Kenneth,Phillips,VA,Richmond,US,66894,Y,2016-10-12,6,383.66,VIP
+CUST-00653,Karen,Kelly,KY,Springfield,US,92786,N,2023-05-28,1,13.44,One-time
+CUST-00654,Sharon,Phillips,CT,Georgetown,US,49888,N,2021-10-30,0,0.0,One-time
+CUST-00655,Emily,Ortiz,PA,Pittsburgh,US,62944,Y,2019-11-10,1,11.7,One-time
+CUST-00656,Jose,Wood,FL,Jacksonville,US,55252,Y,2022-02-07,0,0.0,One-time
+CUST-00657,Joshua,Hernandez,OK,Springfield,US,80442,N,2020-07-14,0,0.0,One-time
+CUST-00658,Eric,Cooper,AL,Fairview,US,38014,N,2024-04-19,5,278.56,VIP
+CUST-00659,Aisha,Lee,AZ,Phoenix,US,13655,Y,2021-11-05,1,72.13,One-time
+CUST-00660,Amelia,Hill,WA,Bellevue,US,76227,Y,2018-11-25,3,94.22,Repeat
+CUST-00661,Nicholas,Rivera,CA,Los Angeles,US,16256,Y,2020-03-07,1,105.95,One-time
+CUST-00662,Mason,Smith,MT,Centerville,US,54430,Y,2021-01-12,1,186.52,One-time
+CUST-00663,Diego,Bennett,CT,Georgetown,US,88059,Y,2022-07-10,5,533.28,VIP
+CUST-00664,Olivia,Kelly,PA,Pittsburgh,US,59501,N,2023-06-24,0,0.0,One-time
+CUST-00665,Matthew,Campbell,NY,Albany,US,22843,Y,2019-09-04,2,327.85,Repeat
+CUST-00666,Linda,Diaz,NC,Raleigh,US,72423,,2020-08-14,1,84.3,One-time
+CUST-00667,Katherine,Bailey,CA,Sacramento,US,61744,Y,2023-08-04,1,17.61,One-time
+CUST-00668,Jeffrey,Ruiz,MA,Cambridge,US,64646,Y,2023-02-19,1,0.0,One-time
+CUST-00669,Ryan,Taylor,TX,El Paso,US,77264,Y,2017-06-04,1,193.28,One-time
+CUST-00670,John,Lee,TX,Fort Worth,US,58409,Y,2018-05-20,1,70.29,One-time
+CUST-00671,Deborah,Kelly,TX,Dallas,US,15279,Y,2020-07-31,1,82.74,One-time
+CUST-00672,Joshua,Nguyen,TX,Austin,US,13667,N,2019-06-02,0,0.0,One-time
+CUST-00673,Michelle,Torres,TX,San Antonio,US,33996,Y,2022-08-12,0,0.0,One-time
+CUST-00674,David,Garcia,NJ,Paterson,US,73068,Y,2017-05-16,0,0.0,One-time
+CUST-00675,Jacob,Cox,AZ,Tucson,US,28156,N,2019-10-15,0,0.0,One-time
+CUST-00676,Karen,Adams,MI,Detroit,US,91889,N,2021-01-16,2,143.89,Repeat
+CUST-00677,Amanda,Cooper,GA,Atlanta,US,97876,N,2018-08-11,0,0.0,One-time
+CUST-00678,Lisa,Price,LA,Springfield,US,84972,Y,2023-03-30,0,0.0,One-time
+CUST-00679,Jessica,Chavez,OR,Georgetown,US,21161,Y,2019-06-19,8,568.41,VIP
+CUST-00680,Larry,Gutierrez,TN,Memphis,US,72368,N,2022-06-20,0,0.0,One-time
+CUST-00681,Nancy,Williams,CA,San Jose,US,36975,N,2023-05-20,3,94.33,Repeat
+CUST-00682,Jonathan,Cox,SC,Fairview,US,62664,Y,2022-07-01,1,120.8,One-time
+CUST-00683,Nancy,Turner,NJ,Newark,US,79193,Y,2016-04-05,2,67.04,Repeat
+CUST-00684,Pamela,Perez,NY,Rochester,US,28878,N,2017-04-14,4,91.54,Repeat
+CUST-00685,Timothy,Gray,OR,Riverside,US,17721,Y,2017-09-23,1,103.75,One-time
+CUST-00686,Joshua,Roberts,IL,Chicago,US,51948,N,2016-04-21,4,321.97,Repeat
+CUST-00687,Jessica,Miller,ID,Riverside,US,41407,Y,2018-11-22,1,35.22,One-time
+CUST-00688,Nicholas,Roberts,MA,Boston,US,45296,Y,2021-07-12,3,169.88,Repeat
+CUST-00689,Patricia,Evans,MI,Grand Rapids,US,12440,Y,2020-07-25,6,791.81,VIP
+CUST-00690,Mia,Bailey,ND,Riverside,US,49926,Y,2023-07-28,2,136.34,Repeat
+CUST-00691,Anthony,Jackson,NC,Greensboro,US,80836,Y,2025-06-28,1,40.32,One-time
+CUST-00692,Nicole,Edwards,OK,Springfield,US,10131,N,2022-01-10,1,62.83,One-time
+CUST-00693,Lisa,Smith,ND,Springfield,US,73201,Y,2022-12-17,6,734.67,VIP
+CUST-00694,Brian,Watson,NY,Buffalo,US,86697,Y,2023-08-17,0,0.0,One-time
+CUST-00695,Larry,Rodriguez,PA,Allentown,US,21759,N,2017-10-23,0,0.0,One-time
+CUST-00696,Emily,Parker,TX,San Antonio,US,90012,N,2017-07-26,1,75.67,One-time
+CUST-00697,Aisha,King,CT,Centerville,US,45784,N,2023-08-25,2,64.98,Repeat
+CUST-00698,Scott,Nelson,VT,Springfield,US,27527,Y,2019-10-31,3,252.39,Repeat
+CUST-00699,Mary,Gray,CA,San Diego,US,64154,Y,2021-05-05,2,250.95,Repeat
+CUST-00700,Jonathan,Hernandez,MN,Springfield,US,80601,N,2021-06-25,4,351.42,Repeat
+CUST-00701,Jessica,Rivera,NV,Centerville,US,88815,Y,2023-07-13,0,0.0,One-time
+CUST-00702,Mary,Thomas,FL,Jacksonville,US,58559,N,2024-08-11,0,0.0,One-time
+CUST-00703,Mia,Scott,NC,Greensboro,US,35101,N,2018-06-26,2,128.04,Repeat
+CUST-00704,Mark,Robinson,TN,Chattanooga,US,57579,N,2019-05-26,0,0.0,One-time
+CUST-00705,Anthony,Smith,NJ,Jersey City,US,93681,N,2023-11-23,0,0.0,One-time
+CUST-00706,Lisa,Peterson,MS,Riverside,US,96486,Y,2022-05-20,2,105.51,Repeat
+CUST-00707,David,Ramos,MD,Riverside,US,18526,Y,2022-10-05,5,330.42,VIP
+CUST-00708,Sophia,Scott,RI,Riverside,US,98864,N,2018-07-22,3,547.67,Repeat
+CUST-00709,Steven,Mendoza,SD,Georgetown,US,69497,Y,2023-08-08,3,411.54,Repeat
+CUST-00710,Michael,Adams,NC,Durham,US,63330,N,2023-07-20,2,74.04,Repeat
+CUST-00711,Eric,Garcia,MD,Riverside,US,16155,Y,2021-03-26,7,521.55,VIP
+CUST-00712,Ronald,Harris,GA,Augusta,US,20722,Y,2021-01-12,1,65.16,One-time
+CUST-00713,Ahmed,Diaz,CT,Springfield,US,42765,Y,2024-04-08,4,379.49,Repeat
+CUST-00714,Richard,Brown,IL,Peoria,US,66616,Y,2016-09-14,1,27.71,One-time
+CUST-00715,Steven,Young,MA,Boston,US,72072,N,2023-01-09,4,104.77,Repeat
+CUST-00716,Eric,Walker,IL,Chicago,US,88638,N,2016-08-10,2,153.71,Repeat
+CUST-00717,Jessica,Hernandez,KY,Springfield,US,14370,Y,2023-01-05,1,28.48,One-time
+CUST-00718,Thomas,Davis,NE,Centerville,US,17181,Y,2023-10-11,0,0.0,One-time
+CUST-00719,Linda,Bailey,IN,Springfield,US,48655,Y,2016-09-26,1,49.08,One-time
+CUST-00720,Sandra,Kim,GA,Atlanta,US,69429,N,2022-12-03,0,0.0,One-time
+CUST-00721,Amanda,Wood,OK,Springfield,US,69516,Y,2022-12-15,1,61.28,One-time
+CUST-00722,Scott,Alvarez,MA,Boston,US,87710,Y,2017-03-18,1,22.81,One-time
+CUST-00723,Emma,Allen,FL,Tampa,US,65182,Y,2022-06-05,1,77.44,One-time
+CUST-00724,Jennifer,Davis,TN,Memphis,US,50850,Y,2018-01-31,0,0.0,One-time
+CUST-00725,Michelle,Howard,VA,Richmond,US,29321,N,2023-04-23,1,127.73,One-time
+CUST-00726,Mary,Gutierrez,CO,Georgetown,US,96203,Y,2019-04-07,1,73.16,One-time
+CUST-00727,Nicole,Miller,CA,San Francisco,US,55064,N,2021-09-08,1,82.92,One-time
+CUST-00728,Amanda,Harris,FL,Jacksonville,US,71263,N,2018-04-04,0,0.0,One-time
+CUST-00729,Kevin,Ward,IL,Springfield,US,64879,Y,2022-06-27,1,85.13,One-time
+CUST-00730,Angela,Lewis,TX,Houston,US,93724,N,2024-11-06,2,90.48,Repeat
+CUST-00731,Kathleen,Nelson,NY,Albany,US,36911,Y,2022-12-30,2,147.08,Repeat
+CUST-00732,Elizabeth,Rivera,UT,Springfield,US,82704,Y,2016-01-28,4,266.19,Repeat
+CUST-00733,Mia,Campbell,PA,Philadelphia,US,13890,Y,2018-03-07,9,970.15,VIP
+CUST-00734,Noah,Thompson,PA,Allentown,US,82680,N,2018-06-15,5,541.41,VIP
+CUST-00735,Richard,Williams,FL,Orlando,US,59666,N,2017-12-22,2,59.97,Repeat
+CUST-00736,Michelle,Collins,NE,Riverside,US,58449,N,2019-10-18,0,0.0,One-time
+CUST-00737,Jose,Parker,WI,Springfield,US,25531,N,2021-11-28,4,476.89,Repeat
+CUST-00738,Jonathan,Carter,ME,Fairview,US,51674,Y,2024-11-29,0,0.0,One-time
+CUST-00739,Mia,Ward,VT,Georgetown,US,34785,N,2018-09-28,0,0.0,One-time
+CUST-00740,Michael,Watson,PA,Allentown,US,26575,Y,2017-08-31,1,88.7,One-time
+CUST-00741,William,Stewart,ND,Georgetown,US,18503,Y,2021-06-25,4,134.03,Repeat
+CUST-00742,Deborah,Murphy,OH,Toledo,US,33461,N,2023-03-27,0,0.0,One-time
+CUST-00743,Angela,Stewart,OH,Cincinnati,US,86177,Y,2023-10-15,2,69.69,Repeat
+CUST-00744,Anthony,Lewis,NH,Riverside,US,69255,Y,2022-07-19,0,0.0,One-time
+CUST-00745,Edward,Kelly,GA,Savannah,US,59034,Y,2019-06-07,4,307.06,Repeat
+CUST-00746,Jeffrey,Gutierrez,CA,San Jose,US,40169,Y,2024-06-05,2,188.33,Repeat
+CUST-00747,Cynthia,Reyes,MI,Lansing,US,63602,Y,2022-12-19,0,0.0,One-time
+CUST-00748,Daniel,Cruz,NJ,Jersey City,US,44815,Y,2019-01-23,1,51.35,One-time
+CUST-00749,Nicholas,Rogers,IL,Chicago,US,46231,Y,2016-12-03,1,531.51,One-time
+CUST-00750,Pamela,Sanchez,TX,Dallas,US,35774,Y,2016-10-19,3,404.86,Repeat
+CUST-00751,Maria,Scott,NY,Buffalo,US,89171,N,2024-05-10,1,73.81,One-time
+CUST-00752,Pamela,King,DC,Springfield,US,49252,N,2024-06-08,3,567.78,Repeat
+CUST-00753,Justin,Wood,IL,Chicago,US,71866,N,2020-07-12,3,273.34,Repeat
+CUST-00754,Sandra,Robinson,WY,Riverside,US,72185,N,2017-09-03,8,577.04,VIP
+CUST-00755,Noah,Reyes,MA,Springfield,US,21255,N,2022-03-13,1,8.44,One-time
+CUST-00756,Sharon,Clark,FL,Jacksonville,US,68978,N,2024-08-20,0,0.0,One-time
+CUST-00757,Thomas,Flores,CA,Fresno,US,11268,Y,2017-07-23,1,13.62,One-time
+CUST-00758,Sharon,Diaz,WI,Centerville,US,80464,Y,2019-12-23,3,242.45,Repeat
+CUST-00759,Sarah,Martin,MA,Springfield,US,84473,N,2022-05-13,2,135.73,Repeat
+CUST-00760,Ronald,Carter,CO,Riverside,US,61201,Y,2022-10-25,3,237.2,Repeat
+CUST-00761,Larry,Edwards,OH,Cincinnati,US,22221,Y,2021-04-28,5,349.33,VIP
+CUST-00762,Ahmed,Cox,MD,Centerville,US,13517,Y,2017-12-28,4,297.17,Repeat
+CUST-00763,Sandra,Nguyen,CA,Fresno,US,78733,Y,2020-04-29,7,324.54,VIP
+CUST-00764,Carol,Evans,CA,San Francisco,US,30582,Y,2021-10-24,0,0.0,One-time
+CUST-00765,David,Roberts,TX,San Antonio,US,27030,Y,2020-09-09,0,0.0,One-time
+CUST-00766,Jacob,Lee,PA,Allentown,US,87003,N,2025-03-04,4,291.79,Repeat
+CUST-00767,James,Jackson,SC,Centerville,US,18384,Y,2021-02-22,0,0.0,One-time
+CUST-00768,Larry,Morales,CO,Centerville,US,70646,Y,2018-10-08,0,0.0,One-time
+CUST-00769,Ryan,Hall,LA,Fairview,US,61260,Y,2019-03-25,0,0.0,One-time
+CUST-00770,Daniel,Richardson,CT,Centerville,US,70008,Y,2017-12-18,1,39.53,One-time
+CUST-00771,Ronald,Hughes,WI,Springfield,US,41417,Y,2023-11-01,1,76.79,One-time
+CUST-00772,Fatima,Rodriguez,TX,El Paso,US,38476,Y,2023-01-16,0,0.0,One-time
+CUST-00773,Deborah,Martinez,GA,Atlanta,US,76112,Y,2024-07-17,1,159.42,One-time
+CUST-00774,Anthony,Cook,IL,Chicago,US,70577,Y,2021-01-21,6,686.78,VIP
+CUST-00775,Edward,Baker,IN,Centerville,US,35480,N,2023-07-30,0,0.0,One-time
+CUST-00776,Sarah,Adams,CA,Fresno,US,70849,N,2017-04-14,0,0.0,One-time
+CUST-00777,Olivia,Cruz,CA,San Diego,US,71707,N,2022-02-24,0,0.0,One-time
+CUST-00778,Rachel,Gonzalez,NV,Riverside,US,48554,N,2017-11-29,6,708.1,VIP
+CUST-00779,Mia,Johnson,LA,Fairview,US,30119,Y,2017-11-20,1,164.47,One-time
+CUST-00780,Carlos,Morgan,FL,Orlando,US,67941,Y,2024-01-05,0,0.0,One-time
+CUST-00781,Hiroshi,Alvarez,NV,Springfield,US,61199,Y,2025-02-05,0,0.0,One-time
+CUST-00782,Lucas,Carter,NC,Raleigh,US,42728,Y,2022-09-16,0,0.0,One-time
+CUST-00783,Patricia,Johnson,NY,Rochester,US,35185,Y,2017-01-09,1,40.0,One-time
+CUST-00784,Fatima,Perez,CA,Fresno,US,31895,N,2017-01-30,5,318.19,VIP
+CUST-00785,Nicole,Watson,VA,Richmond,US,91877,Y,2025-02-22,3,159.25,Repeat
+CUST-00786,Margaret,Wilson,WA,Tacoma,US,52384,Y,2020-10-18,5,340.25,VIP
+CUST-00787,Margaret,Collins,GA,Savannah,US,18652,Y,2019-07-19,3,145.37,Repeat
+CUST-00788,David,Ramirez,NY,Albany,US,49522,Y,2022-12-30,1,238.58,One-time
+CUST-00789,Harper,Reed,NJ,Jersey City,US,43022,N,2017-02-21,2,146.74,Repeat
+CUST-00790,Carlos,Ruiz,CO,Riverside,US,53522,N,2023-01-28,4,608.7,Repeat
+CUST-00791,Fatima,Morris,KY,Springfield,US,53922,Y,2023-09-17,3,279.57,Repeat
+CUST-00792,Aisha,Robinson,HI,Georgetown,US,87000,Y,2021-01-12,4,248.66,Repeat
+CUST-00793,Jessica,Flores,CA,San Diego,US,66164,Y,2016-03-27,0,0.0,One-time
+CUST-00794,Angela,Nguyen,TN,Memphis,US,29879,Y,2016-09-02,0,0.0,One-time
+CUST-00795,Scott,Cruz,MO,Fairview,US,27598,N,2018-09-02,4,163.93,Repeat
+CUST-00796,Harper,Turner,MO,Fairview,US,13105,Y,2024-07-11,3,78.98,Repeat
+CUST-00797,Pamela,Miller,AL,Riverside,US,39156,Y,2019-11-04,0,0.0,One-time
+CUST-00798,Diego,Smith,OH,Columbus,US,74440,Y,2019-08-10,5,578.35,VIP
+CUST-00799,Anthony,Taylor,FL,Miami,US,32764,N,2023-02-11,0,0.0,One-time
+CUST-00800,William,Diaz,NV,Centerville,US,50824,Y,2018-04-17,2,59.46,Repeat
+CUST-00801,Ashley,Hill,FL,Tampa,US,85552,Y,2020-10-02,0,0.0,One-time
+CUST-00802,Kathleen,Hernandez,IN,Fairview,US,62198,N,2019-01-18,0,0.0,One-time
+CUST-00803,Mason,Parker,MI,Grand Rapids,US,73176,Y,2020-09-27,7,761.12,VIP
+CUST-00804,Joshua,Kim,OH,Cleveland,US,82463,N,2016-12-06,1,31.9,One-time
+CUST-00805,Andrew,Carter,NY,Syracuse,US,89432,Y,2021-03-14,1,19.86,One-time
+CUST-00806,Karen,Harris,IL,Chicago,US,11682,Y,2024-01-07,0,0.0,One-time
+CUST-00807,Sharon,Gomez,AL,Fairview,US,60336,Y,2020-03-12,0,0.0,One-time
+CUST-00808,John,Thomas,MO,Centerville,US,84135,Y,2022-08-06,7,877.92,VIP
+CUST-00809,Ethan,Hall,KY,Georgetown,US,74044,N,2018-11-11,1,228.37,One-time
+CUST-00810,Jason,Young,OH,Cleveland,US,72616,N,2016-08-24,5,405.51,VIP
+CUST-00811,Patricia,Hughes,UT,Riverside,US,44253,N,2023-01-28,1,146.56,One-time
+CUST-00812,Rachel,Howard,MT,Riverside,US,11617,Y,2017-08-26,1,103.05,One-time
+CUST-00813,Ronald,Price,CA,Sacramento,US,20531,N,2023-12-24,0,0.0,One-time
+CUST-00814,Jason,Allen,FL,Tampa,US,75620,Y,2020-09-28,0,0.0,One-time
+CUST-00815,Sophia,Evans,WI,Springfield,US,24322,Y,2020-04-16,2,86.11,Repeat
+CUST-00816,Paul,Clark,OR,Centerville,US,50383,N,2019-11-11,5,382.91,VIP
+CUST-00817,David,Hughes,FL,Jacksonville,US,78807,Y,2021-07-07,1,31.59,One-time
+CUST-00818,Deborah,White,PA,Pittsburgh,US,35954,Y,2020-10-31,2,397.71,Repeat
+CUST-00819,Margaret,White,VA,Richmond,US,17730,Y,2017-03-27,0,0.0,One-time
+CUST-00820,Timothy,Cruz,CT,Georgetown,US,24312,Y,2018-02-24,1,129.12,One-time
+CUST-00821,Jessica,Scott,FL,Miami,US,54846,Y,2019-04-15,2,104.52,Repeat
+CUST-00822,Richard,Johnson,NY,New York,US,44875,N,2021-06-10,1,144.34,One-time
+CUST-00823,Jennifer,Gonzalez,CA,San Diego,US,78463,N,2022-07-13,0,0.0,One-time
+CUST-00824,Mia,Wright,OH,Toledo,US,72027,N,2021-10-31,2,147.19,Repeat
+CUST-00825,Amanda,Green,CO,Riverside,US,57344,Y,2019-10-10,1,109.7,One-time
+CUST-00826,Kevin,Gonzalez,OH,Columbus,US,69889,N,2016-08-22,0,0.0,One-time
+CUST-00827,Sarah,Brown,GA,Atlanta,US,79550,N,2025-05-14,7,489.1,VIP
+CUST-00828,Cynthia,Richardson,MN,Centerville,US,77490,Y,2025-02-20,1,276.28,One-time
+CUST-00829,Carol,Williams,FL,Tampa,US,15997,N,2023-02-26,0,0.0,One-time
+CUST-00830,Rachel,Morales,LA,Centerville,US,90293,Y,2023-08-08,1,101.43,One-time
+CUST-00831,Grace,Gonzalez,IL,Peoria,US,48517,N,2021-05-04,0,0.0,One-time
+CUST-00832,Henry,Alvarez,SC,Georgetown,US,14160,N,2021-10-31,4,302.3,Repeat
+CUST-00833,Stephen,Reyes,OK,Riverside,US,68495,N,2019-05-19,0,0.0,One-time
+CUST-00834,Margaret,Perez,NJ,Newark,US,23824,Y,2022-01-23,0,0.0,One-time
+CUST-00835,Carol,Roberts,SC,Fairview,US,38885,N,2017-10-18,1,29.73,One-time
+CUST-00836,Sarah,Morgan,WI,Centerville,US,21854,Y,2023-07-09,1,94.01,One-time
+CUST-00837,Lucas,Kim,IL,Chicago,US,94408,N,2018-07-05,0,0.0,One-time
+CUST-00838,Edward,Wood,HI,Georgetown,US,67273,N,2024-05-01,0,0.0,One-time
+CUST-00839,Joseph,Lopez,FL,Tampa,US,87620,Y,2017-04-18,0,0.0,One-time
+CUST-00840,Thomas,Green,LA,Centerville,US,85617,Y,2017-04-20,1,57.85,One-time
+CUST-00841,Stephanie,Diaz,PA,Allentown,US,57844,Y,2022-08-13,3,105.83,Repeat
+CUST-00842,Rachel,Ramos,RI,Riverside,US,23970,Y,2017-06-01,0,0.0,One-time
+CUST-00843,Donna,Lewis,WA,Bellevue,US,99126,Y,2021-03-01,0,0.0,One-time
+CUST-00844,Grace,Jones,CO,Georgetown,US,51961,N,2017-08-20,1,136.77,One-time
+CUST-00845,Liam,Kelly,WY,Centerville,US,92716,Y,2017-05-20,0,0.0,One-time
+CUST-00846,Linda,Nelson,NJ,Jersey City,US,37605,N,2023-11-24,0,0.0,One-time
+CUST-00847,Michael,Thompson,RI,Centerville,US,61355,N,2018-07-10,5,615.18,VIP
+CUST-00848,Stephen,Gomez,UT,Fairview,US,65369,N,2017-10-14,0,0.0,One-time
+CUST-00849,Elizabeth,Ortiz,WY,Fairview,US,47010,Y,2024-06-30,0,0.0,One-time
+CUST-00850,Thomas,Adams,FL,Fort Lauderdale,US,17094,Y,2022-02-22,0,0.0,One-time
+CUST-00851,Samantha,Moore,SC,Centerville,US,73234,N,2021-02-17,8,534.39,VIP
+CUST-00852,Betty,Wood,TX,Houston,US,57477,N,2018-06-12,0,0.0,One-time
+CUST-00853,Charles,Carter,MA,Cambridge,US,99056,N,2023-08-10,0,0.0,One-time
+CUST-00854,Jacob,Thompson,ME,Springfield,US,25380,Y,2017-01-28,2,207.02,Repeat
+CUST-00855,Karen,Watson,MO,Centerville,US,42112,Y,2022-08-27,2,143.24,Repeat
+CUST-00856,Scott,Thompson,NY,Albany,US,97914,Y,2021-06-24,2,159.35,Repeat
+CUST-00857,Emily,Watson,OR,Centerville,US,58145,N,2025-03-05,3,170.08,Repeat
+CUST-00858,Fatima,Rogers,TX,San Antonio,US,13018,Y,2017-05-14,1,12.23,One-time
+CUST-00859,Isabella,Gonzalez,WY,Georgetown,US,33736,Y,2021-05-18,1,70.84,One-time
+CUST-00860,Samantha,Taylor,DC,Springfield,US,52628,Y,2023-11-18,2,94.04,Repeat
+CUST-00861,Rebecca,Hughes,HI,Springfield,US,61615,Y,2024-12-01,0,0.0,One-time
+CUST-00862,David,Gutierrez,WA,Seattle,US,37192,Y,2025-02-08,2,264.45,Repeat
+CUST-00863,Ahmed,White,ID,Springfield,US,82708,N,2018-01-10,1,23.36,One-time
+CUST-00864,Anthony,Wood,PA,Pittsburgh,US,21510,Y,2016-06-09,0,0.0,One-time
+CUST-00865,Jessica,Cook,IA,Fairview,US,57652,Y,2016-05-23,2,167.37,Repeat
+CUST-00866,Joshua,Garcia,FL,Fort Lauderdale,US,48456,Y,2023-05-19,1,277.93,One-time
+CUST-00867,Kenneth,Gutierrez,NC,Greensboro,US,89452,Y,2022-06-21,1,373.25,One-time
+CUST-00868,Jennifer,Walker,FL,Miami,US,34651,N,2017-02-09,5,493.03,VIP
+CUST-00869,Rachel,Peterson,KS,Riverside,US,87566,N,2018-05-31,2,283.19,Repeat
+CUST-00870,Stephen,Allen,TX,Dallas,US,60040,Y,2022-12-23,1,48.76,One-time
+CUST-00871,Steven,Gray,TX,Austin,US,28775,Y,2021-02-11,4,358.15,Repeat
+CUST-00872,Aisha,Hughes,CA,Fresno,US,35248,Y,2024-03-20,3,364.03,Repeat
+CUST-00873,Rachel,Lee,AZ,Scottsdale,US,30118,N,2023-04-07,0,0.0,One-time
+CUST-00874,Rachel,Young,OK,Springfield,US,45405,Y,2020-04-01,3,258.27,Repeat
+CUST-00875,Kevin,Brooks,TX,Houston,US,57555,Y,2022-02-24,0,0.0,One-time
+CUST-00876,Mark,Scott,OR,Springfield,US,22838,N,2017-08-22,2,288.68,Repeat
+CUST-00877,Henry,Thomas,SD,Riverside,US,79006,N,2020-03-30,0,0.0,One-time
+CUST-00878,Richard,Ortiz,PA,Allentown,US,84993,N,2025-03-18,1,64.79,One-time
+CUST-00879,Michael,Perez,AZ,Mesa,US,61060,Y,2022-10-24,2,450.46,Repeat
+CUST-00880,Jonathan,Peterson,CT,Georgetown,US,62776,N,2023-08-08,1,204.4,One-time
+CUST-00881,Olivia,Martin,TX,El Paso,US,26563,N,2016-02-08,0,0.0,One-time
+CUST-00882,Noah,Brooks,AZ,Mesa,US,42651,Y,2018-12-31,1,47.85,One-time
+CUST-00883,Melissa,Reyes,GA,Augusta,US,46152,Y,2021-02-18,1,46.37,One-time
+CUST-00884,Sandra,Flores,VA,Virginia Beach,US,50063,,2024-01-21,0,0.0,One-time
+CUST-00885,Elizabeth,Walker,PA,Philadelphia,US,31641,Y,2017-01-04,0,0.0,One-time
+CUST-00886,Angela,Johnson,CA,San Francisco,US,98740,Y,2019-03-16,0,0.0,One-time
+CUST-00887,Maria,Gray,AL,Georgetown,US,26343,Y,2021-05-18,0,0.0,One-time
+CUST-00888,Olivia,Diaz,TN,Knoxville,US,42011,N,2025-04-28,0,0.0,One-time
+CUST-00889,Brenda,Mendoza,WI,Georgetown,US,15551,N,2025-03-26,2,560.87,Repeat
+CUST-00890,Mia,Ortiz,ND,Riverside,US,32913,N,2023-07-25,4,144.95,Repeat
+CUST-00891,Michael,Diaz,NV,Centerville,US,59688,Y,2021-10-05,4,302.89,Repeat
+CUST-00892,Ashley,Cooper,SD,Springfield,US,48019,N,2019-10-16,4,254.48,Repeat
+CUST-00893,Diego,Reed,PA,Erie,US,38503,Y,2018-05-22,0,0.0,One-time
+CUST-00894,John,Reyes,ME,Georgetown,US,73998,Y,2023-03-18,2,42.26,Repeat
+CUST-00895,Melissa,Wilson,CA,Los Angeles,US,55838,Y,2021-02-28,1,10.4,One-time
+CUST-00896,Laura,Morales,FL,Orlando,US,21107,Y,2019-12-23,0,0.0,One-time
+CUST-00897,Gary,Smith,WV,Riverside,US,96066,Y,2020-08-09,4,307.35,Repeat
+CUST-00898,Jason,White,MI,Ann Arbor,US,24246,Y,2020-03-13,0,0.0,One-time
+CUST-00899,Melissa,Parker,WI,Springfield,US,57085,Y,2020-12-04,0,0.0,One-time
+CUST-00900,Jennifer,Moore,SC,Centerville,US,65188,Y,2017-03-29,0,0.0,One-time
+CUST-00901,Kathleen,Bennett,WV,Fairview,US,25570,N,2017-10-18,1,17.44,One-time
+CUST-00902,Thomas,Adams,AZ,Scottsdale,US,75779,N,2024-12-20,1,30.37,One-time
+CUST-00903,Joseph,Wilson,LA,Springfield,US,26531,Y,2025-04-04,4,256.0,Repeat
+CUST-00904,Michael,Gray,VA,Norfolk,US,66317,N,2024-08-09,1,34.7,One-time
+CUST-00905,Andrew,Morales,LA,Springfield,US,66223,Y,2020-11-14,3,518.33,Repeat
+CUST-00906,Emily,Anderson,TX,Dallas,US,42421,Y,2021-09-25,0,0.0,One-time
+CUST-00907,Susan,Hughes,NC,Raleigh,US,34729,N,2021-04-25,0,0.0,One-time
+CUST-00908,Jessica,Taylor,MA,Cambridge,US,15028,Y,2023-02-11,6,212.97,VIP
+CUST-00909,Brandon,Sanchez,FL,Miami,US,16678,Y,2017-08-21,1,161.94,One-time
+CUST-00910,Sandra,Lewis,WA,Tacoma,US,65846,Y,2023-11-07,1,74.52,One-time
+CUST-00911,Joseph,Wright,VA,Norfolk,US,46773,Y,2023-03-22,1,48.74,One-time
+CUST-00912,Michael,White,SC,Springfield,US,10070,Y,2018-10-08,1,116.63,One-time
+CUST-00913,Emily,Cox,LA,Springfield,US,66479,Y,2018-05-18,5,476.46,VIP
+CUST-00914,Joseph,Gonzalez,DE,Springfield,US,99517,Y,2020-01-29,2,465.72,Repeat
+CUST-00915,George,Ramos,AR,Georgetown,US,89261,Y,2019-09-18,0,0.0,One-time
+CUST-00916,Barbara,Wilson,MO,Riverside,US,92517,Y,2018-05-10,2,220.0,Repeat
+CUST-00917,Priya,Harris,TX,San Antonio,US,68427,N,2022-07-30,1,87.86,One-time
+CUST-00918,Joshua,Stewart,CA,San Diego,US,79934,Y,2022-02-16,0,0.0,One-time
+CUST-00919,Olivia,Allen,CA,Sacramento,US,55526,Y,2018-02-24,1,52.58,One-time
+CUST-00920,Laura,Rodriguez,NC,Durham,US,64919,Y,2024-01-17,1,0.0,One-time
+CUST-00921,Scott,Scott,DE,Riverside,US,47965,Y,2024-11-13,2,29.03,Repeat
+CUST-00922,Matthew,Gomez,AZ,Scottsdale,US,99744,N,2024-11-27,2,82.22,Repeat
+CUST-00923,Ethan,Rogers,VA,Arlington,US,83727,Y,2016-11-03,1,32.4,One-time
+CUST-00924,James,Lee,GA,Savannah,US,87609,Y,2019-01-17,0,0.0,One-time
+CUST-00925,Nicholas,Price,NM,Georgetown,US,43925,Y,2024-11-12,1,490.49,One-time
+CUST-00926,Jessica,Perez,FL,Orlando,US,15978,Y,2023-12-11,0,0.0,One-time
+CUST-00927,Emily,Moore,PA,Allentown,US,16752,Y,2023-03-04,0,0.0,One-time
+CUST-00928,Joseph,Smith,NY,Rochester,US,92927,Y,2025-03-26,0,0.0,One-time
+CUST-00929,Stephen,King,OH,Cleveland,US,63522,N,2016-12-06,1,42.72,One-time
+CUST-00930,Mary,Rivera,PA,Pittsburgh,US,46659,Y,2016-08-22,7,512.55,VIP
+CUST-00931,Amelia,Howard,SD,Springfield,US,60067,N,2022-01-10,3,300.93,Repeat
+CUST-00932,Stephen,Clark,NY,Albany,US,38919,Y,2023-01-09,1,95.54,One-time
+CUST-00933,Ethan,Gomez,FL,Orlando,US,68465,N,2023-01-23,3,370.83,Repeat
+CUST-00934,Kathleen,Lopez,AL,Centerville,US,33791,Y,2020-02-18,1,59.46,One-time
+CUST-00935,Gary,White,UT,Fairview,US,12758,Y,2017-12-22,2,106.53,Repeat
+CUST-00936,Rachel,Harris,NE,Springfield,US,28811,Y,2025-03-02,2,197.84,Repeat
+CUST-00937,Richard,Ortiz,NY,Buffalo,US,11545,N,2023-03-27,1,267.24,One-time
+CUST-00938,Mary,Chavez,OH,Columbus,US,27324,Y,2016-03-25,4,240.27,Repeat
+CUST-00939,Scott,Johnson,CA,Los Angeles,US,23938,N,2017-08-07,2,25.14,Repeat
+CUST-00940,Sarah,Morris,UT,Georgetown,US,68238,Y,2023-12-07,0,0.0,One-time
+CUST-00941,Linda,Cooper,PA,Allentown,US,92245,Y,2021-05-15,0,0.0,One-time
+CUST-00942,Donna,Wilson,CA,Sacramento,US,64432,Y,2016-07-01,4,438.51,Repeat
+CUST-00943,Stephanie,Jackson,HI,Fairview,US,95899,Y,2016-04-08,3,210.71,Repeat
+CUST-00944,Olivia,Anderson,NH,Centerville,US,32224,Y,2023-09-04,0,0.0,One-time
+CUST-00945,Brandon,Nelson,FL,Miami,US,57250,Y,2019-02-28,0,0.0,One-time
+CUST-00946,Daniel,Diaz,NH,Georgetown,US,53888,Y,2016-06-26,0,0.0,One-time
+CUST-00947,Maria,Hill,MD,Georgetown,US,47618,N,2017-09-07,0,0.0,One-time
+CUST-00948,Kimberly,Alvarez,TX,Houston,US,10285,N,2021-08-06,2,467.43,Repeat
+CUST-00949,Kenneth,Jackson,VT,Centerville,US,68549,N,2024-09-20,1,17.32,One-time
+CUST-00950,Joseph,Kelly,OK,Centerville,US,46500,N,2021-05-13,5,395.68,VIP
+CUST-00951,Stephanie,Rivera,IL,Springfield,US,74776,Y,2017-06-06,0,0.0,One-time
+CUST-00952,Aisha,Nelson,MN,Riverside,US,95715,Y,2020-08-22,2,180.63,Repeat
+CUST-00953,Jonathan,Murphy,OH,Cleveland,US,60413,Y,2022-02-28,2,85.51,Repeat
+CUST-00954,Ahmed,Lewis,SC,Springfield,US,40827,Y,2021-11-28,1,61.57,One-time
+CUST-00955,Jacob,Moore,FL,Miami,US,17808,Y,2016-03-11,3,359.66,Repeat
+CUST-00956,Donna,Collins,OH,Cleveland,US,82286,N,2024-09-24,1,51.35,One-time
+CUST-00957,Mark,Davis,HI,Riverside,US,25366,Y,2018-09-20,2,309.71,Repeat
+CUST-00958,Grace,Diaz,SC,Fairview,US,17088,N,2020-03-26,0,0.0,One-time
+CUST-00959,Scott,Lee,WI,Springfield,US,29252,Y,2016-10-29,1,87.54,One-time
+CUST-00960,Sharon,Martin,CA,San Diego,US,71573,Y,2016-11-11,0,0.0,One-time
+CUST-00961,Jacob,Evans,LA,Fairview,US,68192,N,2023-11-01,0,0.0,One-time
+CUST-00962,Linda,Chavez,MN,Springfield,US,89190,Y,2019-03-20,0,0.0,One-time
+CUST-00963,Jason,Mendoza,VA,Arlington,US,82634,Y,2016-02-14,0,0.0,One-time
+CUST-00964,Liam,Robinson,NY,Albany,US,30552,Y,2022-06-01,1,20.29,One-time
+CUST-00965,Thomas,Ramirez,CA,San Francisco,US,91139,N,2020-03-26,1,21.33,One-time
+CUST-00966,Nicole,Cox,GA,Atlanta,US,71398,N,2025-03-22,1,121.42,One-time
+CUST-00967,Lisa,Miller,MO,Fairview,US,94757,N,2020-07-17,0,0.0,One-time
+CUST-00968,Rachel,Nelson,NY,New York,US,41395,Y,2017-03-03,3,109.92,Repeat
+CUST-00969,Mary,Flores,WA,Spokane,US,82311,Y,2016-09-24,5,519.61,VIP
+CUST-00970,Larry,Reed,ME,Springfield,US,83890,Y,2018-09-11,0,0.0,One-time
+CUST-00971,Michelle,Johnson,NJ,Trenton,US,47015,Y,2016-07-15,0,0.0,One-time
+CUST-00972,Noah,Rivera,VA,Richmond,US,98432,N,2019-07-12,4,620.66,Repeat
+CUST-00973,Nicholas,Martin,GA,Atlanta,US,86962,Y,2024-04-24,2,40.03,Repeat
+CUST-00974,Karen,Mendoza,NJ,Paterson,US,20322,Y,2016-06-02,1,208.21,One-time
+CUST-00975,Margaret,Mendoza,CA,Fresno,US,28463,Y,2024-01-21,1,63.93,One-time
+CUST-00976,Sophia,Cox,TX,El Paso,US,78588,Y,2021-08-16,0,0.0,One-time
+CUST-00977,Donna,Campbell,IL,Peoria,US,15244,Y,2024-10-21,3,322.36,Repeat
+CUST-00978,Brandon,Cox,OR,Springfield,US,29975,Y,2020-05-06,0,0.0,One-time
+CUST-00979,Charles,Flores,DC,Georgetown,US,21425,N,2017-02-02,0,0.0,One-time
+CUST-00980,Christopher,Rodriguez,MI,Ann Arbor,US,85564,N,2017-11-26,2,201.47,Repeat
+CUST-00981,Ryan,King,CA,San Francisco,US,43557,N,2018-01-03,3,191.37,Repeat
+CUST-00982,Larry,Morales,NC,Charlotte,US,57641,N,2017-07-29,0,0.0,One-time
+CUST-00983,Thomas,Cruz,GA,Augusta,US,77171,N,2022-12-13,2,103.28,Repeat
+CUST-00984,Timothy,Cook,DE,Centerville,US,44449,Y,2020-03-10,5,520.51,VIP
+CUST-00985,Wei,Davis,WY,Riverside,US,83505,Y,2016-06-23,2,185.46,Repeat
+CUST-00986,Larry,Phillips,KS,Springfield,US,39235,Y,2019-04-05,2,30.05,Repeat
+CUST-00987,Amy,Chavez,MI,Lansing,US,24302,Y,2017-01-17,5,414.31,VIP
+CUST-00988,Betty,Phillips,AL,Fairview,US,18450,N,2020-06-13,1,0.0,One-time
+CUST-00989,Mason,Stewart,DC,Springfield,US,46487,Y,2021-06-14,0,0.0,One-time
+CUST-00990,Margaret,Green,WA,Seattle,US,88784,Y,2021-04-08,0,0.0,One-time
+CUST-00991,Laura,Stewart,CA,San Diego,US,17088,Y,2025-01-24,4,167.98,Repeat
+CUST-00992,Paul,Allen,CA,Fresno,US,33082,N,2024-07-04,5,598.99,VIP
+CUST-00993,Olivia,Edwards,CA,San Francisco,US,78783,Y,2020-07-17,3,486.24,Repeat
+CUST-00994,Barbara,Diaz,ID,Fairview,US,48915,N,2018-01-23,3,114.6,Repeat
+CUST-00995,Jonathan,Ruiz,IL,Naperville,US,67250,Y,2020-09-12,0,0.0,One-time
+CUST-00996,Nicole,Kim,MN,Riverside,US,20198,N,2020-05-12,2,187.06,Repeat
+CUST-00997,Sophia,Green,MA,Boston,US,29727,Y,2017-08-15,2,69.36,Repeat
+CUST-00998,Joseph,Gray,RI,Centerville,US,44446,N,2021-08-07,0,0.0,One-time
+CUST-00999,Thomas,Brooks,CA,San Francisco,US,93744,N,2021-01-19,0,0.0,One-time
+CUST-01000,Matthew,Turner,TX,El Paso,US,81576,N,2018-06-14,0,0.0,One-time
+CUST-01001,Matthew,Gray,CO,Georgetown,US,11883,Y,2018-06-04,1,58.45,One-time
+CUST-01002,Nicholas,Thomas,OH,Toledo,US,95054,N,2019-05-21,1,24.87,One-time
+CUST-01003,Pamela,Diaz,GA,Augusta,US,24860,Y,2019-12-11,2,190.3,Repeat
+CUST-01004,Scott,Lee,MI,Lansing,US,60012,Y,2020-03-08,4,260.76,Repeat
+CUST-01005,Andrew,Hughes,WI,Georgetown,US,23005,Y,2023-08-18,0,0.0,One-time
+CUST-01006,Robert,Ward,CT,Centerville,US,23588,Y,2017-03-01,1,102.7,One-time
+CUST-01007,Jeffrey,Cook,KY,Georgetown,US,14277,Y,2022-02-09,4,495.63,Repeat
+CUST-01008,Ryan,Peterson,KS,Centerville,US,25007,Y,2018-05-17,4,314.96,Repeat
+CUST-01009,Harper,Reyes,MI,Lansing,US,94523,Y,2017-05-24,2,130.54,Repeat
+CUST-01010,Henry,Lewis,LA,Georgetown,US,47172,N,2016-02-01,2,267.13,Repeat
+CUST-01011,Harper,Turner,WI,Riverside,US,10544,N,2019-06-13,1,225.45,One-time
+CUST-01012,Harper,Mitchell,GA,Augusta,US,53920,Y,2016-03-04,3,209.21,Repeat
+CUST-01013,Ronald,Harris,MA,Cambridge,US,16760,Y,2020-10-27,1,0.0,One-time
+CUST-01014,Stephanie,Thompson,MA,Cambridge,US,51697,N,2017-06-11,0,0.0,One-time
+CUST-01015,Thomas,Cook,NC,Charlotte,US,92764,N,2017-02-11,2,340.17,Repeat
+CUST-01016,Kimberly,Peterson,GA,Savannah,US,52258,Y,2024-07-18,2,15.76,Repeat
+CUST-01017,Lucas,Ramos,CA,San Diego,US,13646,Y,2020-11-26,0,0.0,One-time
+CUST-01018,Patricia,Taylor,WA,Bellevue,US,93160,Y,2016-11-18,1,19.42,One-time
+CUST-01019,Mark,Hill,IL,Naperville,US,80178,N,2018-09-08,0,0.0,One-time
+CUST-01020,Lucas,King,AL,Springfield,US,46040,N,2025-01-18,3,321.11,Repeat
+CUST-01021,Justin,Wilson,TX,Houston,US,70178,Y,2016-04-04,0,0.0,One-time
+CUST-01022,Nancy,Lopez,TX,Houston,US,74781,Y,2017-08-03,0,0.0,One-time
+CUST-01023,Gary,Williams,HI,Centerville,US,19643,Y,2018-05-01,3,159.32,Repeat
+CUST-01024,Edward,Green,IN,Centerville,US,31116,N,2018-05-11,2,35.04,Repeat
+CUST-01025,Diego,Cox,CA,Los Angeles,US,25362,N,2018-01-01,0,0.0,One-time
+CUST-01026,Scott,Cooper,DC,Springfield,US,30760,N,2021-06-05,2,47.31,Repeat
+CUST-01027,Patricia,Morgan,NY,New York,US,77894,Y,2017-05-13,3,135.38,Repeat
+CUST-01028,Margaret,Brown,TX,Dallas,US,28161,Y,2020-02-03,6,393.86,VIP
+CUST-01029,Kathleen,Sanchez,AL,Springfield,US,55685,Y,2017-06-02,0,0.0,One-time
+CUST-01030,Angela,Parker,MO,Georgetown,US,62421,N,2021-03-28,2,60.26,Repeat
+CUST-01031,Olivia,Scott,NY,Albany,US,23486,N,2018-03-21,2,36.13,Repeat
+CUST-01032,Anthony,Morales,OR,Centerville,US,68478,Y,2019-06-30,0,0.0,One-time
+CUST-01033,Susan,Cox,LA,Centerville,US,66270,Y,2025-02-23,3,129.81,Repeat
+CUST-01034,Cynthia,Perez,IL,Chicago,US,77024,N,2023-02-04,2,275.33,Repeat
+CUST-01035,Wei,Ortiz,GA,Augusta,US,62206,N,2022-10-09,2,239.23,Repeat
+CUST-01036,Nancy,Rivera,FL,Orlando,US,19521,Y,2019-08-14,3,423.64,Repeat
+CUST-01037,Jessica,Johnson,OH,Cincinnati,US,11428,N,2017-08-17,2,114.5,Repeat
+CUST-01038,Sandra,Bailey,FL,Miami,US,60540,N,2022-05-13,1,85.46,One-time
+CUST-01039,Emily,Alvarez,FL,Fort Lauderdale,US,97994,Y,2018-06-09,4,454.49,Repeat
+CUST-01040,Laura,Green,ID,Fairview,US,35971,N,2020-09-23,3,167.9,Repeat
+CUST-01041,Emily,Turner,CT,Springfield,US,26265,Y,2021-08-04,2,54.33,Repeat
+CUST-01042,Samantha,Williams,CO,Fairview,US,12337,Y,2022-08-18,2,335.73,Repeat
+CUST-01043,Andrew,Taylor,KS,Centerville,US,14850,N,2016-01-20,0,0.0,One-time
+CUST-01044,Robert,Rodriguez,NH,Centerville,US,22467,Y,2016-06-09,0,0.0,One-time
+CUST-01045,Ethan,Hall,GA,Macon,US,20455,Y,2019-05-17,1,21.66,One-time
+CUST-01046,Joshua,Hughes,PA,Erie,US,74662,Y,2022-11-13,0,0.0,One-time
+CUST-01047,Jose,Wilson,ND,Springfield,US,39362,N,2017-05-12,2,295.4,Repeat
+CUST-01048,Ahmed,Parker,CA,San Diego,US,32307,N,2017-03-06,3,586.14,Repeat
+CUST-01049,Jonathan,Smith,AL,Springfield,US,44037,Y,2025-02-09,2,486.64,Repeat
+CUST-01050,Elizabeth,King,CA,San Jose,US,90314,N,2016-07-15,2,338.71,Repeat
+CUST-01051,Sarah,Howard,OH,Toledo,US,25715,Y,2023-11-01,7,1090.76,VIP
+CUST-01052,Timothy,Brooks,AR,Centerville,US,97586,Y,2024-06-11,6,339.31,VIP
+CUST-01053,Gary,Scott,WA,Tacoma,US,73269,Y,2022-06-25,2,52.65,Repeat
+CUST-01054,Melissa,Bailey,NY,Buffalo,US,96439,N,2019-04-28,0,0.0,One-time
+CUST-01055,Angela,Davis,KS,Riverside,US,11720,Y,2023-10-17,0,0.0,One-time
+CUST-01056,Susan,Baker,MI,Grand Rapids,US,87401,Y,2020-04-26,1,91.31,One-time
+CUST-01057,Michelle,Price,VA,Arlington,US,95890,N,2019-07-07,7,352.08,VIP
+CUST-01058,George,Roberts,VA,Arlington,US,91327,Y,2017-06-16,3,219.85,Repeat
+CUST-01059,Jason,Perez,OR,Fairview,US,85660,Y,2018-02-08,0,0.0,One-time
+CUST-01060,Donald,Williams,TX,Austin,US,34514,N,2017-03-14,3,226.29,Repeat
+CUST-01061,Kimberly,Thomas,MI,Detroit,US,56455,Y,2021-12-14,1,55.67,One-time
+CUST-01062,Kevin,Miller,TX,Austin,US,45728,Y,2021-08-18,2,72.85,Repeat
+CUST-01063,Jason,Harris,CA,San Jose,US,34831,N,2020-04-15,1,106.23,One-time
+CUST-01064,Eric,Parker,CO,Springfield,US,99281,Y,2021-12-09,1,30.93,One-time
+CUST-01065,Michael,Jones,NY,Syracuse,US,44888,Y,2017-03-30,1,95.38,One-time
+CUST-01066,Jose,Hughes,WA,Bellevue,US,61368,Y,2019-02-02,2,196.61,Repeat
+CUST-01067,Paul,Murphy,FL,Orlando,US,32417,N,2025-03-29,0,0.0,One-time
+CUST-01068,Andrew,Smith,IL,Chicago,US,34258,N,2019-03-25,3,76.6,Repeat
+CUST-01069,Ahmed,Walker,MN,Riverside,US,51302,N,2021-05-06,0,0.0,One-time
+CUST-01070,Charles,Johnson,FL,Jacksonville,US,66088,N,2019-09-22,0,0.0,One-time
+CUST-01071,Lisa,Gray,FL,Miami,US,87857,N,2018-12-16,1,63.12,One-time
+CUST-01072,Ashley,Stewart,MI,Detroit,US,15921,Y,2016-01-05,1,63.85,One-time
+CUST-01073,Brenda,Cook,AZ,Tucson,US,29212,N,2019-04-05,0,0.0,One-time
+CUST-01074,Cynthia,Morales,TX,El Paso,US,55977,N,2025-01-05,0,0.0,One-time
+CUST-01075,Ryan,Johnson,NY,Rochester,US,49470,Y,2021-06-15,0,0.0,One-time
+CUST-01076,Scott,Morris,ID,Springfield,US,45381,N,2024-09-07,1,88.4,One-time
+CUST-01077,Timothy,Lewis,AL,Riverside,US,56818,Y,2016-03-25,0,0.0,One-time
+CUST-01078,Laura,Campbell,NY,Buffalo,US,21701,N,2024-04-23,0,0.0,One-time
+CUST-01079,Emily,Watson,AK,Georgetown,US,68886,Y,2023-03-01,2,245.94,Repeat
+CUST-01080,Carlos,Hall,NM,Fairview,US,61252,Y,2017-12-17,1,89.73,One-time
+CUST-01081,Jennifer,Howard,MT,Georgetown,US,54993,Y,2019-02-05,2,333.08,Repeat
+CUST-01082,Harper,Hall,TX,Dallas,US,24442,Y,2024-12-01,1,11.77,One-time
+CUST-01083,Maria,Martin,NJ,Trenton,US,91762,Y,2023-09-08,0,0.0,One-time
+CUST-01084,Donna,Johnson,TX,Austin,US,15367,Y,2021-06-17,2,205.07,Repeat
+CUST-01085,Michelle,Smith,UT,Centerville,US,56170,Y,2017-05-20,2,25.09,Repeat
+CUST-01086,Andrew,Cook,CA,Fresno,US,83498,Y,2018-10-26,1,31.54,One-time
+CUST-01087,Sophia,Sanchez,CA,San Francisco,US,86706,Y,2019-01-13,0,0.0,One-time
+CUST-01088,Melissa,Young,PA,Erie,US,65386,Y,2016-05-11,0,0.0,One-time
+CUST-01089,Scott,Flores,WV,Riverside,US,83912,N,2018-12-06,1,29.77,One-time
+CUST-01090,Maria,Sanchez,NM,Fairview,US,27785,Y,2025-01-07,0,0.0,One-time
+CUST-01091,Larry,Watson,FL,Jacksonville,US,81543,Y,2019-06-03,4,281.12,Repeat
+CUST-01092,Sarah,Ortiz,OK,Centerville,US,51059,Y,2025-05-08,0,0.0,One-time
+CUST-01093,Jason,Reyes,MD,Centerville,US,63773,Y,2020-01-04,1,63.19,One-time
+CUST-01094,Sharon,Lopez,HI,Riverside,US,90636,N,2016-04-18,0,0.0,One-time
+CUST-01095,Thomas,Richardson,OK,Georgetown,US,84130,Y,2022-07-05,0,0.0,One-time
+CUST-01096,Rebecca,Bennett,CA,Los Angeles,US,70661,Y,2025-06-23,1,10.4,One-time
+CUST-01097,William,Davis,MS,Fairview,US,95181,N,2021-02-28,2,275.85,Repeat
+CUST-01098,Kathleen,Ruiz,CO,Fairview,US,17977,Y,2025-03-20,2,227.69,Repeat
+CUST-01099,Michael,Hughes,MA,Worcester,US,77667,N,2021-09-23,3,109.02,Repeat
+CUST-01100,Carlos,Brooks,LA,Riverside,US,49438,Y,2021-07-21,1,88.7,One-time
+CUST-01101,Jose,Ruiz,AL,Riverside,US,25035,N,2016-01-27,1,118.8,One-time
+CUST-01102,Ashley,Clark,TX,Houston,US,72094,Y,2017-05-10,4,741.86,Repeat
+CUST-01103,Jessica,Hill,VA,Arlington,US,73402,Y,2020-05-19,0,0.0,One-time
+CUST-01104,Kimberly,Ward,UT,Centerville,US,96266,N,2025-06-09,2,278.73,Repeat
+CUST-01105,Charles,James,NC,Raleigh,US,32383,Y,2023-02-18,4,452.13,Repeat
+CUST-01106,Donna,Nguyen,MN,Springfield,US,87170,Y,2018-03-31,0,0.0,One-time
+CUST-01107,Susan,Reyes,WI,Centerville,US,65683,Y,2020-05-21,3,342.27,Repeat
+CUST-01108,Mary,Howard,PA,Allentown,US,14467,Y,2017-05-07,0,0.0,One-time
+CUST-01109,Melissa,Moore,ID,Centerville,US,70076,Y,2022-12-14,1,72.21,One-time
+CUST-01110,Nicholas,Clark,VT,Fairview,US,78820,Y,2020-01-05,0,0.0,One-time
+CUST-01111,Priya,Reed,CA,San Jose,US,70225,Y,2023-05-10,1,27.71,One-time
+CUST-01112,Hiroshi,Hill,OK,Centerville,US,18940,N,2019-02-14,0,0.0,One-time
+CUST-01113,Rachel,James,MO,Riverside,US,85502,N,2020-03-22,1,0.0,One-time
+CUST-01114,Thomas,Hughes,VA,Norfolk,US,87182,Y,2023-05-22,0,0.0,One-time
+CUST-01115,David,Garcia,IL,Chicago,US,30863,N,2022-12-04,1,57.98,One-time
+CUST-01116,Jacob,Adams,WI,Riverside,US,41013,N,2021-08-07,6,431.21,VIP
+CUST-01117,Ethan,Turner,NM,Springfield,US,18116,N,2024-03-01,1,89.73,One-time
+CUST-01118,Mia,Mitchell,TX,Fort Worth,US,92744,Y,2024-05-29,0,0.0,One-time
+CUST-01119,Cynthia,Carter,ME,Riverside,US,93544,Y,2019-08-08,0,0.0,One-time
+CUST-01120,Carlos,Torres,FL,Orlando,US,36370,Y,2018-10-31,1,114.92,One-time
+CUST-01121,Matthew,Lopez,NC,Charlotte,US,92459,N,2021-12-04,1,98.79,One-time
+CUST-01122,James,Campbell,TX,Austin,US,84487,N,2016-05-16,1,19.25,One-time
+CUST-01123,Sophia,Chavez,CA,Sacramento,US,75034,N,2018-01-29,3,121.35,Repeat
+CUST-01124,Melissa,Rivera,FL,Fort Lauderdale,US,83229,Y,2025-04-12,0,0.0,One-time
+CUST-01125,Edward,Martinez,CT,Georgetown,US,20242,Y,2020-12-02,2,160.34,Repeat
+CUST-01126,Sandra,Miller,VA,Norfolk,US,12954,Y,2017-02-17,5,291.24,VIP
+CUST-01127,Liam,Rivera,MT,Springfield,US,30691,Y,2025-04-15,1,44.45,One-time
+CUST-01128,Eric,Ward,CA,Sacramento,US,50925,Y,2022-06-14,1,68.09,One-time
+CUST-01129,Justin,Stewart,CA,San Jose,US,95620,N,2023-10-28,6,546.82,VIP
+CUST-01130,Mia,Davis,IL,Naperville,US,36769,Y,2018-12-04,0,0.0,One-time
+CUST-01131,Linda,Walker,AL,Centerville,US,19556,N,2024-06-29,1,107.91,One-time
+CUST-01132,Mia,Jones,AZ,Mesa,US,19275,N,2022-11-03,1,21.66,One-time
+CUST-01133,Stephen,Morris,CO,Riverside,US,45456,N,2022-11-13,2,111.39,Repeat
+CUST-01134,Priya,Hall,TX,Austin,US,72599,Y,2021-07-27,0,0.0,One-time
+CUST-01135,Linda,Brown,IA,Riverside,US,80016,Y,2018-07-21,1,0.0,One-time
+CUST-01136,Stephen,Morris,OH,Columbus,US,60741,N,2023-09-01,1,51.76,One-time
+CUST-01137,Stephen,Moore,MN,Springfield,US,67403,N,2020-10-26,3,356.15,Repeat
+CUST-01138,Amanda,Parker,TN,Nashville,US,41217,Y,2020-02-15,6,964.61,VIP
+CUST-01139,Ethan,Morgan,MA,Boston,US,11952,Y,2018-07-19,1,51.35,One-time
+CUST-01140,Thomas,Cruz,NY,Buffalo,US,47040,Y,2016-08-20,6,928.88,VIP
+CUST-01141,Donna,Taylor,IL,Peoria,US,72744,N,2023-05-07,2,166.57,Repeat
+CUST-01142,Pamela,Clark,WI,Centerville,US,56787,Y,2016-11-08,0,0.0,One-time
+CUST-01143,George,Peterson,KS,Fairview,US,95674,N,2020-12-21,2,187.09,Repeat
+CUST-01144,Nicholas,Wilson,ID,Springfield,US,55434,N,2019-07-30,0,0.0,One-time
+CUST-01145,William,Clark,SC,Riverside,US,78287,Y,2022-12-22,4,407.93,Repeat
+CUST-01146,Noah,Jackson,LA,Springfield,US,40815,Y,2018-05-13,3,65.3,Repeat
+CUST-01147,Robert,Murphy,MO,Springfield,US,45428,N,2021-02-01,3,98.99,Repeat
+CUST-01148,Linda,Scott,OH,Toledo,US,74927,N,2025-04-11,7,422.21,VIP
+CUST-01149,Anthony,Carter,OH,Cleveland,US,96497,Y,2020-12-23,1,107.49,One-time
+CUST-01150,Mia,Hall,CA,Los Angeles,US,89788,Y,2019-06-03,1,74.16,One-time
+CUST-01151,Ethan,Ramos,IL,Naperville,US,13584,N,2025-04-15,0,0.0,One-time
+CUST-01152,Henry,Davis,NV,Springfield,US,82521,N,2020-11-12,1,88.7,One-time
+CUST-01153,Jonathan,Reyes,AL,Centerville,US,85052,Y,2023-08-08,0,0.0,One-time
+CUST-01154,Edward,Reyes,OR,Riverside,US,27284,Y,2018-12-01,1,29.77,One-time
+CUST-01155,William,Young,NY,Syracuse,US,48774,N,2023-08-27,0,0.0,One-time
+CUST-01156,Paul,James,GA,Augusta,US,95594,Y,2022-11-26,1,0.0,One-time
+CUST-01157,Hiroshi,Adams,CO,Fairview,US,33433,Y,2017-05-24,1,91.64,One-time
+CUST-01158,Melissa,Morris,CA,Fresno,US,82955,Y,2016-02-06,2,244.03,Repeat
+CUST-01159,Brandon,Peterson,CA,San Jose,US,18394,Y,2016-11-21,0,0.0,One-time
+CUST-01160,Angela,Taylor,NY,Buffalo,US,92619,Y,2024-10-27,2,97.34,Repeat
+CUST-01161,Joseph,Wood,MS,Springfield,US,34150,Y,2023-05-10,3,186.14,Repeat
+CUST-01162,Stephen,Alvarez,AR,Riverside,US,17970,Y,2022-07-03,0,0.0,One-time
+CUST-01163,Melissa,Cooper,WY,Springfield,US,88719,Y,2018-11-20,3,36.73,Repeat
+CUST-01164,Emma,Martinez,TX,San Antonio,US,36744,Y,2021-09-07,1,182.15,One-time
+CUST-01165,Elizabeth,Chavez,OH,Toledo,US,47104,N,2025-03-23,2,215.98,Repeat
+CUST-01166,Timothy,Wood,IL,Springfield,US,71693,Y,2024-11-02,2,373.91,Repeat
+CUST-01167,Jennifer,Nguyen,PA,Pittsburgh,US,87493,Y,2016-05-07,3,289.45,Repeat
+CUST-01168,Olivia,Rogers,CO,Georgetown,US,55095,Y,2025-01-22,0,0.0,One-time
+CUST-01169,Noah,Martin,OH,Toledo,US,95093,Y,2022-07-14,1,13.44,One-time
+CUST-01170,Samantha,Watson,CA,Sacramento,US,64798,Y,2018-07-08,2,127.13,Repeat
+CUST-01171,Rachel,Stewart,TX,El Paso,US,78740,N,2021-12-01,0,0.0,One-time
+CUST-01172,Donna,Young,PA,Allentown,US,41860,N,2018-03-09,1,42.31,One-time
+CUST-01173,Isabella,Anderson,VT,Riverside,US,68328,Y,2018-08-03,1,58.72,One-time
+CUST-01174,Nicole,Cook,NM,Springfield,US,57486,Y,2020-01-22,0,0.0,One-time
+CUST-01175,Sandra,Reed,CO,Riverside,US,80466,N,2021-01-12,4,219.57,Repeat
+CUST-01176,Sarah,Cox,HI,Fairview,US,47602,Y,2023-07-24,1,63.12,One-time
+CUST-01177,Charles,Kelly,TX,Austin,US,92920,Y,2020-07-31,3,234.58,Repeat
+CUST-01178,Mary,Perez,FL,Miami,US,64870,N,2018-01-06,4,407.92,Repeat
+CUST-01179,Thomas,Jones,AZ,Scottsdale,US,13136,N,2021-04-08,0,0.0,One-time
+CUST-01180,Brenda,Roberts,WY,Centerville,US,56447,Y,2017-06-26,2,109.42,Repeat
+CUST-01181,Jessica,Baker,MN,Fairview,US,87526,N,2018-09-15,0,0.0,One-time
+CUST-01182,Mason,Rivera,TX,Austin,US,63592,Y,2024-02-06,0,0.0,One-time
+CUST-01183,Kathleen,Hughes,LA,Riverside,US,34045,Y,2020-11-19,1,19.86,One-time
+CUST-01184,William,Martin,MA,Boston,US,87798,N,2025-03-13,0,0.0,One-time
+CUST-01185,Jeffrey,Thompson,MD,Georgetown,US,87080,Y,2021-01-31,5,251.01,VIP
+CUST-01186,Amanda,Miller,OR,Georgetown,US,77853,Y,2018-08-09,1,83.71,One-time
+CUST-01187,Andrew,Adams,MA,Cambridge,US,51756,N,2025-06-19,1,40.32,One-time
+CUST-01188,Mason,Clark,AK,Centerville,US,78044,N,2016-06-20,5,305.77,VIP
+CUST-01189,Andrew,Perez,NM,Springfield,US,47728,Y,2019-07-11,3,165.9,Repeat
+CUST-01190,Kimberly,Cox,NC,Charlotte,US,40366,Y,2017-11-24,3,306.38,Repeat
+CUST-01191,Emma,Perez,TX,Houston,US,88432,Y,2018-04-27,1,10.4,One-time
+CUST-01192,Matthew,Smith,AK,Centerville,US,13378,Y,2022-01-20,2,172.99,Repeat
+CUST-01193,Jeffrey,Gutierrez,PA,Pittsburgh,US,69486,Y,2022-05-28,4,124.24,Repeat
+CUST-01194,Jessica,Cruz,TX,Austin,US,74651,N,2023-12-03,3,174.12,Repeat
+CUST-01195,Joseph,Rivera,AR,Springfield,US,39155,N,2019-02-14,0,0.0,One-time
+CUST-01196,Ryan,Watson,IL,Chicago,US,51262,Y,2021-09-07,1,37.25,One-time
+CUST-01197,Harper,Gutierrez,CA,San Jose,US,34955,N,2017-02-15,0,0.0,One-time
+CUST-01198,Aisha,Watson,WI,Springfield,US,42232,Y,2023-01-08,1,117.78,One-time
+CUST-01199,Kimberly,Stewart,OH,Cleveland,US,73505,N,2018-06-20,0,0.0,One-time
+CUST-01200,Aisha,Lopez,AL,Georgetown,US,38074,Y,2019-03-03,3,549.15,Repeat
+CUST-01201,Liam,Thompson,CA,Los Angeles,US,64808,Y,2022-04-03,0,0.0,One-time
+CUST-01202,Aisha,Hall,TN,Chattanooga,US,79528,Y,2023-01-28,0,0.0,One-time
+CUST-01203,Donna,Bennett,FL,Jacksonville,US,74254,N,2019-05-14,1,109.5,One-time
+CUST-01204,Donna,Gonzalez,GA,Savannah,US,24728,Y,2020-01-02,0,0.0,One-time
+CUST-01205,Cynthia,Adams,ID,Riverside,US,96824,Y,2024-07-26,0,0.0,One-time
+CUST-01206,Brian,Hughes,FL,Jacksonville,US,26784,N,2019-07-30,0,0.0,One-time
+CUST-01207,Scott,Evans,NJ,Jersey City,US,13796,N,2025-01-09,1,121.97,One-time
+CUST-01208,Nicole,Adams,VA,Norfolk,US,98472,Y,2024-10-11,1,109.22,One-time
+CUST-01209,Kimberly,Miller,GA,Augusta,US,73636,Y,2020-12-15,1,0.0,One-time
+CUST-01210,Cynthia,Evans,IL,Naperville,US,85039,Y,2025-03-06,0,0.0,One-time
+CUST-01211,Brandon,Ward,WA,Tacoma,US,26936,Y,2024-09-28,3,496.94,Repeat
+CUST-01212,Edward,Lopez,CA,Fresno,US,53684,Y,2024-02-06,2,244.19,Repeat
+CUST-01213,Michael,Gutierrez,OR,Riverside,US,57460,Y,2022-03-14,0,0.0,One-time
+CUST-01214,Olivia,Robinson,WY,Fairview,US,31155,Y,2025-05-26,0,0.0,One-time
+CUST-01215,Ashley,Johnson,IL,Chicago,US,12625,Y,2018-06-02,1,157.27,One-time
+CUST-01216,Gary,Garcia,WA,Spokane,US,47105,Y,2021-08-16,0,0.0,One-time
+CUST-01217,John,Wright,NY,New York,US,59526,N,2024-08-29,1,43.13,One-time
+CUST-01218,William,Martinez,TX,Houston,US,76127,,2024-04-21,0,0.0,One-time
+CUST-01219,Isabella,Cooper,KY,Georgetown,US,29902,Y,2020-08-28,6,614.81,VIP
+CUST-01220,Rachel,Flores,MA,Springfield,US,65725,Y,2020-05-21,3,442.36,Repeat
+CUST-01221,Richard,King,CA,Fresno,US,85523,Y,2019-01-27,1,0.0,One-time
+CUST-01222,Timothy,Bailey,PA,Allentown,US,73353,Y,2017-01-16,2,254.73,Repeat
+CUST-01223,Robert,Murphy,MN,Centerville,US,58855,Y,2021-09-06,1,165.02,One-time
+CUST-01224,Patricia,Gomez,SC,Riverside,US,68600,Y,2021-01-26,1,114.59,One-time
+CUST-01225,Charles,Watson,AZ,Phoenix,US,22502,Y,2023-03-17,0,0.0,One-time
+CUST-01226,William,Jackson,FL,Jacksonville,US,90804,Y,2021-06-29,0,0.0,One-time
+CUST-01227,Sandra,Davis,VA,Arlington,US,43033,Y,2025-06-01,1,99.63,One-time
+CUST-01228,Carol,Ruiz,LA,Georgetown,US,88476,Y,2025-05-10,2,31.71,Repeat
+CUST-01229,Nicole,Morales,CA,Sacramento,US,75511,Y,2023-09-28,1,29.77,One-time
+CUST-01230,Kathleen,Rogers,MO,Georgetown,US,20673,Y,2019-08-11,1,42.18,One-time
+CUST-01231,Ethan,Johnson,NC,Raleigh,US,78149,Y,2016-11-13,2,136.27,Repeat
+CUST-01232,Joseph,Jones,FL,Jacksonville,US,74904,N,2020-11-27,8,752.9,VIP
+CUST-01233,Stephen,Turner,CT,Centerville,US,11213,Y,2021-06-18,2,59.62,Repeat
+CUST-01234,Carlos,Wright,NC,Greensboro,US,90622,N,2019-04-20,1,81.06,One-time
+CUST-01235,Eric,Mendoza,AZ,Tucson,US,90478,Y,2017-11-10,2,262.44,Repeat
+CUST-01236,Amy,Clark,OH,Cincinnati,US,27739,Y,2022-10-12,6,582.91,VIP
+CUST-01237,Sharon,Thompson,SC,Riverside,US,71668,Y,2021-04-24,4,589.98,Repeat
+CUST-01238,Betty,Ruiz,VT,Springfield,US,80481,N,2019-07-01,0,0.0,One-time
+CUST-01239,Christopher,Rodriguez,TX,Dallas,US,93406,Y,2023-01-03,0,0.0,One-time
+CUST-01240,Matthew,Scott,FL,Tampa,US,65858,Y,2023-01-19,0,0.0,One-time
+CUST-01241,Steven,Bailey,PA,Pittsburgh,US,20154,N,2023-01-01,2,257.1,Repeat
+CUST-01242,Kimberly,Reed,TX,Houston,US,26607,Y,2018-06-05,0,0.0,One-time
+CUST-01243,Samantha,Ramos,MA,Springfield,US,90725,Y,2024-08-03,1,41.64,One-time
+CUST-01244,Sandra,Ramirez,MI,Detroit,US,90599,Y,2017-11-19,0,0.0,One-time
+CUST-01245,Michael,Moore,FL,Fort Lauderdale,US,67630,Y,2016-01-02,3,294.25,Repeat
+CUST-01246,Jessica,Walker,MI,Lansing,US,59454,Y,2019-05-24,0,0.0,One-time
+CUST-01247,Eric,Green,SC,Georgetown,US,20249,Y,2019-12-25,3,106.24,Repeat
+CUST-01248,Emily,Alvarez,NV,Riverside,US,67310,N,2017-11-11,3,213.07,Repeat
+CUST-01249,Jessica,Bailey,NJ,Paterson,US,95471,Y,2024-11-05,0,0.0,One-time
+CUST-01250,Lucas,Bennett,CA,San Jose,US,65584,N,2020-02-06,7,681.79,VIP
+CUST-01251,Daniel,Johnson,AZ,Tucson,US,67944,Y,2018-02-21,2,234.51,Repeat
+CUST-01252,Richard,Mitchell,FL,Tampa,US,75902,Y,2022-07-29,0,0.0,One-time
+CUST-01253,Wei,Morris,CO,Centerville,US,15756,Y,2016-05-17,1,21.66,One-time
+CUST-01254,Samantha,Brown,SC,Centerville,US,89632,Y,2019-01-28,1,159.08,One-time
+CUST-01255,Wei,Cooper,NJ,Newark,US,15006,N,2021-04-23,0,0.0,One-time
+CUST-01256,Mason,Thompson,TN,Memphis,US,20855,Y,2023-12-31,0,0.0,One-time
+CUST-01257,Liam,Davis,IA,Fairview,US,22776,Y,2016-08-17,1,29.77,One-time
+CUST-01258,Mason,Williams,NY,Rochester,US,98079,N,2018-03-06,1,40.54,One-time
+CUST-01259,Katherine,Campbell,PA,Philadelphia,US,97096,Y,2023-12-15,1,157.35,One-time
+CUST-01260,Matthew,Cook,NV,Riverside,US,44948,Y,2023-07-05,1,19.86,One-time
+CUST-01261,Ahmed,Cook,NC,Durham,US,32671,Y,2019-02-02,1,73.81,One-time
+CUST-01262,Nicole,Hall,NV,Springfield,US,54754,Y,2016-01-14,0,0.0,One-time
+CUST-01263,Amy,Lopez,NV,Springfield,US,21870,Y,2016-12-18,2,545.64,Repeat
+CUST-01264,Robert,Perez,CA,Los Angeles,US,38511,Y,2019-07-24,0,0.0,One-time
+CUST-01265,Michelle,Mendoza,MI,Grand Rapids,US,27397,N,2024-02-14,1,52.27,One-time
+CUST-01266,Sarah,Reed,OH,Cincinnati,US,64261,Y,2019-03-21,0,0.0,One-time
+CUST-01267,Donna,King,FL,Jacksonville,US,44674,Y,2018-03-27,0,0.0,One-time
+CUST-01268,Wei,Gutierrez,IL,Peoria,US,92709,Y,2020-01-29,1,87.21,One-time
+CUST-01269,Karen,Morgan,FL,Fort Lauderdale,US,37611,Y,2025-05-12,0,0.0,One-time
+CUST-01270,Harper,Torres,NC,Raleigh,US,54850,N,2023-03-31,1,0.0,One-time
+CUST-01271,Paul,Lopez,VA,Richmond,US,43844,N,2025-04-22,2,247.41,Repeat
+CUST-01272,Diego,White,NY,Albany,US,28325,Y,2017-04-17,0,0.0,One-time
+CUST-01273,Katherine,Jones,IL,Springfield,US,23711,Y,2022-04-28,0,0.0,One-time
+CUST-01274,Jacob,Nelson,MS,Fairview,US,94919,Y,2016-02-02,2,161.88,Repeat
+CUST-01275,Amy,Cooper,FL,Orlando,US,12850,Y,2020-01-06,0,0.0,One-time
+CUST-01276,Laura,Phillips,TN,Chattanooga,US,41927,Y,2022-08-28,2,193.0,Repeat
+CUST-01277,Rebecca,Hill,OH,Columbus,US,40710,Y,2019-10-15,0,0.0,One-time
+CUST-01278,Jason,Wright,WV,Georgetown,US,62527,Y,2021-09-07,1,171.65,One-time
+CUST-01279,Scott,Hughes,TX,Fort Worth,US,36012,N,2017-11-12,0,0.0,One-time
+CUST-01280,Kevin,Miller,AZ,Phoenix,US,50537,Y,2017-07-25,3,294.66,Repeat
+CUST-01281,Lisa,Collins,TX,Houston,US,96325,Y,2019-11-18,4,578.79,Repeat
+CUST-01282,Nancy,Walker,NE,Riverside,US,67219,Y,2019-05-19,5,255.7,VIP
+CUST-01283,Amelia,Mitchell,NY,New York,US,72566,Y,2023-09-05,4,297.58,Repeat
+CUST-01284,Grace,Ramirez,TX,Austin,US,97613,N,2022-03-02,0,0.0,One-time
+CUST-01285,Richard,Roberts,MI,Grand Rapids,US,51727,N,2018-09-21,0,0.0,One-time
+CUST-01286,Andrew,Gray,TX,El Paso,US,65652,Y,2024-09-02,0,0.0,One-time
+CUST-01287,Mason,Ramos,WA,Seattle,US,39057,Y,2019-11-21,1,81.11,One-time
+CUST-01288,Amanda,Cook,FL,Miami,US,90028,Y,2018-08-21,0,0.0,One-time
+CUST-01289,Sarah,Murphy,GA,Savannah,US,15799,Y,2016-11-12,3,52.58,Repeat
+CUST-01290,Nancy,Diaz,NC,Raleigh,US,47350,Y,2019-10-22,2,143.91,Repeat
+CUST-01291,Sharon,Thompson,MD,Riverside,US,62194,Y,2021-05-22,1,148.37,One-time
+CUST-01292,Brian,Mendoza,NV,Springfield,US,95966,N,2021-03-19,2,247.82,Repeat
+CUST-01293,Thomas,Kelly,CT,Georgetown,US,60330,Y,2016-02-20,3,157.05,Repeat
+CUST-01294,Rebecca,Diaz,CA,Los Angeles,US,49708,N,2023-05-02,1,36.01,One-time
+CUST-01295,Cynthia,Cook,LA,Fairview,US,72068,Y,2017-04-19,0,0.0,One-time
+CUST-01296,Daniel,Diaz,IA,Georgetown,US,60262,Y,2020-02-03,0,0.0,One-time
+CUST-01297,Liam,Ramos,CA,San Jose,US,35901,Y,2016-01-29,2,187.15,Repeat
+CUST-01298,Amy,Torres,TN,Nashville,US,25931,Y,2021-02-06,1,233.13,One-time
+CUST-01299,Maria,Mitchell,MI,Ann Arbor,US,65797,N,2016-07-24,2,79.59,Repeat
+CUST-01300,Paul,Thompson,PA,Allentown,US,56777,Y,2025-03-09,0,0.0,One-time
+CUST-01301,Scott,Anderson,NC,Greensboro,US,14798,Y,2019-05-04,1,149.3,One-time
+CUST-01302,Richard,Taylor,GA,Savannah,US,92958,Y,2017-12-18,0,0.0,One-time
+CUST-01303,Ahmed,Richardson,ID,Riverside,US,78623,N,2019-11-15,0,0.0,One-time
+CUST-01304,Charles,Cox,CA,Fresno,US,93599,Y,2019-08-30,2,127.42,Repeat
+CUST-01305,William,Baker,TX,El Paso,US,49581,N,2021-09-30,0,0.0,One-time
+CUST-01306,Priya,Hernandez,CA,San Francisco,US,25260,Y,2024-05-16,1,37.19,One-time
+CUST-01307,Pamela,Young,MA,Boston,US,59051,Y,2019-05-26,0,0.0,One-time
+CUST-01308,Ahmed,White,FL,Tampa,US,75740,Y,2020-11-24,0,0.0,One-time
+CUST-01309,Paul,Smith,CO,Centerville,US,37149,N,2018-01-12,3,213.16,Repeat
+CUST-01310,Amy,Kim,GA,Augusta,US,22733,Y,2017-06-15,3,196.02,Repeat
+CUST-01311,Brandon,Torres,CA,Fresno,US,89864,Y,2019-08-22,3,78.45,Repeat
+CUST-01312,Pamela,Roberts,MA,Cambridge,US,83093,Y,2023-02-13,2,31.72,Repeat
+CUST-01313,Karen,Reyes,IL,Peoria,US,37608,N,2019-11-19,0,0.0,One-time
+CUST-01314,John,James,FL,Fort Lauderdale,US,20303,Y,2020-05-16,1,71.09,One-time
+CUST-01315,Isabella,Ortiz,AZ,Mesa,US,49850,Y,2019-11-15,2,183.96,Repeat
+CUST-01316,Karen,Richardson,PA,Pittsburgh,US,91823,Y,2023-07-25,0,0.0,One-time
+CUST-01317,Andrew,Bailey,NC,Durham,US,40765,Y,2024-07-30,3,413.82,Repeat
+CUST-01318,Jessica,Gonzalez,WA,Bellevue,US,38613,Y,2020-03-30,7,859.12,VIP
+CUST-01319,Christopher,Phillips,TX,Fort Worth,US,63545,Y,2019-03-31,1,0.0,One-time
+CUST-01320,Lucas,Campbell,FL,Miami,US,97062,Y,2022-09-20,1,69.4,One-time
+CUST-01321,Nicholas,Morgan,AK,Georgetown,US,61402,Y,2024-07-17,2,541.77,Repeat
+CUST-01322,Cynthia,Lee,GA,Savannah,US,62435,Y,2024-06-26,2,338.98,Repeat
+CUST-01323,Priya,Thompson,WA,Seattle,US,60246,N,2019-09-30,3,237.8,Repeat
+CUST-01324,Aisha,Brown,GA,Savannah,US,28162,Y,2020-09-09,1,190.86,One-time
+CUST-01325,Sophia,Evans,VA,Virginia Beach,US,52601,Y,2016-11-25,1,83.36,One-time
+CUST-01326,Barbara,Mitchell,FL,Miami,US,88819,Y,2023-01-06,1,114.35,One-time
+CUST-01327,Matthew,Lee,MO,Centerville,US,58373,Y,2022-03-11,0,0.0,One-time
+CUST-01328,Betty,Adams,NY,Buffalo,US,48401,N,2021-04-18,2,233.39,Repeat
+CUST-01329,Ashley,Mendoza,CA,Sacramento,US,68150,Y,2022-06-23,0,0.0,One-time
+CUST-01330,Joseph,Cox,OK,Fairview,US,30875,Y,2021-03-04,5,335.14,VIP
+CUST-01331,John,Mendoza,AL,Centerville,US,78126,Y,2016-10-13,0,0.0,One-time
+CUST-01332,Kimberly,Alvarez,AR,Georgetown,US,25857,N,2016-10-15,0,0.0,One-time
+CUST-01333,Jeffrey,Morris,CO,Springfield,US,48399,N,2021-12-27,2,51.37,Repeat
+CUST-01334,George,Phillips,NV,Georgetown,US,92479,N,2024-02-18,1,128.27,One-time
+CUST-01335,Kimberly,Howard,NC,Charlotte,US,32145,Y,2017-05-23,1,191.33,One-time
+CUST-01336,Harper,Morris,WI,Riverside,US,44669,N,2017-08-04,2,116.62,Repeat
+CUST-01337,Liam,Morales,MO,Riverside,US,44078,Y,2016-10-30,1,98.5,One-time
+CUST-01338,Grace,King,MN,Georgetown,US,46083,N,2019-09-16,1,34.14,One-time
+CUST-01339,Patricia,Lewis,KY,Fairview,US,83864,Y,2017-08-29,0,0.0,One-time
+CUST-01340,Aisha,Flores,PA,Erie,US,67653,Y,2024-01-11,0,0.0,One-time
+CUST-01341,Charles,Cox,TX,Dallas,US,60361,N,2025-01-11,2,84.1,Repeat
+CUST-01342,Charles,Howard,NY,New York,US,44002,Y,2018-05-16,0,0.0,One-time
+CUST-01343,Jose,Perez,VA,Norfolk,US,94390,Y,2021-10-17,6,477.17,VIP
+CUST-01344,Edward,Morales,KS,Riverside,US,78843,Y,2019-07-11,0,0.0,One-time
+CUST-01345,David,Baker,NJ,Jersey City,US,50541,Y,2020-04-04,2,188.53,Repeat
+CUST-01346,Harper,Thomas,TX,El Paso,US,35813,N,2022-10-28,1,52.27,One-time
+CUST-01347,Isabella,Ortiz,MI,Grand Rapids,US,36546,N,2023-02-28,3,92.65,Repeat
+CUST-01348,Kevin,Cook,CA,Los Angeles,US,45582,Y,2023-01-09,0,0.0,One-time
+CUST-01349,William,Davis,WA,Bellevue,US,84278,Y,2024-04-24,1,0.0,One-time
+CUST-01350,Ahmed,Wood,NY,Buffalo,US,39928,N,2024-12-09,0,0.0,One-time
+CUST-01351,Paul,Peterson,MI,Ann Arbor,US,21974,N,2016-06-13,1,72.28,One-time
+CUST-01352,Thomas,Gutierrez,AL,Fairview,US,17977,N,2016-09-17,4,299.59,Repeat
+CUST-01353,Amy,Gonzalez,NY,Syracuse,US,16695,Y,2024-07-16,0,0.0,One-time
+CUST-01354,Jeffrey,Hernandez,IN,Centerville,US,35873,Y,2018-03-15,6,676.99,VIP
+CUST-01355,Larry,Johnson,MA,Cambridge,US,24617,Y,2022-09-16,3,362.17,Repeat
+CUST-01356,Aisha,Ward,NC,Durham,US,10064,Y,2023-03-17,5,988.51,VIP
+CUST-01357,Daniel,Nelson,GA,Macon,US,77397,Y,2019-01-13,2,417.71,Repeat
+CUST-01358,Ashley,Baker,MO,Fairview,US,98846,N,2018-12-18,1,29.19,One-time
+CUST-01359,Ethan,White,PA,Erie,US,10854,Y,2020-12-07,1,57.15,One-time
+CUST-01360,Daniel,Rodriguez,SD,Centerville,US,98208,Y,2021-04-11,1,114.21,One-time
+CUST-01361,Maria,Morgan,ME,Riverside,US,35374,Y,2020-12-20,1,50.86,One-time
+CUST-01362,Michelle,Green,KY,Georgetown,US,71849,Y,2018-05-23,1,0.0,One-time
+CUST-01363,Carlos,Martin,PA,Allentown,US,30498,Y,2022-11-01,6,455.29,VIP
+CUST-01364,Brandon,James,GA,Savannah,US,52687,N,2017-12-04,0,0.0,One-time
+CUST-01365,Sharon,Wright,VT,Riverside,US,44452,Y,2023-04-30,0,0.0,One-time
+CUST-01366,Michelle,Nelson,KS,Fairview,US,51333,Y,2019-05-28,0,0.0,One-time
+CUST-01367,James,Phillips,NC,Charlotte,US,63580,N,2020-05-30,1,51.35,One-time
+CUST-01368,Robert,Price,CT,Riverside,US,37342,N,2021-02-14,1,157.58,One-time
+CUST-01369,Carol,Diaz,NY,Albany,US,52688,Y,2025-05-03,1,25.68,One-time
+CUST-01370,Nicholas,Cruz,LA,Fairview,US,24003,Y,2024-12-10,7,495.77,VIP
+CUST-01371,Noah,Ramos,TX,Austin,US,16029,Y,2024-02-08,0,0.0,One-time
+CUST-01372,Emily,Cox,OH,Toledo,US,17774,Y,2023-12-03,2,310.08,Repeat
+CUST-01373,Jeffrey,Torres,IN,Springfield,US,71845,Y,2019-02-04,1,18.93,One-time
+CUST-01374,Sophia,Evans,LA,Riverside,US,29715,N,2019-08-22,0,0.0,One-time
+CUST-01375,Ashley,Adams,MA,Springfield,US,82964,Y,2022-04-20,1,0.0,One-time
+CUST-01376,Lucas,Rodriguez,PA,Allentown,US,57347,Y,2016-03-30,0,0.0,One-time
+CUST-01377,Amy,Robinson,NC,Durham,US,57474,Y,2018-05-29,0,0.0,One-time
+CUST-01378,Rachel,Williams,MD,Riverside,US,25622,Y,2023-11-23,4,195.84,Repeat
+CUST-01379,Michael,Ortiz,NC,Charlotte,US,77143,Y,2025-01-14,1,22.81,One-time
+CUST-01380,Carol,Morgan,AZ,Scottsdale,US,47047,N,2016-05-11,0,0.0,One-time
+CUST-01381,Barbara,Bailey,IN,Springfield,US,79699,Y,2024-03-27,6,315.21,VIP
+CUST-01382,Amy,Ward,VA,Richmond,US,19579,Y,2016-12-25,2,76.31,Repeat
+CUST-01383,Mason,Martin,NC,Greensboro,US,19571,Y,2019-02-08,3,261.83,Repeat
+CUST-01384,Ahmed,Parker,MA,Boston,US,62620,Y,2021-02-02,1,12.73,One-time
+CUST-01385,Mary,Lewis,CA,San Jose,US,65987,Y,2025-04-15,2,188.23,Repeat
+CUST-01386,Carol,Morgan,KS,Centerville,US,95670,N,2022-07-21,0,0.0,One-time
+CUST-01387,Olivia,Kelly,OR,Riverside,US,34752,N,2022-06-10,1,13.18,One-time
+CUST-01388,Jonathan,Cox,FL,Miami,US,26688,Y,2018-01-13,0,0.0,One-time
+CUST-01389,Sandra,James,AK,Riverside,US,36437,N,2019-09-03,2,279.48,Repeat
+CUST-01390,Margaret,Rivera,NC,Charlotte,US,27997,Y,2019-01-15,1,110.35,One-time
+CUST-01391,Edward,Brown,MT,Centerville,US,37339,N,2017-05-19,1,105.32,One-time
+CUST-01392,Lucas,Carter,NC,Charlotte,US,22170,Y,2020-06-23,0,0.0,One-time
+CUST-01393,Jessica,Lee,VA,Richmond,US,25775,N,2022-06-26,0,0.0,One-time
+CUST-01394,Kenneth,Turner,LA,Riverside,US,37568,N,2020-01-07,1,0.0,One-time
+CUST-01395,Emma,Anderson,CT,Centerville,US,12116,Y,2020-01-13,2,98.76,Repeat
+CUST-01396,Richard,Rivera,CT,Fairview,US,50629,N,2020-06-27,0,0.0,One-time
+CUST-01397,Grace,Hernandez,NC,Durham,US,71782,Y,2023-04-24,2,144.27,Repeat
+CUST-01398,Carol,Garcia,ND,Riverside,US,42636,Y,2024-03-07,5,665.95,VIP
+CUST-01399,Ahmed,Stewart,CA,Los Angeles,US,18019,Y,2021-10-25,1,44.98,One-time
+CUST-01400,Deborah,Richardson,FL,Jacksonville,US,30641,N,2024-04-18,1,60.46,One-time
+CUST-01401,Mason,Bennett,FL,Orlando,US,57850,N,2021-10-25,0,0.0,One-time
+CUST-01402,Anthony,Flores,TX,Austin,US,91960,Y,2017-10-27,1,115.59,One-time
+CUST-01403,Henry,Brown,NV,Fairview,US,13735,Y,2022-12-22,1,105.98,One-time
+CUST-01404,Jennifer,Cooper,CA,San Francisco,US,88447,N,2017-08-14,0,0.0,One-time
+CUST-01405,Mark,Lopez,FL,Jacksonville,US,18693,Y,2017-02-14,2,79.74,Repeat
+CUST-01406,Jonathan,Cruz,MI,Grand Rapids,US,89071,N,2020-08-27,0,0.0,One-time
+CUST-01407,Steven,Taylor,CA,San Jose,US,96032,Y,2021-05-04,0,0.0,One-time
+CUST-01408,Kathleen,Murphy,AK,Georgetown,US,35727,N,2023-06-30,2,248.76,Repeat
+CUST-01409,Mark,James,VA,Virginia Beach,US,22424,N,2025-01-12,1,68.26,One-time
+CUST-01410,Mark,Allen,PA,Pittsburgh,US,96424,Y,2022-11-24,1,124.62,One-time
+CUST-01411,Eric,Gutierrez,SC,Georgetown,US,44960,N,2021-03-07,0,0.0,One-time
+CUST-01412,Charles,Howard,TX,El Paso,US,14485,Y,2020-09-24,1,31.59,One-time
+CUST-01413,Betty,White,CT,Springfield,US,28737,Y,2023-02-01,3,256.39,Repeat
+CUST-01414,Carol,Johnson,NV,Georgetown,US,73016,Y,2018-09-01,0,0.0,One-time
+CUST-01415,Samantha,Phillips,IL,Peoria,US,38159,N,2023-01-19,0,0.0,One-time
+CUST-01416,Emily,Wood,NY,Syracuse,US,54217,Y,2020-12-06,0,0.0,One-time
+CUST-01417,Gary,Peterson,ID,Centerville,US,96933,Y,2018-11-11,2,185.4,Repeat
+CUST-01418,David,Campbell,KS,Centerville,US,94186,Y,2024-07-23,3,336.36,Repeat
+CUST-01419,Ryan,Anderson,WA,Seattle,US,82150,Y,2017-01-22,2,340.38,Repeat
+CUST-01420,Laura,Peterson,TX,Houston,US,76155,Y,2019-11-24,6,277.9,VIP
+CUST-01421,Maria,Lewis,UT,Springfield,US,36041,Y,2021-09-23,1,21.66,One-time
+CUST-01422,Larry,Ortiz,IL,Chicago,US,79881,N,2022-09-27,2,138.25,Repeat
+CUST-01423,Christopher,Gonzalez,NY,Buffalo,US,93218,Y,2021-12-14,1,154.05,One-time
+CUST-01424,Olivia,Martin,TN,Chattanooga,US,36502,N,2025-06-15,3,439.66,Repeat
+CUST-01425,Eric,Turner,AK,Centerville,US,71342,Y,2020-06-29,1,356.34,One-time
+CUST-01426,Steven,Price,AL,Georgetown,US,97571,Y,2019-05-13,1,186.58,One-time
+CUST-01427,David,Davis,ME,Centerville,US,28389,Y,2022-11-16,2,124.28,Repeat
+CUST-01428,Ashley,Gomez,UT,Riverside,US,94683,N,2024-07-28,0,0.0,One-time
+CUST-01429,Elizabeth,Lewis,MA,Springfield,US,28407,N,2018-10-15,1,181.86,One-time
+CUST-01430,Carlos,Martin,TX,San Antonio,US,68114,Y,2024-04-17,4,479.03,Repeat
+CUST-01431,Jessica,Gutierrez,NY,Rochester,US,78713,Y,2019-09-03,4,244.06,Repeat
+CUST-01432,Jeffrey,Hill,IN,Springfield,US,80943,Y,2021-04-13,0,0.0,One-time
+CUST-01433,Ethan,Baker,MI,Ann Arbor,US,15370,N,2016-10-15,0,0.0,One-time
+CUST-01434,Jason,Howard,ID,Riverside,US,73871,Y,2017-04-07,1,85.44,One-time
+CUST-01435,Sophia,Cox,FL,Fort Lauderdale,US,57520,Y,2017-02-26,4,226.75,Repeat
+CUST-01436,Laura,Turner,IA,Springfield,US,93631,N,2021-07-18,4,207.82,Repeat
+CUST-01437,Emily,Allen,OR,Georgetown,US,53100,N,2025-06-12,0,0.0,One-time
+CUST-01438,Richard,Alvarez,NV,Centerville,US,41816,Y,2019-12-31,0,0.0,One-time
+CUST-01439,Susan,Price,FL,Jacksonville,US,83488,N,2020-11-11,0,0.0,One-time
+CUST-01440,Fatima,Carter,AZ,Phoenix,US,88861,Y,2022-10-20,0,0.0,One-time
+CUST-01441,Samantha,Gonzalez,NV,Springfield,US,41275,N,2023-03-17,1,22.81,One-time
+CUST-01442,Ronald,Alvarez,MD,Springfield,US,55521,Y,2022-10-09,1,17.84,One-time
+CUST-01443,Eric,Jones,NC,Durham,US,92328,Y,2021-03-02,1,18.37,One-time
+CUST-01444,Nancy,Brown,NC,Greensboro,US,22950,Y,2016-04-15,3,178.68,Repeat
+CUST-01445,Steven,Rivera,GA,Augusta,US,56186,N,2016-04-26,2,12.84,Repeat
+CUST-01446,Carol,Collins,NY,Rochester,US,31049,N,2020-12-31,4,735.48,Repeat
+CUST-01447,Mason,Phillips,OR,Fairview,US,32551,Y,2022-02-19,1,132.04,One-time
+CUST-01448,Jonathan,Robinson,KS,Fairview,US,50086,Y,2019-09-29,2,73.24,Repeat
+CUST-01449,Jose,Murphy,AL,Riverside,US,60160,Y,2023-03-04,3,640.85,Repeat
+CUST-01450,Jeffrey,Campbell,KS,Riverside,US,32091,Y,2021-06-11,0,0.0,One-time
+CUST-01451,Nicholas,Hughes,TX,El Paso,US,83463,Y,2022-07-11,7,782.75,VIP
+CUST-01452,Grace,Martinez,AZ,Tucson,US,22237,Y,2017-12-29,6,565.34,VIP
+CUST-01453,Kimberly,Jackson,CO,Fairview,US,79838,Y,2023-06-09,1,102.7,One-time
+CUST-01454,Mason,Nguyen,TX,Fort Worth,US,84725,Y,2020-04-26,1,146.54,One-time
+CUST-01455,Jennifer,Young,IL,Naperville,US,97493,Y,2018-07-09,3,135.55,Repeat
+CUST-01456,Mark,Young,CA,San Diego,US,67718,N,2018-07-08,1,45.78,One-time
+CUST-01457,Robert,Ward,FL,Jacksonville,US,67534,Y,2016-02-20,2,219.8,Repeat
+CUST-01458,Nancy,Gutierrez,AZ,Scottsdale,US,92215,Y,2022-05-15,0,0.0,One-time
+CUST-01459,Liam,Campbell,WV,Fairview,US,66533,N,2020-05-04,2,160.11,Repeat
+CUST-01460,Melissa,Martinez,WV,Riverside,US,52160,Y,2018-08-19,2,234.32,Repeat
+CUST-01461,Justin,Taylor,WY,Springfield,US,76512,N,2018-10-08,0,0.0,One-time
+CUST-01462,Rachel,Robinson,WA,Tacoma,US,94536,N,2017-03-05,3,120.48,Repeat
+CUST-01463,Samantha,Miller,UT,Centerville,US,91108,Y,2018-07-06,1,135.34,One-time
+CUST-01464,Lisa,Williams,MA,Cambridge,US,83268,N,2016-09-21,0,0.0,One-time
+CUST-01465,Charles,Rodriguez,ID,Fairview,US,18573,N,2021-05-06,2,323.25,Repeat
+CUST-01466,Sophia,Brown,NY,Syracuse,US,74331,N,2018-10-29,1,0.0,One-time
+CUST-01467,Margaret,James,KY,Centerville,US,50609,N,2017-06-30,2,294.68,Repeat
+CUST-01468,Emma,Evans,MD,Riverside,US,80728,Y,2019-09-15,1,159.38,One-time
+CUST-01469,Michael,Alvarez,MA,Springfield,US,86997,N,2016-01-28,5,346.64,VIP
+CUST-01470,Timothy,Lee,VT,Riverside,US,42610,Y,2022-11-19,0,0.0,One-time
+CUST-01471,Patricia,Wood,OR,Centerville,US,25663,N,2018-01-04,1,15.31,One-time
+CUST-01472,Maria,Roberts,TX,Austin,US,59976,Y,2020-07-10,0,0.0,One-time
+CUST-01473,Michelle,Rivera,TX,San Antonio,US,66408,Y,2019-11-07,2,314.75,Repeat
+CUST-01474,Betty,Robinson,NJ,Trenton,US,94833,Y,2018-01-25,1,0.0,One-time
+CUST-01475,Steven,Williams,IL,Chicago,US,83023,Y,2024-06-06,4,604.04,Repeat
+CUST-01476,Brenda,Johnson,OH,Columbus,US,52842,Y,2017-11-21,0,0.0,One-time
+CUST-01477,David,Thompson,CA,San Diego,US,93424,Y,2022-05-15,0,0.0,One-time
+CUST-01478,Richard,Mendoza,FL,Orlando,US,88606,N,2018-06-13,0,0.0,One-time
+CUST-01479,Lucas,Thompson,FL,Fort Lauderdale,US,29510,N,2020-12-10,0,0.0,One-time
+CUST-01480,Jonathan,Thomas,NC,Greensboro,US,48198,Y,2022-12-23,0,0.0,One-time
+CUST-01481,Richard,Murphy,MD,Riverside,US,89102,Y,2022-08-14,6,376.45,VIP
+CUST-01482,Hiroshi,Peterson,TN,Chattanooga,US,68711,N,2019-10-13,0,0.0,One-time
+CUST-01483,George,Jackson,WI,Riverside,US,74325,Y,2016-09-25,5,450.82,VIP
+CUST-01484,Kathleen,James,GA,Atlanta,US,78136,Y,2020-01-07,2,107.77,Repeat
+CUST-01485,Grace,Morgan,MO,Georgetown,US,61666,Y,2021-11-29,2,33.84,Repeat
+CUST-01486,Cynthia,Sanchez,MO,Fairview,US,92095,Y,2019-03-03,1,0.0,One-time
+CUST-01487,Gary,Wilson,NC,Greensboro,US,83564,Y,2016-12-03,0,0.0,One-time
+CUST-01488,Lucas,Torres,OH,Columbus,US,79147,N,2021-07-31,0,0.0,One-time
+CUST-01489,Katherine,Kelly,FL,Fort Lauderdale,US,32722,Y,2016-12-31,1,122.29,One-time
+CUST-01490,Joshua,Roberts,LA,Riverside,US,56106,Y,2021-12-28,1,0.0,One-time
+CUST-01491,Laura,Rogers,CA,Sacramento,US,33368,N,2025-04-03,1,30.8,One-time
+CUST-01492,Richard,Collins,MD,Riverside,US,39041,N,2016-07-02,3,627.05,Repeat
+CUST-01493,Samantha,Brooks,CA,Sacramento,US,12043,Y,2018-04-13,2,78.57,Repeat
+CUST-01494,Donna,Smith,OH,Cleveland,US,96454,Y,2023-09-24,0,0.0,One-time
+CUST-01495,Sandra,Mitchell,NV,Centerville,US,15866,N,2017-12-26,1,61.55,One-time
+CUST-01496,Jason,Mendoza,CO,Georgetown,US,92076,N,2022-12-21,0,0.0,One-time
+CUST-01497,Paul,Evans,MT,Springfield,US,64511,N,2023-04-30,3,232.34,Repeat
+CUST-01498,Amelia,Morales,OH,Cincinnati,US,88660,N,2025-06-13,3,199.18,Repeat
+CUST-01499,Cynthia,Taylor,MN,Riverside,US,19243,N,2016-06-20,2,121.76,Repeat
+CUST-01500,Nancy,Morgan,TX,Dallas,US,31937,Y,2024-11-14,0,0.0,One-time
+CUST-01501,Ahmed,Gomez,NY,Rochester,US,80288,N,2023-08-20,4,364.89,Repeat
+CUST-01502,Jessica,Gomez,KS,Riverside,US,21338,Y,2018-12-07,2,240.75,Repeat
+CUST-01503,John,Stewart,NJ,Paterson,US,24331,Y,2017-06-04,2,172.78,Repeat
+CUST-01504,Mia,Ruiz,CA,Los Angeles,US,41686,Y,2020-05-08,0,0.0,One-time
+CUST-01505,Scott,Garcia,OH,Cleveland,US,37581,Y,2024-04-12,1,138.0,One-time
+CUST-01506,Amanda,Allen,CA,San Diego,US,55890,N,2016-02-28,0,0.0,One-time
+CUST-01507,Karen,Nguyen,WV,Georgetown,US,18342,Y,2016-08-19,2,78.0,Repeat
+CUST-01508,Jeffrey,Brown,IN,Centerville,US,19094,N,2019-10-07,3,351.38,Repeat
+CUST-01509,Charles,Peterson,CO,Fairview,US,17433,Y,2019-03-24,4,244.28,Repeat
+CUST-01510,Jose,Perez,CA,Fresno,US,52160,Y,2021-10-22,0,0.0,One-time
+CUST-01511,James,Carter,TX,Houston,US,83755,N,2017-03-01,2,177.29,Repeat
+CUST-01512,Mark,Watson,OH,Columbus,US,83877,Y,2022-05-11,1,190.75,One-time
+CUST-01513,Samantha,Chavez,CA,San Francisco,US,47023,N,2025-03-29,1,95.24,One-time
+CUST-01514,Gary,Ward,OH,Cincinnati,US,55239,Y,2024-05-22,0,0.0,One-time
+CUST-01515,Karen,Collins,IN,Georgetown,US,57203,N,2021-05-16,3,351.57,Repeat
+CUST-01516,Stephanie,Allen,PA,Pittsburgh,US,58244,Y,2024-03-13,1,133.71,One-time
+CUST-01517,Ryan,Evans,NC,Raleigh,US,62721,Y,2019-05-13,3,344.18,Repeat
+CUST-01518,Sharon,Turner,IN,Centerville,US,69285,N,2018-05-02,1,38.5,One-time
+CUST-01519,Fatima,Phillips,OH,Cleveland,US,79459,Y,2020-01-29,6,791.04,VIP
+CUST-01520,Sophia,James,FL,Fort Lauderdale,US,57633,Y,2018-02-21,1,161.28,One-time
+CUST-01521,Deborah,Chavez,AZ,Mesa,US,37985,N,2024-07-26,1,35.07,One-time
+CUST-01522,Joshua,Richardson,MI,Lansing,US,16669,N,2022-02-01,5,498.42,VIP
+CUST-01523,Eric,Parker,IL,Naperville,US,68062,N,2017-10-03,6,434.97,VIP
+CUST-01524,Paul,Mendoza,FL,Fort Lauderdale,US,30428,N,2022-05-13,3,527.12,Repeat
+CUST-01525,Timothy,Green,MA,Cambridge,US,42204,Y,2024-12-24,2,396.0,Repeat
+CUST-01526,Mia,Ward,TX,Fort Worth,US,92324,Y,2021-06-16,0,0.0,One-time
+CUST-01527,Robert,Johnson,MD,Springfield,US,53451,Y,2024-10-28,0,0.0,One-time
+CUST-01528,Karen,Ramirez,PA,Allentown,US,18653,Y,2020-01-01,0,0.0,One-time
+CUST-01529,Cynthia,Stewart,HI,Fairview,US,32966,N,2022-07-17,1,21.32,One-time
+CUST-01530,Karen,Lee,TX,Austin,US,25524,Y,2022-04-20,1,17.61,One-time
+CUST-01531,Diego,Stewart,TN,Knoxville,US,42688,Y,2017-10-10,2,349.56,Repeat
+CUST-01532,Richard,Garcia,WI,Riverside,US,59931,N,2017-08-23,0,0.0,One-time
+CUST-01533,Ahmed,Campbell,NJ,Paterson,US,86662,Y,2024-08-08,0,0.0,One-time
+CUST-01534,Fatima,Reed,NC,Greensboro,US,54535,N,2016-03-22,0,0.0,One-time
+CUST-01535,Jose,Hill,NE,Centerville,US,29593,Y,2016-10-09,3,226.13,Repeat
+CUST-01536,Aisha,Adams,RI,Fairview,US,20888,Y,2023-07-02,1,77.29,One-time
+CUST-01537,Katherine,Turner,VT,Riverside,US,57869,Y,2021-07-19,1,90.8,One-time
+CUST-01538,Patricia,Morales,FL,Tampa,US,31873,N,2019-02-21,4,227.2,Repeat
+CUST-01539,Laura,Baker,NY,New York,US,45761,Y,2019-06-09,2,82.08,Repeat
+CUST-01540,Kevin,Peterson,KY,Springfield,US,27124,N,2021-02-19,0,0.0,One-time
+CUST-01541,Robert,Hill,ME,Centerville,US,36167,N,2016-02-13,0,0.0,One-time
+CUST-01542,Paul,Hughes,OH,Toledo,US,53992,N,2016-05-27,0,0.0,One-time
+CUST-01543,Liam,Baker,VA,Richmond,US,55382,Y,2024-10-16,1,50.4,One-time
+CUST-01544,William,Edwards,AZ,Phoenix,US,97323,Y,2021-06-25,2,549.39,Repeat
+CUST-01545,Thomas,Wilson,AR,Riverside,US,19753,Y,2017-04-09,2,29.46,Repeat
+CUST-01546,Amelia,Lopez,CA,Los Angeles,US,11264,N,2022-05-31,1,80.42,One-time
+CUST-01547,Jose,Martinez,LA,Riverside,US,86382,N,2019-10-29,0,0.0,One-time
+CUST-01548,Kevin,Bennett,MS,Springfield,US,90290,Y,2021-03-02,3,317.17,Repeat
+CUST-01549,William,White,SC,Springfield,US,22004,N,2018-03-28,3,135.28,Repeat
+CUST-01550,Olivia,Hernandez,OK,Centerville,US,51996,Y,2018-08-12,2,394.57,Repeat
+CUST-01551,Angela,Cox,FL,Orlando,US,71500,Y,2025-03-02,6,412.66,VIP
+CUST-01552,Nicholas,Smith,MD,Springfield,US,33049,Y,2016-09-07,0,0.0,One-time
+CUST-01553,Matthew,Hughes,NY,New York,US,19932,Y,2022-01-29,5,436.55,VIP
+CUST-01554,Christopher,Gomez,IA,Georgetown,US,48891,N,2024-06-24,0,0.0,One-time
+CUST-01555,Steven,Hall,VA,Richmond,US,79540,Y,2019-03-15,6,204.2,VIP
+CUST-01556,Ethan,Lee,NE,Springfield,US,18076,Y,2023-08-31,3,163.33,Repeat
+CUST-01557,Ethan,Parker,IL,Chicago,US,98347,Y,2024-03-21,0,0.0,One-time
+CUST-01558,Carlos,Lopez,SC,Fairview,US,87088,N,2016-02-19,2,385.31,Repeat
+CUST-01559,Carlos,Rodriguez,NH,Georgetown,US,44398,N,2023-10-30,0,0.0,One-time
+CUST-01560,Kathleen,Mitchell,PA,Erie,US,49353,N,2020-01-06,1,89.64,One-time
+CUST-01561,Katherine,Perez,PA,Philadelphia,US,56254,Y,2024-05-09,1,88.7,One-time
+CUST-01562,Rebecca,Reyes,NM,Centerville,US,69267,N,2019-08-21,1,13.62,One-time
+CUST-01563,Patricia,Moore,LA,Fairview,US,59998,Y,2020-04-28,1,19.86,One-time
+CUST-01564,Laura,James,IN,Riverside,US,29796,Y,2020-06-24,1,22.81,One-time
+CUST-01565,Jacob,Martin,FL,Tampa,US,54212,Y,2017-01-23,5,721.31,VIP
+CUST-01566,Stephen,Scott,NJ,Jersey City,US,34896,Y,2017-10-10,0,0.0,One-time
+CUST-01567,Christopher,Morales,AL,Springfield,US,56316,Y,2020-11-07,1,211.62,One-time
+CUST-01568,Rachel,Nguyen,CA,San Diego,US,40821,N,2019-08-17,0,0.0,One-time
+CUST-01569,Mary,Flores,NJ,Jersey City,US,54378,Y,2018-06-05,0,0.0,One-time
+CUST-01570,Scott,Taylor,MD,Georgetown,US,46948,Y,2020-10-23,0,0.0,One-time
+CUST-01571,Deborah,Reed,OH,Toledo,US,18273,N,2023-09-21,5,292.16,VIP
+CUST-01572,Carol,Ruiz,OH,Cleveland,US,50964,Y,2018-10-05,0,0.0,One-time
+CUST-01573,Nicole,Baker,WV,Georgetown,US,53392,N,2021-05-04,1,149.63,One-time
+CUST-01574,Samantha,Robinson,WV,Georgetown,US,89873,N,2019-08-11,3,420.95,Repeat
+CUST-01575,Robert,Green,UT,Georgetown,US,22528,Y,2021-06-24,0,0.0,One-time
+CUST-01576,Gary,Reyes,TX,Fort Worth,US,44866,Y,2019-08-10,4,254.76,Repeat
+CUST-01577,Emily,Alvarez,OH,Cleveland,US,57681,N,2018-03-02,1,85.72,One-time
+CUST-01578,James,Adams,CA,San Jose,US,91350,Y,2018-10-07,2,380.04,Repeat
+CUST-01579,Gary,Green,TX,Fort Worth,US,80295,N,2019-01-22,5,480.9,VIP
+CUST-01580,Scott,Cox,CT,Springfield,US,48747,N,2018-02-09,1,132.04,One-time
+CUST-01581,Nicholas,Torres,LA,Riverside,US,59284,Y,2018-03-09,1,64.06,One-time
+CUST-01582,Anthony,Jackson,UT,Fairview,US,13313,Y,2016-02-14,2,189.14,Repeat
+CUST-01583,Amy,Jackson,MO,Centerville,US,92036,Y,2020-09-22,1,75.67,One-time
+CUST-01584,Susan,Scott,TX,Austin,US,46169,N,2020-12-24,4,198.0,Repeat
+CUST-01585,Thomas,Adams,CO,Springfield,US,26241,Y,2019-03-12,5,447.91,VIP
+CUST-01586,Kenneth,Carter,IL,Chicago,US,92429,Y,2021-05-08,1,51.8,One-time
+CUST-01587,Mia,Jones,IL,Springfield,US,52469,Y,2017-12-30,0,0.0,One-time
+CUST-01588,Olivia,Alvarez,AZ,Tucson,US,75100,Y,2021-09-26,4,551.32,Repeat
+CUST-01589,Christopher,Alvarez,CA,San Diego,US,22040,Y,2017-09-12,1,0.0,One-time
+CUST-01590,Amanda,Rodriguez,SD,Centerville,US,62502,Y,2019-10-17,0,0.0,One-time
+CUST-01591,Ahmed,Martin,WA,Seattle,US,37165,N,2023-03-13,1,134.32,One-time
+CUST-01592,Linda,Chavez,TX,El Paso,US,83096,Y,2018-12-04,3,155.33,Repeat
+CUST-01593,Jennifer,Garcia,MO,Riverside,US,40495,Y,2023-10-27,2,97.8,Repeat
+CUST-01594,Carol,Roberts,AK,Centerville,US,12523,Y,2017-07-17,2,77.69,Repeat
+CUST-01595,Grace,Turner,PA,Philadelphia,US,15259,N,2016-04-06,7,1168.24,VIP
+CUST-01596,James,Hall,CA,Fresno,US,20567,Y,2018-07-29,0,0.0,One-time
+CUST-01597,Margaret,Martin,OH,Columbus,US,92271,Y,2025-04-18,1,130.72,One-time
+CUST-01598,Stephanie,Lee,PA,Pittsburgh,US,89641,Y,2022-03-28,4,801.61,VIP
+CUST-01599,Priya,Torres,FL,Jacksonville,US,13777,Y,2018-12-02,1,66.26,One-time
+CUST-01600,Rebecca,Clark,ND,Riverside,US,24770,Y,2023-07-14,4,435.35,Repeat
+CUST-01601,Anthony,Sanchez,CT,Georgetown,US,49139,N,2024-04-30,1,88.7,One-time
+CUST-01602,George,Reyes,MD,Springfield,US,94912,N,2022-08-26,1,40.54,One-time
+CUST-01603,Emma,Brown,AZ,Mesa,US,11620,Y,2025-06-17,2,149.32,Repeat
+CUST-01604,Noah,Roberts,FL,Tampa,US,70015,Y,2019-09-29,0,0.0,One-time
+CUST-01605,Kathleen,Bailey,CO,Georgetown,US,47400,N,2017-11-07,0,0.0,One-time
+CUST-01606,Susan,Smith,WI,Springfield,US,91169,Y,2018-10-14,1,221.82,One-time
+CUST-01607,Joshua,Cruz,CA,San Francisco,US,84463,N,2019-01-28,1,37.57,One-time
+CUST-01608,Matthew,Diaz,TX,El Paso,US,58866,Y,2020-02-16,5,415.4,VIP
+CUST-01609,John,Thomas,GA,Augusta,US,28591,Y,2016-04-01,4,256.43,Repeat
+CUST-01610,Jessica,Brooks,RI,Springfield,US,72456,N,2024-12-23,3,193.72,Repeat
+CUST-01611,Justin,Ruiz,TX,Fort Worth,US,45800,Y,2024-02-16,3,512.18,Repeat
+CUST-01612,Ahmed,Martin,MN,Riverside,US,18540,Y,2021-05-18,1,32.53,One-time
+CUST-01613,Amy,Evans,OH,Cleveland,US,11739,Y,2016-06-01,0,0.0,One-time
+CUST-01614,Emily,Price,CA,San Jose,US,72805,N,2016-09-15,5,329.76,VIP
+CUST-01615,Matthew,Walker,NY,Albany,US,10255,Y,2023-07-12,1,70.2,One-time
+CUST-01616,Laura,Bailey,CA,Fresno,US,74032,N,2022-04-25,1,75.3,One-time
+CUST-01617,George,Lopez,SC,Georgetown,US,58142,Y,2024-04-29,2,259.21,Repeat
+CUST-01618,Deborah,Peterson,MI,Grand Rapids,US,52036,Y,2017-11-02,1,78.38,One-time
+CUST-01619,Deborah,Reyes,IL,Springfield,US,48331,Y,2017-12-13,5,421.93,VIP
+CUST-01620,Timothy,Campbell,MD,Centerville,US,21330,N,2021-07-18,0,0.0,One-time
+CUST-01621,Wei,Reyes,NE,Centerville,US,80675,N,2019-09-25,0,0.0,One-time
+CUST-01622,Diego,Jackson,FL,Fort Lauderdale,US,54780,Y,2016-06-24,0,0.0,One-time
+CUST-01623,Samantha,Moore,NV,Riverside,US,61950,N,2017-10-15,4,49.25,Repeat
+CUST-01624,Pamela,Garcia,GA,Atlanta,US,85427,N,2017-04-03,2,165.17,Repeat
+CUST-01625,Mason,Robinson,RI,Fairview,US,74117,N,2023-06-15,2,221.58,Repeat
+CUST-01626,Ronald,Gutierrez,AL,Centerville,US,38714,Y,2024-12-08,0,0.0,One-time
+CUST-01627,Susan,Lewis,LA,Centerville,US,30408,N,2023-09-18,0,0.0,One-time
+CUST-01628,Harper,Cook,ID,Springfield,US,74907,N,2018-02-10,1,200.61,One-time
+CUST-01629,Rebecca,Hill,CA,San Diego,US,81036,Y,2019-06-09,0,0.0,One-time
+CUST-01630,Patricia,Nguyen,DE,Springfield,US,37143,Y,2018-02-21,3,360.09,Repeat
+CUST-01631,Cynthia,Thomas,OR,Centerville,US,56860,Y,2016-10-19,0,0.0,One-time
+CUST-01632,Stephanie,Mitchell,CA,San Diego,US,49817,Y,2022-09-13,0,0.0,One-time
+CUST-01633,Katherine,Garcia,MA,Cambridge,US,14131,Y,2021-05-13,0,0.0,One-time
+CUST-01634,Stephanie,Morgan,IL,Chicago,US,65404,N,2018-11-13,1,11.88,One-time
+CUST-01635,Maria,Morales,TN,Nashville,US,59803,N,2019-12-08,7,687.13,VIP
+CUST-01636,Pamela,Lopez,NJ,Newark,US,42163,Y,2016-12-21,2,33.54,Repeat
+CUST-01637,Isabella,Baker,SC,Riverside,US,89116,Y,2017-01-20,0,0.0,One-time
+CUST-01638,Liam,Edwards,CA,San Diego,US,90441,Y,2019-06-22,1,19.25,One-time
+CUST-01639,Carlos,Brown,CA,Sacramento,US,68252,Y,2017-06-09,4,279.07,Repeat
+CUST-01640,Stephanie,Morgan,FL,Miami,US,43187,N,2019-01-30,0,0.0,One-time
+CUST-01641,Cynthia,Nguyen,MN,Riverside,US,15218,Y,2021-07-04,0,0.0,One-time
+CUST-01642,Elizabeth,Sanchez,IL,Peoria,US,73733,N,2017-03-25,2,336.36,Repeat
+CUST-01643,Daniel,Carter,OH,Columbus,US,49620,N,2024-05-07,5,445.13,VIP
+CUST-01644,Angela,Robinson,IL,Peoria,US,25216,Y,2023-08-29,2,128.74,Repeat
+CUST-01645,Rachel,Reed,TX,Houston,US,67422,N,2024-04-20,1,144.89,One-time
+CUST-01646,Brenda,Ruiz,OK,Fairview,US,93208,Y,2020-10-27,0,0.0,One-time
+CUST-01647,Nicole,Hughes,GA,Macon,US,18773,Y,2016-05-17,5,720.94,VIP
+CUST-01648,Rebecca,Cook,NY,Buffalo,US,28025,Y,2023-06-15,5,400.06,VIP
+CUST-01649,Betty,Edwards,TX,El Paso,US,81554,Y,2022-05-25,0,0.0,One-time
+CUST-01650,Hiroshi,White,NY,Syracuse,US,64166,N,2016-09-30,3,282.9,Repeat
+CUST-01651,Sarah,Hughes,CA,San Francisco,US,11467,Y,2018-04-09,0,0.0,One-time
+CUST-01652,Fatima,Wright,VA,Virginia Beach,US,49759,Y,2016-02-19,0,0.0,One-time
+CUST-01653,Margaret,Harris,TX,El Paso,US,72227,N,2018-09-25,1,103.58,One-time
+CUST-01654,Aisha,Watson,FL,Fort Lauderdale,US,19295,Y,2017-12-07,2,119.51,Repeat
+CUST-01655,Mia,Rodriguez,TX,Austin,US,77290,Y,2021-09-19,1,87.47,One-time
+CUST-01656,Ethan,Evans,CA,Fresno,US,57411,Y,2017-11-05,1,256.53,One-time
+CUST-01657,Laura,Garcia,UT,Fairview,US,61724,Y,2020-07-22,6,270.02,VIP
+CUST-01658,Rachel,Lewis,WI,Riverside,US,72831,Y,2020-03-10,1,0.0,One-time
+CUST-01659,Ethan,Brooks,OK,Riverside,US,41632,Y,2020-07-23,1,109.62,One-time
+CUST-01660,Scott,Brown,PA,Erie,US,18694,Y,2024-09-01,2,74.67,Repeat
+CUST-01661,Wei,Garcia,SC,Fairview,US,46357,Y,2024-09-17,0,0.0,One-time
+CUST-01662,Amanda,Hill,MI,Ann Arbor,US,50388,N,2025-01-17,0,0.0,One-time
+CUST-01663,Ahmed,Ramos,MI,Grand Rapids,US,71515,Y,2021-06-20,0,0.0,One-time
+CUST-01664,Brandon,Watson,MN,Springfield,US,42976,Y,2019-11-03,0,0.0,One-time
+CUST-01665,Sandra,Green,RI,Fairview,US,41380,Y,2019-03-29,1,74.35,One-time
+CUST-01666,Kevin,Gutierrez,IL,Peoria,US,46506,Y,2019-06-08,3,381.74,Repeat
+CUST-01667,Brandon,Moore,NC,Greensboro,US,34899,Y,2023-05-23,1,49.25,One-time
+CUST-01668,Anthony,Reyes,OH,Cleveland,US,25363,Y,2022-02-01,0,0.0,One-time
+CUST-01669,Scott,Brooks,NM,Fairview,US,33996,Y,2023-02-28,1,30.93,One-time
+CUST-01670,Kathleen,Alvarez,CT,Fairview,US,84473,Y,2020-03-15,1,89.73,One-time
+CUST-01671,Steven,Thomas,IL,Peoria,US,82179,Y,2018-11-09,0,0.0,One-time
+CUST-01672,Steven,Murphy,CA,San Francisco,US,82174,N,2018-02-12,0,0.0,One-time
+CUST-01673,Paul,Miller,NY,Albany,US,92327,Y,2022-05-13,1,124.73,One-time
+CUST-01674,Kenneth,Thomas,CO,Riverside,US,33737,Y,2021-05-05,2,114.59,Repeat
+CUST-01675,David,Scott,KY,Springfield,US,81891,Y,2016-08-11,0,0.0,One-time
+CUST-01676,Maria,Diaz,TX,San Antonio,US,15234,N,2017-01-27,0,0.0,One-time
+CUST-01677,Jose,Scott,AZ,Mesa,US,66335,Y,2016-02-10,2,165.3,Repeat
+CUST-01678,Paul,Peterson,FL,Tampa,US,40980,Y,2022-10-08,1,47.2,One-time
+CUST-01679,Lisa,Roberts,AZ,Tucson,US,81003,,2019-07-21,1,107.91,One-time
+CUST-01680,Brandon,Wright,AK,Centerville,US,26326,Y,2017-01-08,4,224.96,Repeat
+CUST-01681,Brandon,Perez,IA,Riverside,US,38880,Y,2018-06-24,1,30.29,One-time
+CUST-01682,Justin,Kim,CA,San Francisco,US,68479,Y,2023-07-12,1,20.58,One-time
+CUST-01683,Jeffrey,Cruz,TX,San Antonio,US,60393,Y,2016-12-01,1,17.84,One-time
+CUST-01684,Paul,Clark,KY,Centerville,US,67232,Y,2016-04-04,1,0.0,One-time
+CUST-01685,Nicholas,Ward,WA,Bellevue,US,67958,Y,2019-08-12,0,0.0,One-time
+CUST-01686,Grace,Mendoza,OH,Toledo,US,32070,Y,2023-11-21,0,0.0,One-time
+CUST-01687,Emily,Young,FL,Tampa,US,40263,Y,2019-07-11,0,0.0,One-time
+CUST-01688,Larry,Young,NM,Springfield,US,69276,N,2016-04-09,1,67.09,One-time
+CUST-01689,Edward,Williams,CA,San Francisco,US,67185,Y,2022-05-30,1,77.81,One-time
+CUST-01690,Brian,Robinson,HI,Fairview,US,58050,Y,2017-01-01,0,0.0,One-time
+CUST-01691,Justin,Chavez,NY,Syracuse,US,88525,Y,2017-10-09,3,199.98,Repeat
+CUST-01692,George,Miller,FL,Orlando,US,21792,N,2016-05-28,1,104.16,One-time
+CUST-01693,Michael,Allen,TX,Houston,US,78846,N,2022-11-25,0,0.0,One-time
+CUST-01694,Laura,Scott,NC,Raleigh,US,40027,Y,2019-04-15,1,52.28,One-time
+CUST-01695,Barbara,Richardson,FL,Miami,US,85053,Y,2016-09-30,0,0.0,One-time
+CUST-01696,Stephen,Stewart,OK,Centerville,US,32010,Y,2024-04-23,5,391.62,VIP
+CUST-01697,Elizabeth,Rodriguez,CT,Springfield,US,45264,Y,2018-03-11,0,0.0,One-time
+CUST-01698,Stephen,Mitchell,FL,Orlando,US,30017,N,2017-05-23,2,242.26,Repeat
+CUST-01699,Lisa,Wright,FL,Fort Lauderdale,US,12715,Y,2024-10-28,0,0.0,One-time
+CUST-01700,Michael,Stewart,ID,Riverside,US,27339,Y,2020-06-01,5,782.17,VIP
+CUST-01701,Emily,Reyes,CO,Riverside,US,69630,Y,2020-02-13,2,219.87,Repeat
+CUST-01702,Rachel,Garcia,TX,Houston,US,59469,Y,2018-10-13,4,239.52,Repeat
+CUST-01703,Carlos,Gomez,PA,Erie,US,78819,N,2021-12-06,2,249.7,Repeat
+CUST-01704,Rachel,Kelly,MO,Centerville,US,42955,Y,2021-10-29,2,258.97,Repeat
+CUST-01705,Thomas,Jones,GA,Savannah,US,19622,N,2021-08-22,0,0.0,One-time
+CUST-01706,Timothy,Carter,OH,Toledo,US,49258,Y,2019-05-07,3,290.95,Repeat
+CUST-01707,Margaret,Parker,PA,Pittsburgh,US,68974,N,2018-03-24,3,220.71,Repeat
+CUST-01708,Harper,Hill,OK,Centerville,US,42046,Y,2024-05-26,2,84.86,Repeat
+CUST-01709,Rebecca,Reyes,WV,Centerville,US,58702,Y,2020-12-03,0,0.0,One-time
+CUST-01710,Ashley,Jackson,MI,Detroit,US,48721,N,2020-08-30,0,0.0,One-time
+CUST-01711,Laura,Martinez,IL,Springfield,US,56500,N,2020-05-02,1,235.21,One-time
+CUST-01712,Kathleen,Rodriguez,AZ,Mesa,US,53444,N,2016-06-14,4,448.05,Repeat
+CUST-01713,Richard,Jackson,ME,Georgetown,US,45338,Y,2017-11-10,4,240.92,Repeat
+CUST-01714,Patricia,Edwards,VA,Arlington,US,53783,Y,2023-01-27,1,56.86,One-time
+CUST-01715,Deborah,Miller,MI,Detroit,US,67461,Y,2022-12-21,0,0.0,One-time
+CUST-01716,Amelia,Peterson,NC,Charlotte,US,30097,Y,2021-10-06,0,0.0,One-time
+CUST-01717,Sophia,Brooks,OH,Cincinnati,US,28868,N,2023-05-29,4,362.17,Repeat
+CUST-01718,Emily,Gomez,NH,Riverside,US,15490,Y,2017-01-16,2,342.57,Repeat
+CUST-01719,Larry,Harris,CA,San Francisco,US,29876,Y,2017-06-28,1,31.59,One-time
+CUST-01720,David,Lee,AZ,Phoenix,US,44800,Y,2018-05-12,1,58.37,One-time
+CUST-01721,Lisa,Gray,OK,Centerville,US,24973,Y,2018-06-16,3,242.56,Repeat
+CUST-01722,Deborah,Stewart,MI,Ann Arbor,US,85634,Y,2019-11-04,2,267.81,Repeat
+CUST-01723,Diego,Bennett,NE,Fairview,US,79036,N,2025-02-17,1,104.54,One-time
+CUST-01724,Maria,Scott,MD,Georgetown,US,42151,Y,2024-01-14,6,317.01,VIP
+CUST-01725,Emma,Hill,CA,San Francisco,US,63046,Y,2021-06-02,3,87.58,Repeat
+CUST-01726,Susan,Jackson,MA,Worcester,US,38698,N,2024-12-27,1,14.63,One-time
+CUST-01727,Grace,Cooper,NY,Syracuse,US,57578,N,2017-09-19,0,0.0,One-time
+CUST-01728,William,Young,GA,Savannah,US,91665,Y,2022-05-09,1,96.27,One-time
+CUST-01729,Linda,Parker,ME,Centerville,US,66645,N,2016-09-28,5,1165.15,VIP
+CUST-01730,Deborah,Thomas,MI,Ann Arbor,US,40891,Y,2016-05-05,1,187.41,One-time
+CUST-01731,Rebecca,Parker,DC,Riverside,US,47547,Y,2020-06-11,2,111.08,Repeat
+CUST-01732,Carol,Ramos,CT,Centerville,US,20863,Y,2019-10-08,4,538.19,Repeat
+CUST-01733,Pamela,Diaz,CA,San Francisco,US,22099,Y,2024-04-08,1,0.0,One-time
+CUST-01734,Michael,Smith,OK,Centerville,US,33274,Y,2023-10-27,4,464.95,Repeat
+CUST-01735,Maria,Hughes,PA,Allentown,US,97301,,2025-06-17,1,93.14,One-time
+CUST-01736,John,Howard,CA,Los Angeles,US,15179,Y,2019-06-22,0,0.0,One-time
+CUST-01737,Ronald,Morales,UT,Springfield,US,45039,N,2018-02-26,1,40.79,One-time
+CUST-01738,Brandon,Torres,TN,Memphis,US,18512,Y,2021-11-24,2,81.25,Repeat
+CUST-01739,Grace,Rogers,KS,Springfield,US,75066,Y,2017-10-06,1,39.53,One-time
+CUST-01740,Amanda,Bennett,MN,Riverside,US,71952,Y,2016-05-11,1,39.03,One-time
+CUST-01741,Priya,Price,IL,Peoria,US,64784,Y,2021-09-15,1,262.15,One-time
+CUST-01742,Anthony,Walker,NY,Albany,US,29493,N,2019-06-20,2,52.55,Repeat
+CUST-01743,Jessica,Jackson,CA,Los Angeles,US,68840,Y,2016-08-28,3,163.89,Repeat
+CUST-01744,Ahmed,Green,AL,Georgetown,US,41359,N,2019-03-03,0,0.0,One-time
+CUST-01745,Fatima,Bennett,NC,Greensboro,US,37495,N,2017-05-17,1,83.42,One-time
+CUST-01746,Matthew,Hall,MO,Springfield,US,16411,Y,2020-01-31,7,813.4,VIP
+CUST-01747,Angela,Reyes,KS,Centerville,US,52412,Y,2018-10-29,2,31.59,Repeat
+CUST-01748,Jason,James,UT,Fairview,US,84261,N,2024-05-10,4,454.36,Repeat
+CUST-01749,Steven,Turner,FL,Miami,US,73818,Y,2024-10-13,1,107.91,One-time
+CUST-01750,Donald,Rogers,IL,Peoria,US,46419,N,2016-06-21,0,0.0,One-time
+CUST-01751,Mary,Watson,AL,Fairview,US,54952,Y,2020-09-07,2,81.06,Repeat
+CUST-01752,Lucas,Cook,OH,Cleveland,US,37664,,2016-01-12,4,385.7,Repeat
+CUST-01753,Emily,Ortiz,MD,Centerville,US,79302,N,2024-04-04,0,0.0,One-time
+CUST-01754,Lucas,Garcia,TN,Chattanooga,US,87460,Y,2022-11-12,1,109.5,One-time
+CUST-01755,Andrew,Nelson,WA,Seattle,US,63390,Y,2024-06-22,3,287.48,Repeat
+CUST-01756,Sharon,Reyes,ND,Georgetown,US,84959,Y,2016-09-14,2,86.04,Repeat
+CUST-01757,Kimberly,Hill,PA,Philadelphia,US,40077,Y,2022-08-17,0,0.0,One-time
+CUST-01758,Brenda,Robinson,MA,Boston,US,39071,Y,2020-06-05,1,109.5,One-time
+CUST-01759,Michael,Martinez,NC,Greensboro,US,80157,Y,2020-06-14,2,67.55,Repeat
+CUST-01760,Sophia,Brooks,WA,Tacoma,US,88675,Y,2020-09-03,0,0.0,One-time
+CUST-01761,Hiroshi,Peterson,NJ,Trenton,US,25187,Y,2022-07-04,0,0.0,One-time
+CUST-01762,Kevin,Thompson,ME,Georgetown,US,95996,Y,2020-05-12,3,287.24,Repeat
+CUST-01763,Ashley,Morris,MD,Springfield,US,23036,Y,2016-11-22,1,49.38,One-time
+CUST-01764,Donna,Bennett,LA,Fairview,US,64470,Y,2018-11-23,4,527.58,Repeat
+CUST-01765,Richard,Torres,NC,Greensboro,US,81082,Y,2024-03-05,0,0.0,One-time
+CUST-01766,Jessica,Smith,IN,Riverside,US,18648,,2016-11-08,0,0.0,One-time
+CUST-01767,Joseph,Edwards,OK,Fairview,US,25917,N,2019-01-11,1,253.87,One-time
+CUST-01768,Jessica,Morris,NV,Georgetown,US,46477,Y,2021-12-29,0,0.0,One-time
+CUST-01769,Stephanie,Harris,IL,Springfield,US,12389,Y,2017-01-11,0,0.0,One-time
+CUST-01770,David,Lee,TN,Memphis,US,54839,N,2024-11-23,5,876.98,VIP
+CUST-01771,Ethan,Watson,UT,Fairview,US,13904,Y,2021-12-30,1,93.48,One-time
+CUST-01772,Emma,Phillips,OH,Cleveland,US,31957,Y,2024-06-26,8,596.0,VIP
+CUST-01773,Grace,Rodriguez,IN,Riverside,US,96117,Y,2024-09-03,0,0.0,One-time
+CUST-01774,Stephanie,Adams,OR,Fairview,US,36098,N,2022-04-02,0,0.0,One-time
+CUST-01775,Melissa,Williams,CA,Fresno,US,58829,Y,2018-02-09,0,0.0,One-time
+CUST-01776,Kenneth,Reyes,GA,Atlanta,US,27574,Y,2025-05-23,0,0.0,One-time
+CUST-01777,Katherine,Moore,CO,Centerville,US,74794,N,2022-04-18,1,25.46,One-time
+CUST-01778,Jose,Jones,AZ,Mesa,US,42248,Y,2024-07-16,1,61.2,One-time
+CUST-01779,Susan,Davis,UT,Fairview,US,97139,Y,2019-04-16,1,69.33,One-time
+CUST-01780,Karen,Scott,TX,Dallas,US,64005,N,2018-11-23,0,0.0,One-time
+CUST-01781,Michelle,Hill,SD,Centerville,US,12979,Y,2020-01-30,6,792.82,VIP
+CUST-01782,Sarah,Ortiz,PA,Philadelphia,US,57517,N,2018-01-26,3,320.17,Repeat
+CUST-01783,Jessica,White,SD,Georgetown,US,37827,Y,2024-08-11,1,61.54,One-time
+CUST-01784,Mia,Peterson,CA,Sacramento,US,20441,Y,2016-07-20,0,0.0,One-time
+CUST-01785,Pamela,Hill,AZ,Mesa,US,23164,N,2022-06-22,0,0.0,One-time
+CUST-01786,Sharon,Lopez,KY,Fairview,US,45264,Y,2016-06-15,1,25.31,One-time
+CUST-01787,Katherine,Smith,TX,Houston,US,72518,N,2017-01-21,3,172.65,Repeat
+CUST-01788,Kimberly,Lee,CT,Georgetown,US,83556,Y,2020-07-20,3,84.42,Repeat
+CUST-01789,Priya,Reed,NY,New York,US,92685,Y,2019-09-30,0,0.0,One-time
+CUST-01790,Lisa,Mendoza,MI,Grand Rapids,US,63465,N,2024-03-03,4,492.2,Repeat
+CUST-01791,Sophia,Harris,VA,Arlington,US,81770,Y,2019-01-24,3,249.7,Repeat
+CUST-01792,Matthew,Ortiz,NC,Greensboro,US,55123,N,2022-11-16,1,55.67,One-time
+CUST-01793,Andrew,Wright,SD,Riverside,US,90790,,2020-08-12,0,0.0,One-time
+CUST-01794,Rachel,Murphy,TX,Houston,US,25022,Y,2020-09-17,0,0.0,One-time
+CUST-01795,Samantha,White,FL,Fort Lauderdale,US,25725,N,2018-11-02,1,63.64,One-time
+CUST-01796,Ashley,Garcia,NY,New York,US,99662,Y,2023-12-22,2,59.54,Repeat
+CUST-01797,Samantha,Smith,ND,Riverside,US,24519,N,2019-02-06,0,0.0,One-time
+CUST-01798,Cynthia,Jackson,CA,San Diego,US,94929,Y,2017-03-14,2,133.24,Repeat
+CUST-01799,Edward,James,MS,Georgetown,US,99170,N,2019-08-24,7,685.08,VIP
+CUST-01800,Stephanie,Rivera,WI,Riverside,US,97275,Y,2023-02-14,0,0.0,One-time

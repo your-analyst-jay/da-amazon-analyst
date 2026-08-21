@@ -1,0 +1,121 @@
+as_of_date,sku,asin,product_title,fulfillment_center,on_hand_units,reserved_units,inbound_units,unfulfillable_units,reorder_point,lead_time_days,last_restock_date
+2026-08-01,SKU-0001,B0R5E97R3C,AuroraTech Smart Plug — Noise Cancelling & HD 1080p,DFW6,13,1,0,0,6,42,2026-07-13
+2026-08-01,SKU-0002,B0MVKP1792,BrightBeam HDMI Cable — Bluetooth 5.3 & HD 1080p,ONT8,9,1,0,0,5,28,2026-06-05
+2026-08-01,SKU-0003,B0NL5Q5CZM,EverPeak USB-C Hub — Water Resistant & HD 1080p,MDW2,0,1,9,0,8,42,2026-07-26
+2026-08-01,SKU-0004,B0ANDXF98K,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,PHX7,0,2,19,2,10,60,2026-07-04
+2026-08-01,SKU-0005,B055PLDLF8,BrightBeam Webcam — Compact Design & 30H Battery Life,CLT2,13,1,0,0,5,14,2026-06-13
+2026-08-01,SKU-0006,B08H6XVAML,EverPeak Gaming Mouse — RGB Backlit & Compact Design,ONT8,0,1,18,2,8,42,2026-06-27
+2026-08-01,SKU-0007,B088K2QTZJ,AuroraTech Car Mount — Bluetooth 5.3 & RGB Backlit,ONT8,0,1,12,1,9,35,2026-05-22
+2026-08-01,SKU-0008,B06AZNEH47,BrightBeam Mechanical Keyboard — 30H Battery Life & Water Resistant,MDW2,4,0,5,0,5,60,2026-07-05
+2026-08-01,SKU-0009,B0H9GJQWK8,EverPeak Phone Case — Noise Cancelling & Bluetooth 5.3,MDW2,1,0,4,1,5,28,2026-07-13
+2026-08-01,SKU-0010,B0M2QT36J4,AuroraTech Portable Charger — Fast Charging & HD 1080p,JAX3,4,0,3,0,5,60,2026-05-03
+2026-08-01,SKU-0011,B0YXU5G7D1,BrightBeam Bluetooth Speaker — Fast Charging & Noise Cancelling,LGB8,-3,1,0,5,7,28,2026-05-14
+2026-08-01,SKU-0012,B0671R2A1G,EverPeak Laptop Stand — Water Resistant & 30H Battery Life,DFW6,3,0,3,0,5,21,2026-07-08
+2026-08-01,SKU-0013,B0K12NKA8N,AuroraTech Smart Watch — 30H Battery Life & Bluetooth 5.3,LGB8,2,0,6,0,5,35,2026-05-27
+2026-08-01,SKU-0014,B0279XVVC5,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,MEM1,-1,1,0,1,8,60,2026-05-17
+2026-08-01,SKU-0015,B0WR597BPU,EverPeak Streaming Stick — Bluetooth 5.3 & HD 1080p,ONT8,8,1,0,3,10,35,2026-06-26
+2026-08-01,SKU-0016,B08RJE02WW,AuroraTech Headphones — Bluetooth 5.3 & Water Resistant,ONT8,4,0,7,0,5,35,2026-07-19
+2026-08-01,SKU-0017,B0CPNCKVZR,BrightBeam Wireless Earbuds — 30H Battery Life & Noise Cancelling,PHX7,1,0,0,0,0,14,2026-06-01
+2026-08-01,SKU-0018,B0Q85PD1G6,EverPeak Power Bank — 30H Battery Life & Noise Cancelling,MDW2,7,1,0,0,5,60,2026-07-23
+2026-08-01,SKU-0019,B0W61EHTPX,Nordic Home Serving Bowls — Dishwasher Safe & Easy Clean,MDW2,2,0,0,0,0,21,2026-07-11
+2026-08-01,SKU-0020,B0DDA4EXPW,UrbanKitchen Knife Set — Easy Clean & BPA-Free,MDW2,0,0,6,1,5,14,2026-07-06
+2026-08-01,SKU-0021,B07GWT52HM,ZenLife Cutting Board Set — BPA-Free & Easy Clean,CLT2,2,0,4,2,5,14,2026-06-06
+2026-08-01,SKU-0022,B0SFWKQDD5,Nordic Home Plant Pots — Non-Stick Coating & BPA-Free,CLT2,2,0,9,1,5,42,2026-05-25
+2026-08-01,SKU-0023,B0UFTNZLYW,UrbanKitchen Non-Stick Pan Set — Dishwasher Safe & Space Saving,PHX7,0,0,9,0,5,28,2026-05-11
+2026-08-01,SKU-0024,B0M9299AJ4,ZenLife Electric Kettle — Non-Stick Coating & Space Saving,PHX7,4,0,3,0,5,21,2026-07-19
+2026-08-01,SKU-0025,B0WKPVSC0B,Nordic Home Tea Infuser — Non-Stick Coating & Dishwasher Safe,DFW6,1,0,7,0,5,21,2026-06-12
+2026-08-01,SKU-0026,B0GDNTQUXZ,UrbanKitchen Toaster — Space Saving & Premium Finish,MEM1,3,0,0,0,10,35,2026-07-26
+2026-08-01,SKU-0027,B07BRCRU82,ZenLife Kitchen Scale — Easy Clean & Dishwasher Safe,PHX7,3,0,9,2,5,42,2026-05-25
+2026-08-01,SKU-0028,B0054NK7PS,Nordic Home Food Storage Containers — BPA-Free & Non-Stick Coating,LGB8,1,0,0,1,10,28,2026-07-26
+2026-08-01,SKU-0029,B0WCY6LU8P,UrbanKitchen Wall Clock — Easy Clean & Dishwasher Safe,DFW6,2,0,7,0,5,28,2026-07-20
+2026-08-01,SKU-0030,B00EGECWF5,ZenLife Laundry Hamper — Dishwasher Safe & Premium Finish,MEM1,6,0,0,0,5,35,2026-06-27
+2026-08-01,SKU-0031,B0A8X9FRKN,Nordic Home Coffee Grinder — BPA-Free & Premium Finish,ONT8,2,0,5,0,5,35,2026-07-04
+2026-08-01,SKU-0032,B0JH68DJ8G,UrbanKitchen Blender — Non-Stick Coating & Space Saving,DFW6,2,0,4,0,5,14,2026-06-19
+2026-08-01,SKU-0033,B0ERBP9846,ZenLife Throw Blanket — BPA-Free & Non-Stick Coating,PHX7,2,0,7,1,5,28,2026-07-02
+2026-08-01,SKU-0034,B0936760J9,Nordic Home Shower Caddy — Easy Clean & Non-Stick Coating,ONT8,3,0,9,0,5,14,2026-05-29
+2026-08-01,SKU-0035,B01XGTD2M1,UrbanKitchen Scented Candle Set — Non-Stick Coating & Space Saving,LGB8,0,0,8,3,5,35,2026-05-31
+2026-08-01,SKU-0036,B0CWALEK2Y,ZenLife Air Fryer — Dishwasher Safe & Non-Stick Coating,LGB8,4,0,9,0,5,35,2026-07-16
+2026-08-01,SKU-0037,B0PF199V27,Nordic Home Utensil Set — Non-Stick Coating & BPA-Free,DFW6,1,0,4,0,5,60,2026-06-03
+2026-08-01,SKU-0038,B02SLUXEFA,UrbanKitchen Spice Rack — Easy Clean & Non-Stick Coating,JAX3,1,0,0,0,10,14,2026-06-11
+2026-08-01,SKU-0039,B0KMG3BBNV,PureGlo Hair Oil — Ionic Technology & Cruelty-Free,MEM1,5,0,0,0,10,21,2026-06-18
+2026-08-01,SKU-0040,B0U0VF1HMG,ZenLife Nail Clipper Set — Gentle Formula & Cruelty-Free,ONT8,15,1,0,2,5,60,2026-05-28
+2026-08-01,SKU-0041,B085JJ3ZXF,PureGlo Electric Toothbrush — Long Lasting & Dermatologist Tested,CLT2,1,0,5,0,5,35,2026-06-13
+2026-08-01,SKU-0042,B0XHVV9SEX,ZenLife Makeup Brush Set — Ionic Technology & Long Lasting,JAX3,0,0,8,0,5,35,2026-05-23
+2026-08-01,SKU-0043,B0FA6PK7S1,PureGlo Body Scrub — Ionic Technology & Gentle Formula,ONT8,4,0,6,3,5,28,2026-06-15
+2026-08-01,SKU-0044,B0U3W04VY2,ZenLife Hair Dryer — Gentle Formula & Dermatologist Tested,LGB8,2,0,0,1,0,28,2026-06-23
+2026-08-01,SKU-0045,B0GJL7P973,PureGlo Hair Straightener — Cruelty-Free & Ionic Technology,DFW6,9,1,0,1,5,42,2026-05-26
+2026-08-01,SKU-0046,B0C4JKS52V,ZenLife Face Roller — Cruelty-Free & Gentle Formula,LGB8,11,1,0,0,10,21,2026-05-31
+2026-08-01,SKU-0047,B0P5FBKME8,PureGlo Bath Bomb Set — Dermatologist Tested & Gentle Formula,MDW2,0,2,13,2,10,28,2026-06-21
+2026-08-01,SKU-0048,B0UD0VSZWR,ZenLife Facial Cleanser — Gentle Formula & Cruelty-Free,MEM1,0,0,0,0,0,28,2026-06-09
+2026-08-01,SKU-0049,B043M1S1C4,PureGlo Sunscreen Lotion — Ionic Technology & Dermatologist Tested,LGB8,1,0,4,0,5,35,2026-07-25
+2026-08-01,SKU-0050,B08UGTRB3Y,ZenLife Vitamin C Serum — Dermatologist Tested & Long Lasting,ONT8,4,0,6,0,5,42,2026-07-12
+2026-08-01,SKU-0051,B0NKTX370W,PureGlo Shampoo & Conditioner — Gentle Formula & Ionic Technology,MEM1,2,0,9,0,5,35,2026-07-13
+2026-08-01,SKU-0052,B0G3W4FNRY,ZenLife Beard Trimmer — Cruelty-Free & Gentle Formula,ONT8,1,0,0,0,10,35,2026-05-07
+2026-08-01,SKU-0053,B09YYU37MZ,TrailBlaze Jump Rope — Heavy Duty & Waterproof,ONT8,3,0,0,3,0,28,2026-07-22
+2026-08-01,SKU-0054,B0SSL9ZZJT,EverPeak Trekking Poles — Heavy Duty & Anti-Slip,MDW2,10,1,0,0,10,35,2026-06-16
+2026-08-01,SKU-0055,B0E32FCLF7,TrailBlaze Camping Tent — Lightweight & Waterproof,DFW6,6,0,0,0,0,21,2026-07-23
+2026-08-01,SKU-0056,B03QFWA54M,EverPeak Running Belt — Anti-Slip & Waterproof,DFW6,1,0,7,2,5,14,2026-07-07
+2026-08-01,SKU-0057,B0SQ7F7BFE,TrailBlaze Dumbbell Set — Waterproof & Portable,LGB8,6,0,0,0,5,14,2026-07-05
+2026-08-01,SKU-0058,B03RTJKKB4,EverPeak Hiking Backpack — Waterproof & Anti-Slip,MDW2,1,0,0,0,0,14,2026-05-16
+2026-08-01,SKU-0059,B0GUBJ397E,TrailBlaze Yoga Mat — Portable & Lightweight,LGB8,0,0,0,1,10,14,2026-06-27
+2026-08-01,SKU-0060,B04N2RZ3JC,EverPeak Sleeping Bag — Waterproof & Lightweight,ONT8,1,0,8,0,5,28,2026-05-21
+2026-08-01,SKU-0061,B0NGF9R3E9,TrailBlaze Cooler Bag — Waterproof & Lightweight,MDW2,1,0,7,0,5,14,2026-05-30
+2026-08-01,SKU-0062,B08B0R5CPH,EverPeak Kayak Paddle — Heavy Duty & Portable,ONT8,7,1,0,0,0,21,2026-05-31
+2026-08-01,SKU-0063,B0M9DY5YFP,TrailBlaze Bike Helmet — Lightweight & Portable,ONT8,2,0,8,2,5,60,2026-05-25
+2026-08-01,SKU-0064,B0S2MJ6SBY,EverPeak Resistance Band Set — Heavy Duty & Portable,DFW6,1,0,8,0,5,14,2026-05-28
+2026-08-01,SKU-0065,B0FKKPVMZA,TrailBlaze Foam Roller — Heavy Duty & Anti-Slip,MDW2,5,0,0,0,5,42,2026-07-13
+2026-08-01,SKU-0066,B01U2VVLHF,EverPeak Water Bottle — Portable & Waterproof,LGB8,2,0,8,0,5,21,2026-06-15
+2026-08-01,SKU-0067,B0C9DBLSN2,KiddoCraft Board Game — STEM Learning & Ages 3+,MDW2,6,0,0,0,10,21,2026-07-22
+2026-08-01,SKU-0068,B0DLXACSTN,CloudNest Plush Toy — Non-Toxic & Ages 3+,MEM1,3,0,4,0,5,60,2026-05-24
+2026-08-01,SKU-0069,B0Z5ASHJRH,KiddoCraft Fidget Toy Pack — Non-Toxic & Educational,JAX3,9,1,0,0,10,35,2026-06-10
+2026-08-01,SKU-0070,B01CQYLRS7,CloudNest Art Supplies Kit — STEM Learning & Interactive,DFW6,3,0,7,0,5,42,2026-06-25
+2026-08-01,SKU-0071,B0HE56LV1G,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,ONT8,11,1,0,0,6,14,2026-05-13
+2026-08-01,SKU-0072,B03WTWXEDC,CloudNest Magnetic Tiles — STEM Learning & Educational,ONT8,8,1,0,0,5,60,2026-07-07
+2026-08-01,SKU-0073,B0XGURFLW0,KiddoCraft Building Blocks Set — Educational & Non-Toxic,CLT2,5,0,0,4,0,14,2026-06-27
+2026-08-01,SKU-0074,B0M2UGJMKQ,CloudNest RC Car — STEM Learning & Interactive,LGB8,5,0,0,2,5,60,2026-07-15
+2026-08-01,SKU-0075,B0SH0V1DCR,KiddoCraft Nerf-Style Blaster — Ages 3+ & Interactive,MDW2,9,1,0,5,5,60,2026-06-21
+2026-08-01,SKU-0076,B0FPMT2SF9,CloudNest Science Kit — Educational & Non-Toxic,ONT8,8,1,0,3,5,14,2026-06-04
+2026-08-01,SKU-0077,B09V1N9TED,KiddoCraft Puzzle Set — Non-Toxic & STEM Learning,ONT8,3,0,9,0,5,14,2026-05-31
+2026-08-01,SKU-0078,B02LTJA2NA,CloudNest Dollhouse — Ages 3+ & Interactive,PHX7,6,0,0,1,5,28,2026-06-07
+2026-08-01,SKU-0079,B0E48MCY15,WriteWell Label Maker — Durable & Multipurpose,PHX7,2,0,10,0,5,60,2026-06-11
+2026-08-01,SKU-0080,B06HX4SP7L,ProGrip Gel Pen Set — Ergonomic & Durable,PHX7,0,0,0,2,0,21,2026-07-21
+2026-08-01,SKU-0081,B0NQJ9A5QP,WriteWell Paper Shredder — Ergonomic & Space Saving,LGB8,-2,1,0,0,7,21,2026-05-07
+2026-08-01,SKU-0082,B0TJL2AZQH,ProGrip File Folders — Ergonomic & Multipurpose,DFW6,2,0,7,0,5,28,2026-07-11
+2026-08-01,SKU-0083,B0M6YEW145,WriteWell Standing Desk Converter — Durable & Multipurpose,MDW2,5,0,0,0,5,35,2026-06-19
+2026-08-01,SKU-0084,B0J4AJH5Y5,ProGrip Monitor Stand — Space Saving & Multipurpose,CLT2,2,0,3,1,5,28,2026-05-23
+2026-08-01,SKU-0085,B0M1WJMA8T,WriteWell Planner Notebook — Ergonomic & Multipurpose,LGB8,2,0,4,3,5,21,2026-05-18
+2026-08-01,SKU-0086,B0AZBDRH38,ProGrip Sticky Notes Pack — Ergonomic & Multipurpose,CLT2,8,1,0,0,5,42,2026-06-17
+2026-08-01,SKU-0087,B0TXQ65ZFV,WriteWell Desk Organizer — Ergonomic & Multipurpose,MEM1,18,1,0,0,7,35,2026-07-18
+2026-08-01,SKU-0088,B0N90348CD,ProGrip Desk Chair Cushion — Multipurpose & Ergonomic,CLT2,4,0,8,0,5,14,2026-05-24
+2026-08-01,SKU-0089,B0LD11QTH5,PawPals Dog Bed — Easy to Clean & Durable,PHX7,3,0,0,0,10,28,2026-06-29
+2026-08-01,SKU-0090,B0GKG0B3EA,PawPals Dog Leash — Easy to Clean & Vet Recommended,ONT8,1,0,5,0,5,35,2026-06-13
+2026-08-01,SKU-0091,B05P1Y30A5,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,DFW6,0,1,18,0,8,42,2026-06-29
+2026-08-01,SKU-0092,B0CYFJJNVP,PawPals Pet Grooming Brush — Vet Recommended & Non-Toxic,PHX7,1,0,8,2,5,60,2026-05-29
+2026-08-01,SKU-0093,B0PGGKXQ9K,PawPals Pet Water Fountain — Easy to Clean & Vet Recommended,PHX7,3,0,7,0,5,28,2026-05-24
+2026-08-01,SKU-0094,B0R7U9K93R,PawPals Pet Carrier — Non-Toxic & Durable,JAX3,2,0,6,2,5,21,2026-06-25
+2026-08-01,SKU-0095,B00JXDXVG6,PawPals Dog Treat Pouch — Easy to Clean & Non-Toxic,JAX3,4,0,6,0,5,42,2026-06-04
+2026-08-01,SKU-0096,B0UX1US6RV,PawPals Cat Scratching Post — Durable & Non-Toxic,PHX7,1,0,4,0,5,21,2026-05-16
+2026-08-01,SKU-0097,B0F635F86R,PawPals Dog Chew Toys — Durable & Easy to Clean,ONT8,10,1,0,0,5,28,2026-06-28
+2026-08-01,SKU-0098,B03ZGX0DF9,PawPals Catnip Toys — Easy to Clean & Non-Toxic,ONT8,4,0,0,0,10,28,2026-07-22
+2026-08-01,SKU-0099,B0PXWSPMXC,PawPals Cat Litter Mat — Durable & Easy to Clean,DFW6,7,1,0,0,10,21,2026-06-11
+2026-08-01,SKU-0100,B0TURPLSHH,PawPals Automatic Pet Feeder — Easy to Clean & Vet Recommended,CLT2,14,1,0,0,6,60,2026-05-26
+2026-08-01,SKU-0101,B0HTFHF1FT,LittleNest Silicone Bibs — Hypoallergenic & Safety Certified,CLT2,7,1,0,0,0,28,2026-06-05
+2026-08-01,SKU-0102,B02X1DSSZM,LittleNest Diaper Bag — Hypoallergenic & Easy to Clean,PHX7,7,1,0,2,6,35,2026-05-15
+2026-08-01,SKU-0103,B04ZD4ZURZ,LittleNest Baby Monitor — Safety Certified & Hypoallergenic,JAX3,7,1,0,0,5,60,2026-06-17
+2026-08-01,SKU-0104,B01NLXW82L,LittleNest Bassinet — Safety Certified & BPA-Free,MEM1,7,1,0,1,5,28,2026-07-17
+2026-08-01,SKU-0105,B04Z7XKKST,LittleNest Swaddle Blankets — BPA-Free & Safety Certified,MDW2,9,1,0,0,5,35,2026-07-20
+2026-08-01,SKU-0106,B0EGZYNSAE,LittleNest Baby Bath Tub — Hypoallergenic & Safety Certified,DFW6,8,1,0,0,5,60,2026-06-06
+2026-08-01,SKU-0107,B0YJ486MXU,LittleNest Baby Safety Gate — Safety Certified & BPA-Free,LGB8,2,0,3,3,5,35,2026-06-14
+2026-08-01,SKU-0108,B0QKGVBY0X,LittleNest Baby Bottle Set — BPA-Free & Hypoallergenic,LGB8,5,0,0,4,5,60,2026-06-13
+2026-08-01,SKU-0109,B0FTQRA6A1,DriveGuard Dash Cam — Heavy Duty & Easy Install,JAX3,17,1,0,0,7,28,2026-06-26
+2026-08-01,SKU-0110,B0YBRGQRFQ,DriveGuard Car Vacuum — Long Cord & Easy Install,DFW6,2,0,3,0,5,42,2026-06-26
+2026-08-01,SKU-0111,B02T104M25,DriveGuard Jump Starter — Long Cord & Universal Fit,MDW2,11,1,0,0,5,60,2026-07-16
+2026-08-01,SKU-0112,B0J9HPEX6X,DriveGuard Tire Pressure Gauge — Long Cord & Heavy Duty,JAX3,8,1,0,3,5,35,2026-05-08
+2026-08-01,SKU-0113,B0PAU2ZN1D,DriveGuard Car Organizer — Heavy Duty & Easy Install,MEM1,1,0,6,0,5,14,2026-06-14
+2026-08-01,SKU-0114,B0ZWX7WPK9,DriveGuard Seat Covers — Universal Fit & Heavy Duty,CLT2,5,0,4,4,6,28,2026-07-10
+2026-08-01,SKU-0115,B0KKUPJDRS,ProGrip LED Work Light — Cordless & High Torque,ONT8,1,0,9,0,5,21,2026-05-31
+2026-08-01,SKU-0116,B0S19ZGCXE,EverPeak Screwdriver Set — Cordless & High Torque,JAX3,0,0,4,0,5,42,2026-06-09
+2026-08-01,SKU-0117,B0A30AC946,ProGrip Stud Finder — Ergonomic Grip & Rust Resistant,PHX7,13,1,0,0,5,28,2026-05-05
+2026-08-01,SKU-0118,B09D2WWZK5,EverPeak Cordless Drill — Cordless & High Torque,ONT8,1,0,5,3,5,28,2026-06-24
+2026-08-01,SKU-0119,B088ML63AY,ProGrip Socket Set — Rust Resistant & Ergonomic Grip,DFW6,5,0,0,0,0,21,2026-05-19
+2026-08-01,SKU-0120,B0LPG6DAQM,EverPeak Tool Bag — Rust Resistant & Ergonomic Grip,PHX7,2,0,4,0,5,35,2026-06-21

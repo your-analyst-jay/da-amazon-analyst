@@ -1,0 +1,121 @@
+asin,sku,product_title,brand,category,subcategory,list_price,cost_per_unit,currency,weight_lb,length_in,width_in,height_in,date_added,status
+B0R5E97R3C,SKU-0001,,AuroraTech,Electronics,Accessories,,,,0.93,7.9,7.4,4.3,2025-04-08,Active
+B0MVKP1792,SKU-0002,,BrightBeam,Electronics,Wearables,,,,3.24,19.8,18.7,9.0,2023-10-28,Active
+B0NL5Q5CZM,SKU-0003,,EverPeak,Electronics,Wearables,,,,1.37,10.9,9.5,6.9,2024-12-19,Active
+B0ANDXF98K,SKU-0004,,AuroraTech,Electronics,Accessories,,,,1.52,9.4,8.4,4.4,2024-08-03,Active
+B055PLDLF8,SKU-0005,,BrightBeam,Electronics,Audio,,,,1.88,11.6,10.1,4.0,2023-02-18,Active
+B08H6XVAML,SKU-0006,,EverPeak,Electronics,Wearables,,,,1.63,11.6,8.7,4.2,2025-01-09,Active
+B088K2QTZJ,SKU-0007,,AuroraTech,Electronics,Wearables,,,,3.27,23.1,15.0,11.3,2025-05-01,Active
+B06AZNEH47,SKU-0008,,BrightBeam,Electronics,Accessories,,,,3.38,24.0,14.6,12.5,2025-02-12,Active
+B0H9GJQWK8,SKU-0009,,EverPeak,Electronics,Smart Home,,,,0.96,9.4,8.7,3.5,2025-05-30,Active
+B0M2QT36J4,SKU-0010,,AuroraTech,Electronics,Wearables,,,,1.74,13.4,9.5,5.4,2024-11-20,Active
+B0YXU5G7D1,SKU-0011,,BrightBeam,Electronics,Smart Home,,,,0.52,5.7,3.4,2.6,2024-07-07,Active
+B0671R2A1G,SKU-0012,,EverPeak,Electronics,Wearables,,,,3.48,23.1,14.4,11.6,2025-01-05,Active
+B0K12NKA8N,SKU-0013,,AuroraTech,Electronics,Accessories,,,,0.98,6.4,4.5,2.9,2025-06-30,Active
+B0279XVVC5,SKU-0014,,BrightBeam,Electronics,Accessories,,,,0.44,4.5,3.8,3.1,2024-07-30,Active
+B0WR597BPU,SKU-0015,,EverPeak,Electronics,Smart Home,,,,2.39,18.1,12.7,12.0,2023-05-18,Active
+B08RJE02WW,SKU-0016,,AuroraTech,Electronics,Audio,,,,0.35,3.4,3.2,1.8,2023-05-14,Active
+B0CPNCKVZR,SKU-0017,,BrightBeam,Electronics,Wearables,,,,3.17,22.2,21.0,15.3,2025-05-31,Inactive
+B0Q85PD1G6,SKU-0018,,EverPeak,Electronics,Smart Home,,,,1.3,11.5,8.5,7.2,2025-04-01,Active
+B0W61EHTPX,SKU-0019,,Nordic Home,Home & Kitchen,Cookware,,,,7.18,44.8,33.4,14.7,2024-06-07,Inactive
+B0DDA4EXPW,SKU-0020,,UrbanKitchen,Home & Kitchen,Home Decor,,,,1.56,13.0,9.9,8.2,2024-06-03,Active
+B07GWT52HM,SKU-0021,,ZenLife,Home & Kitchen,Home Decor,,,,5.66,35.2,22.4,24.0,2024-03-28,Active
+B0SFWKQDD5,SKU-0022,,Nordic Home,Home & Kitchen,Kitchen Appliances,,,,0.71,5.2,5.0,3.3,2024-05-01,Active
+B0UFTNZLYW,SKU-0023,,UrbanKitchen,Home & Kitchen,Storage,,,,6.42,40.4,37.7,21.0,2024-07-24,Active
+B0M9299AJ4,SKU-0024,,ZenLife,Home & Kitchen,Cookware,,,,7.64,46.9,35.3,16.9,2025-03-07,Active
+B0WKPVSC0B,SKU-0025,,Nordic Home,Home & Kitchen,Storage,,,,4.46,27.0,25.4,18.4,2025-05-02,Active
+B0GDNTQUXZ,SKU-0026,,UrbanKitchen,Home & Kitchen,Kitchen Appliances,,,,5.63,34.7,33.4,18.6,2023-08-13,Active
+B07BRCRU82,SKU-0027,,ZenLife,Home & Kitchen,Kitchen Appliances,,,,7.87,47.9,43.1,15.4,2023-09-24,Active
+B0054NK7PS,SKU-0028,,Nordic Home,Home & Kitchen,Cookware,,,,6.04,39.3,33.1,26.9,2023-09-11,Active
+B0WCY6LU8P,SKU-0029,,UrbanKitchen,Home & Kitchen,Home Decor,,,,3.14,21.2,19.9,11.5,2023-11-16,Active
+B00EGECWF5,SKU-0030,,ZenLife,Home & Kitchen,Cookware,,,,4.14,26.3,23.5,18.0,2024-06-02,Active
+B0A8X9FRKN,SKU-0031,,Nordic Home,Home & Kitchen,Home Decor,,,,4.61,29.4,18.0,18.8,2025-01-18,Active
+B0JH68DJ8G,SKU-0032,,UrbanKitchen,Home & Kitchen,Storage,,,,3.39,23.9,18.6,7.3,2024-12-19,Active
+B0ERBP9846,SKU-0033,,ZenLife,Home & Kitchen,Kitchen Appliances,,,,6.14,38.3,34.4,26.1,2024-07-20,Active
+B0936760J9,SKU-0034,,Nordic Home,Home & Kitchen,Kitchen Appliances,,,,2.85,19.5,16.0,11.3,2025-02-17,Active
+B01XGTD2M1,SKU-0035,,UrbanKitchen,Home & Kitchen,Cookware,,,,2.92,19.4,17.9,13.2,2023-12-15,Active
+B0CWALEK2Y,SKU-0036,,ZenLife,Home & Kitchen,Kitchen Appliances,,,,5.65,37.1,36.3,14.2,2023-08-20,Active
+B0PF199V27,SKU-0037,,Nordic Home,Home & Kitchen,Home Decor,,,,1.98,12.2,11.2,6.7,2023-01-03,Active
+B02SLUXEFA,SKU-0038,,UrbanKitchen,Home & Kitchen,Storage,,,,6.0,39.6,38.7,19.8,2025-04-26,Active
+B0KMG3BBNV,SKU-0039,,PureGlo,Beauty & Personal Care,Grooming Tools,,,,0.98,7.6,5.8,3.8,2023-10-12,Active
+B0U0VF1HMG,SKU-0040,,ZenLife,Beauty & Personal Care,Bath & Body,,,,0.65,7.8,7.1,3.0,2024-02-18,Active
+B085JJ3ZXF,SKU-0041,,PureGlo,Beauty & Personal Care,Skincare,,,,1.29,8.2,7.0,3.0,2024-10-07,Active
+B0XHVV9SEX,SKU-0042,,ZenLife,Beauty & Personal Care,Grooming Tools,,,,0.9,7.2,6.7,3.0,2023-05-29,Active
+B0FA6PK7S1,SKU-0043,,PureGlo,Beauty & Personal Care,Bath & Body,,,,0.92,6.8,6.0,4.2,2025-02-20,Active
+B0U3W04VY2,SKU-0044,,ZenLife,Beauty & Personal Care,Grooming Tools,,,,0.95,8.1,6.0,4.7,2025-06-09,Inactive
+B0GJL7P973,SKU-0045,,PureGlo,Beauty & Personal Care,Skincare,,,,0.75,5.8,5.2,3.4,2025-01-05,Active
+B0C4JKS52V,SKU-0046,,ZenLife,Beauty & Personal Care,Hair Care,,,,0.15,2.5,2.0,1.3,2023-02-27,Active
+B0P5FBKME8,SKU-0047,,PureGlo,Beauty & Personal Care,Grooming Tools,,,,1.23,11.0,7.5,5.0,2024-04-21,Active
+B0UD0VSZWR,SKU-0048,,ZenLife,Beauty & Personal Care,Grooming Tools,,,,1.08,10.5,9.6,4.1,2023-10-30,Inactive
+B043M1S1C4,SKU-0049,,PureGlo,Beauty & Personal Care,Grooming Tools,,,,1.25,10.4,7.6,4.8,2024-11-06,Active
+B08UGTRB3Y,SKU-0050,,ZenLife,Beauty & Personal Care,Hair Care,,,,0.72,6.3,5.7,2.5,2023-10-07,Active
+B0NKTX370W,SKU-0051,,PureGlo,Beauty & Personal Care,Grooming Tools,,,,0.55,3.8,3.7,1.5,2024-01-13,Active
+B0G3W4FNRY,SKU-0052,,ZenLife,Beauty & Personal Care,Bath & Body,,,,0.79,5.3,4.4,3.1,2023-02-08,Active
+B09YYU37MZ,SKU-0053,,TrailBlaze,Sports & Outdoors,Fitness,,,,6.72,44.2,40.4,17.6,2024-01-03,Inactive
+B0SSL9ZZJT,SKU-0054,,EverPeak,Sports & Outdoors,Fitness,,,,2.8,17.7,15.3,5.5,2025-06-09,Active
+B0E32FCLF7,SKU-0055,,TrailBlaze,Sports & Outdoors,Fitness,,,,4.16,25.7,22.9,17.1,2023-02-23,Inactive
+B03QFWA54M,SKU-0056,,EverPeak,Sports & Outdoors,Cycling,,,,1.11,8.6,6.5,4.6,2024-02-16,Active
+B0SQ7F7BFE,SKU-0057,,TrailBlaze,Sports & Outdoors,Fitness,,,,9.6,58.1,42.1,24.7,2024-11-01,Active
+B03RTJKKB4,SKU-0058,,EverPeak,Sports & Outdoors,Cycling,,,,5.9,35.8,34.0,24.2,2023-03-29,Inactive
+B0GUBJ397E,SKU-0059,,TrailBlaze,Sports & Outdoors,Fitness,,,,4.48,29.2,24.6,16.4,2023-08-06,Active
+B04N2RZ3JC,SKU-0060,,EverPeak,Sports & Outdoors,Water Sports,,,,3.98,25.2,18.6,11.3,2023-01-07,Active
+B0NGF9R3E9,SKU-0061,,TrailBlaze,Sports & Outdoors,Water Sports,,,,9.15,55.1,44.7,23.3,2023-03-25,Active
+B08B0R5CPH,SKU-0062,,EverPeak,Sports & Outdoors,Cycling,,,,2.77,20.4,12.8,13.2,2025-02-24,Inactive
+B0M9DY5YFP,SKU-0063,,TrailBlaze,Sports & Outdoors,Cycling,,,,10.4,64.7,41.1,41.3,2024-08-10,Active
+B0S2MJ6SBY,SKU-0064,,EverPeak,Sports & Outdoors,Camping & Hiking,,,,4.99,31.2,21.7,11.2,2023-12-14,Active
+B0FKKPVMZA,SKU-0065,,TrailBlaze,Sports & Outdoors,Cycling,,,,8.0,48.7,32.2,15.9,2025-03-02,Active
+B01U2VVLHF,SKU-0066,,EverPeak,Sports & Outdoors,Fitness,,,,4.48,27.2,21.2,17.0,2024-04-17,Active
+B0C9DBLSN2,SKU-0067,,KiddoCraft,Toys & Games,Building Toys,,,,5.95,37.8,31.1,17.2,2024-09-16,Active
+B0DLXACSTN,SKU-0068,,CloudNest,Toys & Games,Building Toys,,,,1.11,8.1,7.0,3.8,2024-11-02,Active
+B0Z5ASHJRH,SKU-0069,,KiddoCraft,Toys & Games,Outdoor Play,,,,1.52,12.9,12.3,7.1,2024-05-12,Active
+B01CQYLRS7,SKU-0070,,CloudNest,Toys & Games,Board Games,,,,4.25,28.0,20.3,17.5,2023-06-19,Active
+B0HE56LV1G,SKU-0071,,KiddoCraft,Toys & Games,Outdoor Play,,,,5.91,37.3,30.7,12.7,2023-10-16,Active
+B03WTWXEDC,SKU-0072,,CloudNest,Toys & Games,Educational,,,,1.85,14.7,14.7,6.6,2023-05-31,Active
+B0XGURFLW0,SKU-0073,,KiddoCraft,Toys & Games,Board Games,,,,4.0,27.2,25.4,14.1,2023-05-21,Inactive
+B0M2UGJMKQ,SKU-0074,,CloudNest,Toys & Games,Outdoor Play,,,,2.02,12.3,9.5,6.7,2024-03-05,Active
+B0SH0V1DCR,SKU-0075,,KiddoCraft,Toys & Games,Outdoor Play,,,,3.28,21.1,19.3,9.2,2024-06-22,Active
+B0FPMT2SF9,SKU-0076,,CloudNest,Toys & Games,Building Toys,,,,2.23,16.0,14.7,10.5,2025-04-30,Active
+B09V1N9TED,SKU-0077,,KiddoCraft,Toys & Games,Educational,,,,3.4,21.4,20.5,9.7,2025-02-10,Active
+B02LTJA2NA,SKU-0078,,CloudNest,Toys & Games,Educational,,,,4.84,30.1,20.1,14.4,2023-03-26,Active
+B0E48MCY15,SKU-0079,,WriteWell,Office Products,Tech Office,,,,4.77,29.2,28.6,13.1,2024-09-14,Active
+B06HX4SP7L,SKU-0080,,ProGrip,Office Products,Tech Office,,,,1.71,11.4,7.8,4.0,2023-04-27,Inactive
+B0NQJ9A5QP,SKU-0081,,WriteWell,Office Products,Writing Supplies,,,,4.99,33.2,30.5,16.7,2025-05-15,Active
+B0TJL2AZQH,SKU-0082,,ProGrip,Office Products,Tech Office,,,,2.57,16.9,15.7,5.6,2024-08-09,Active
+B0M6YEW145,SKU-0083,,WriteWell,Office Products,Writing Supplies,,,,2.68,16.6,11.0,11.2,2025-04-28,Active
+B0J4AJH5Y5,SKU-0084,,ProGrip,Office Products,Organization,,,,1.56,9.7,9.1,5.1,2023-07-21,Active
+B0M1WJMA8T,SKU-0085,,WriteWell,Office Products,Tech Office,,,,2.97,20.4,14.7,6.7,2025-02-24,Active
+B0AZBDRH38,SKU-0086,,ProGrip,Office Products,Desk Accessories,,,,1.18,9.5,6.7,3.8,2023-11-17,Active
+B0TXQ65ZFV,SKU-0087,,WriteWell,Office Products,Tech Office,,,,3.15,19.9,12.1,13.5,2025-06-05,Active
+B0N90348CD,SKU-0088,,ProGrip,Office Products,Desk Accessories,,,,0.44,4.6,3.5,2.4,2025-06-22,Active
+B0LD11QTH5,SKU-0089,,PawPals,Pet Supplies,Cat,,,,3.59,25.3,18.5,13.8,2025-02-12,Active
+B0GKG0B3EA,SKU-0090,,PawPals,Pet Supplies,Dog,,,,3.2,20.5,17.2,8.3,2025-04-28,Active
+B05P1Y30A5,SKU-0091,,PawPals,Pet Supplies,Cat,,,,5.39,35.2,26.9,21.5,2025-03-04,Active
+B0CYFJJNVP,SKU-0092,,PawPals,Pet Supplies,Grooming,,,,5.33,34.2,28.9,12.9,2024-11-09,Active
+B0PGGKXQ9K,SKU-0093,,PawPals,Pet Supplies,Feeding,,,,9.74,59.6,57.1,27.3,2023-10-23,Active
+B0R7U9K93R,SKU-0094,,PawPals,Pet Supplies,Cat,,,,7.23,44.8,31.2,25.4,2024-03-28,Active
+B00JXDXVG6,SKU-0095,,PawPals,Pet Supplies,Grooming,,,,3.5,22.9,16.7,12.8,2024-11-28,Active
+B0UX1US6RV,SKU-0096,,PawPals,Pet Supplies,Grooming,,,,7.31,47.6,45.3,14.5,2023-06-29,Active
+B0F635F86R,SKU-0097,,PawPals,Pet Supplies,Grooming,,,,5.57,35.4,29.3,21.3,2023-05-18,Active
+B03ZGX0DF9,SKU-0098,,PawPals,Pet Supplies,Grooming,,,,8.32,52.0,37.5,30.6,2023-03-30,Active
+B0PXWSPMXC,SKU-0099,,PawPals,Pet Supplies,Cat,,,,0.9,5.9,4.1,2.1,2023-11-11,Active
+B0TURPLSHH,SKU-0100,,PawPals,Pet Supplies,Grooming,,,,4.33,28.2,17.8,14.8,2024-04-27,Active
+B0HTFHF1FT,SKU-0101,,LittleNest,Baby Products,Feeding,,,,8.29,52.6,39.9,33.0,2024-05-15,Inactive
+B02X1DSSZM,SKU-0102,,LittleNest,Baby Products,Safety,,,,8.52,53.3,40.0,35.0,2023-03-03,Active
+B04ZD4ZURZ,SKU-0103,,LittleNest,Baby Products,Safety,,,,8.08,50.6,44.0,26.2,2024-10-31,Active
+B01NLXW82L,SKU-0104,,LittleNest,Baby Products,Safety,,,,3.6,25.3,21.2,14.7,2025-01-12,Active
+B04Z7XKKST,SKU-0105,,LittleNest,Baby Products,Nursery,,,,3.12,19.6,14.1,7.0,2025-06-03,Active
+B0EGZYNSAE,SKU-0106,,LittleNest,Baby Products,Nursery,,,,11.4,71.9,51.8,26.9,2023-06-29,Active
+B0YJ486MXU,SKU-0107,,LittleNest,Baby Products,Feeding,,,,8.61,54.9,44.7,34.7,2023-03-01,Active
+B0QKGVBY0X,SKU-0108,,LittleNest,Baby Products,Feeding,,,,0.86,5.5,4.9,3.3,2025-04-03,Active
+B0FTQRA6A1,SKU-0109,,DriveGuard,Automotive,Interior Accessories,,,,3.55,22.3,20.0,6.8,2024-06-09,Active
+B0YBRGQRFQ,SKU-0110,,DriveGuard,Automotive,Exterior Accessories,,,,3.73,25.7,17.2,15.1,2024-05-26,Active
+B02T104M25,SKU-0111,,DriveGuard,Automotive,Interior Accessories,,,,5.96,36.0,28.9,16.2,2023-02-04,Active
+B0J9HPEX6X,SKU-0112,,DriveGuard,Automotive,Interior Accessories,,,,5.19,31.2,21.7,17.1,2024-06-26,Active
+B0PAU2ZN1D,SKU-0113,,DriveGuard,Automotive,Emergency,,,,3.67,23.6,19.4,7.6,2024-08-01,Active
+B0ZWX7WPK9,SKU-0114,,DriveGuard,Automotive,Car Care,,,,4.19,28.3,24.7,11.7,2024-08-02,Active
+B0KKUPJDRS,SKU-0115,,ProGrip,Tools & Home Improvement,Power Tools,,,,7.98,49.5,39.6,34.1,2023-03-20,Active
+B0S19ZGCXE,SKU-0116,,EverPeak,Tools & Home Improvement,Lighting,,,,4.08,27.6,17.5,15.1,2024-09-01,Active
+B0A30AC946,SKU-0117,,ProGrip,Tools & Home Improvement,Lighting,,,,4.49,30.1,24.8,15.2,2023-06-07,Active
+B09D2WWZK5,SKU-0118,,EverPeak,Tools & Home Improvement,Lighting,,,,6.77,43.8,29.2,17.9,2025-06-03,Active
+B088ML63AY,SKU-0119,,ProGrip,Tools & Home Improvement,Hardware,,,,3.4,21.6,20.2,9.8,2025-03-12,Inactive
+B0LPG6DAQM,SKU-0120,,EverPeak,Tools & Home Improvement,Hand Tools,,,,9.52,61.0,44.6,25.1,2023-05-20,Active

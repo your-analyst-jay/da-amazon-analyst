@@ -1,0 +1,237 @@
+sku,asin,product_title,effective_from,effective_to,price,currency,change_type
+SKU-0001,B0R5E97R3C,AuroraTech Smart Plug — Noise Cancelling & HD 1080p,2025-04-08,2026-07-31,89.73,USD,Launch Price
+SKU-0002,B0MVKP1792,BrightBeam HDMI Cable — Bluetooth 5.3 & HD 1080p,2023-10-28,2025-02-17,67.82,USD,Launch Price
+SKU-0002,B0MVKP1792,BrightBeam HDMI Cable — Bluetooth 5.3 & HD 1080p,2025-02-18,2026-07-31,63.85,USD,Promotional Discount
+SKU-0003,B0NL5Q5CZM,EverPeak USB-C Hub — Water Resistant & HD 1080p,2024-12-19,2025-12-30,110.91,USD,Launch Price
+SKU-0003,B0NL5Q5CZM,EverPeak USB-C Hub — Water Resistant & HD 1080p,2025-12-31,2026-01-31,103.75,USD,Promotional Discount
+SKU-0003,B0NL5Q5CZM,EverPeak USB-C Hub — Water Resistant & HD 1080p,2026-02-01,2026-03-23,73.81,USD,Promotional Discount
+SKU-0003,B0NL5Q5CZM,EverPeak USB-C Hub — Water Resistant & HD 1080p,2026-03-24,2026-07-31,103.75,USD,Price Increase
+SKU-0004,B0ANDXF98K,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,2024-08-03,2026-07-31,109.5,USD,Launch Price
+SKU-0005,B055PLDLF8,BrightBeam Webcam — Compact Design & 30H Battery Life,2023-02-18,2026-07-31,40.21,USD,Launch Price
+SKU-0006,B08H6XVAML,EverPeak Gaming Mouse — RGB Backlit & Compact Design,2025-01-09,2025-12-30,88.7,USD,Launch Price
+SKU-0006,B08H6XVAML,EverPeak Gaming Mouse — RGB Backlit & Compact Design,2025-12-31,2026-07-31,81.06,USD,Promotional Discount
+SKU-0007,B088K2QTZJ,AuroraTech Car Mount — Bluetooth 5.3 & RGB Backlit,2025-05-01,2026-07-31,52.27,USD,Launch Price
+SKU-0008,B06AZNEH47,BrightBeam Mechanical Keyboard — 30H Battery Life & Water Resistant,2025-02-12,2026-07-31,75.67,USD,Launch Price
+SKU-0009,B0H9GJQWK8,EverPeak Phone Case — Noise Cancelling & Bluetooth 5.3,2025-05-30,2026-07-31,23.15,USD,Launch Price
+SKU-0010,B0M2QT36J4,AuroraTech Portable Charger — Fast Charging & HD 1080p,2024-11-20,2026-07-31,64.56,USD,Launch Price
+SKU-0011,B0YXU5G7D1,BrightBeam Bluetooth Speaker — Fast Charging & Noise Cancelling,2024-07-07,2025-03-07,107.91,USD,Launch Price
+SKU-0011,B0YXU5G7D1,BrightBeam Bluetooth Speaker — Fast Charging & Noise Cancelling,2025-03-08,2025-05-02,84.3,USD,Promotional Discount
+SKU-0011,B0YXU5G7D1,BrightBeam Bluetooth Speaker — Fast Charging & Noise Cancelling,2025-05-03,2026-07-31,107.91,USD,Price Increase
+SKU-0012,B0671R2A1G,EverPeak Laptop Stand — Water Resistant & 30H Battery Life,2025-01-05,2025-07-10,63.64,USD,Launch Price
+SKU-0012,B0671R2A1G,EverPeak Laptop Stand — Water Resistant & 30H Battery Life,2025-07-11,2025-08-23,55.16,USD,Promotional Discount
+SKU-0012,B0671R2A1G,EverPeak Laptop Stand — Water Resistant & 30H Battery Life,2025-08-24,2026-07-31,63.64,USD,Price Increase
+SKU-0013,B0K12NKA8N,AuroraTech Smart Watch — 30H Battery Life & Bluetooth 5.3,2025-06-30,2026-07-31,83.42,USD,Launch Price
+SKU-0014,B0279XVVC5,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2024-07-30,2026-07-31,51.35,USD,Launch Price
+SKU-0015,B0WR597BPU,EverPeak Streaming Stick — Bluetooth 5.3 & HD 1080p,2023-05-18,2024-03-25,108.96,USD,Launch Price
+SKU-0015,B0WR597BPU,EverPeak Streaming Stick — Bluetooth 5.3 & HD 1080p,2024-03-26,2024-08-26,120.59,USD,Price Increase
+SKU-0015,B0WR597BPU,EverPeak Streaming Stick — Bluetooth 5.3 & HD 1080p,2024-08-27,2024-10-14,105.97,USD,Promotional Discount
+SKU-0015,B0WR597BPU,EverPeak Streaming Stick — Bluetooth 5.3 & HD 1080p,2024-10-15,2026-07-31,120.59,USD,Price Increase
+SKU-0016,B08RJE02WW,AuroraTech Headphones — Bluetooth 5.3 & Water Resistant,2023-05-14,2026-07-31,87.93,USD,Launch Price
+SKU-0017,B0CPNCKVZR,BrightBeam Wireless Earbuds — 30H Battery Life & Noise Cancelling,2025-05-31,2026-07-31,29.65,USD,Launch Price
+SKU-0018,B0Q85PD1G6,EverPeak Power Bank — 30H Battery Life & Noise Cancelling,2025-04-01,2026-07-31,17.84,USD,Launch Price
+SKU-0019,B0W61EHTPX,Nordic Home Serving Bowls — Dishwasher Safe & Easy Clean,2024-06-07,2026-07-31,57.72,USD,Launch Price
+SKU-0020,B0DDA4EXPW,UrbanKitchen Knife Set — Easy Clean & BPA-Free,2024-06-03,2024-09-23,59.84,USD,Launch Price
+SKU-0020,B0DDA4EXPW,UrbanKitchen Knife Set — Easy Clean & BPA-Free,2024-09-24,2024-11-02,48.88,USD,Promotional Discount
+SKU-0020,B0DDA4EXPW,UrbanKitchen Knife Set — Easy Clean & BPA-Free,2024-11-03,2026-07-31,59.84,USD,Price Increase
+SKU-0021,B07GWT52HM,ZenLife Cutting Board Set — BPA-Free & Easy Clean,2024-03-28,2025-06-03,26.8,USD,Launch Price
+SKU-0021,B07GWT52HM,ZenLife Cutting Board Set — BPA-Free & Easy Clean,2025-06-04,2025-07-04,22.25,USD,Promotional Discount
+SKU-0021,B07GWT52HM,ZenLife Cutting Board Set — BPA-Free & Easy Clean,2025-07-05,2026-07-31,26.8,USD,Price Increase
+SKU-0022,B0SFWKQDD5,Nordic Home Plant Pots — Non-Stick Coating & BPA-Free,2024-05-01,2026-07-31,27.96,USD,Launch Price
+SKU-0023,B0UFTNZLYW,UrbanKitchen Non-Stick Pan Set — Dishwasher Safe & Space Saving,2024-07-24,2024-11-09,27.5,USD,Launch Price
+SKU-0023,B0UFTNZLYW,UrbanKitchen Non-Stick Pan Set — Dishwasher Safe & Space Saving,2024-11-10,2024-12-29,20.78,USD,Promotional Discount
+SKU-0023,B0UFTNZLYW,UrbanKitchen Non-Stick Pan Set — Dishwasher Safe & Space Saving,2024-12-30,2026-07-31,27.5,USD,Price Increase
+SKU-0024,B0M9299AJ4,ZenLife Electric Kettle — Non-Stick Coating & Space Saving,2025-03-07,2025-05-27,46.0,USD,Launch Price
+SKU-0024,B0M9299AJ4,ZenLife Electric Kettle — Non-Stick Coating & Space Saving,2025-05-28,2025-06-25,41.19,USD,Promotional Discount
+SKU-0024,B0M9299AJ4,ZenLife Electric Kettle — Non-Stick Coating & Space Saving,2025-06-26,2026-07-31,46.0,USD,Price Increase
+SKU-0025,B0WKPVSC0B,Nordic Home Tea Infuser — Non-Stick Coating & Dishwasher Safe,2025-05-02,2026-01-31,43.18,USD,Launch Price
+SKU-0025,B0WKPVSC0B,Nordic Home Tea Infuser — Non-Stick Coating & Dishwasher Safe,2026-02-01,2026-03-04,30.83,USD,Promotional Discount
+SKU-0025,B0WKPVSC0B,Nordic Home Tea Infuser — Non-Stick Coating & Dishwasher Safe,2026-03-05,2026-07-31,43.18,USD,Price Increase
+SKU-0026,B0GDNTQUXZ,UrbanKitchen Toaster — Space Saving & Premium Finish,2023-08-13,2026-07-31,69.79,USD,Launch Price
+SKU-0027,B07BRCRU82,ZenLife Kitchen Scale — Easy Clean & Dishwasher Safe,2023-09-24,2024-06-27,16.71,USD,Launch Price
+SKU-0027,B07BRCRU82,ZenLife Kitchen Scale — Easy Clean & Dishwasher Safe,2024-06-28,2024-08-17,14.26,USD,Promotional Discount
+SKU-0027,B07BRCRU82,ZenLife Kitchen Scale — Easy Clean & Dishwasher Safe,2024-08-18,2026-07-31,16.71,USD,Price Increase
+SKU-0028,B0054NK7PS,Nordic Home Food Storage Containers — BPA-Free & Non-Stick Coating,2023-09-11,2024-10-01,62.0,USD,Launch Price
+SKU-0028,B0054NK7PS,Nordic Home Food Storage Containers — BPA-Free & Non-Stick Coating,2024-10-02,2024-11-19,50.89,USD,Promotional Discount
+SKU-0028,B0054NK7PS,Nordic Home Food Storage Containers — BPA-Free & Non-Stick Coating,2024-11-20,2026-07-31,62.0,USD,Price Increase
+SKU-0029,B0WCY6LU8P,UrbanKitchen Wall Clock — Easy Clean & Dishwasher Safe,2023-11-16,2026-07-31,72.21,USD,Launch Price
+SKU-0030,B00EGECWF5,ZenLife Laundry Hamper — Dishwasher Safe & Premium Finish,2024-06-02,2025-04-06,72.6,USD,Launch Price
+SKU-0030,B00EGECWF5,ZenLife Laundry Hamper — Dishwasher Safe & Premium Finish,2025-04-07,2026-07-31,68.26,USD,Promotional Discount
+SKU-0031,B0A8X9FRKN,Nordic Home Coffee Grinder — BPA-Free & Premium Finish,2025-01-18,2025-09-26,74.65,USD,Launch Price
+SKU-0031,B0A8X9FRKN,Nordic Home Coffee Grinder — BPA-Free & Premium Finish,2025-09-27,2026-07-31,82.74,USD,Price Increase
+SKU-0032,B0JH68DJ8G,UrbanKitchen Blender — Non-Stick Coating & Space Saving,2024-12-19,2025-09-02,26.96,USD,Launch Price
+SKU-0032,B0JH68DJ8G,UrbanKitchen Blender — Non-Stick Coating & Space Saving,2025-09-03,2026-07-31,25.59,USD,Promotional Discount
+SKU-0033,B0ERBP9846,ZenLife Throw Blanket — BPA-Free & Non-Stick Coating,2024-07-20,2026-07-31,42.34,USD,Launch Price
+SKU-0034,B0936760J9,Nordic Home Shower Caddy — Easy Clean & Non-Stick Coating,2025-02-17,2026-07-31,25.31,USD,Launch Price
+SKU-0035,B01XGTD2M1,UrbanKitchen Scented Candle Set — Non-Stick Coating & Space Saving,2023-12-15,2026-07-31,18.2,USD,Launch Price
+SKU-0036,B0CWALEK2Y,ZenLife Air Fryer — Dishwasher Safe & Non-Stick Coating,2023-08-20,2026-07-31,19.47,USD,Launch Price
+SKU-0037,B0PF199V27,Nordic Home Utensil Set — Non-Stick Coating & BPA-Free,2023-01-03,2026-07-31,62.82,USD,Launch Price
+SKU-0038,B02SLUXEFA,UrbanKitchen Spice Rack — Easy Clean & Non-Stick Coating,2025-04-26,2025-12-30,44.0,USD,Launch Price
+SKU-0038,B02SLUXEFA,UrbanKitchen Spice Rack — Easy Clean & Non-Stick Coating,2025-12-31,2026-01-31,39.13,USD,Promotional Discount
+SKU-0038,B02SLUXEFA,UrbanKitchen Spice Rack — Easy Clean & Non-Stick Coating,2026-02-01,2026-03-31,34.56,USD,Promotional Discount
+SKU-0038,B02SLUXEFA,UrbanKitchen Spice Rack — Easy Clean & Non-Stick Coating,2026-04-01,2026-07-31,39.13,USD,Price Increase
+SKU-0039,B0KMG3BBNV,PureGlo Hair Oil — Ionic Technology & Cruelty-Free,2023-10-12,2024-11-12,36.23,USD,Launch Price
+SKU-0039,B0KMG3BBNV,PureGlo Hair Oil — Ionic Technology & Cruelty-Free,2024-11-13,2026-07-31,38.85,USD,Price Increase
+SKU-0040,B0U0VF1HMG,ZenLife Nail Clipper Set — Gentle Formula & Cruelty-Free,2024-02-18,2025-07-26,24.82,USD,Launch Price
+SKU-0040,B0U0VF1HMG,ZenLife Nail Clipper Set — Gentle Formula & Cruelty-Free,2025-07-27,2026-07-31,28.36,USD,Price Increase
+SKU-0041,B085JJ3ZXF,PureGlo Electric Toothbrush — Long Lasting & Dermatologist Tested,2024-10-07,2025-07-18,42.31,USD,Launch Price
+SKU-0041,B085JJ3ZXF,PureGlo Electric Toothbrush — Long Lasting & Dermatologist Tested,2025-07-19,2026-07-31,45.38,USD,Price Increase
+SKU-0042,B0XHVV9SEX,ZenLife Makeup Brush Set — Ionic Technology & Long Lasting,2023-05-29,2024-03-13,23.36,USD,Launch Price
+SKU-0042,B0XHVV9SEX,ZenLife Makeup Brush Set — Ionic Technology & Long Lasting,2024-03-14,2024-05-13,20.77,USD,Promotional Discount
+SKU-0042,B0XHVV9SEX,ZenLife Makeup Brush Set — Ionic Technology & Long Lasting,2024-05-14,2026-07-31,23.36,USD,Price Increase
+SKU-0043,B0FA6PK7S1,PureGlo Body Scrub — Ionic Technology & Gentle Formula,2025-02-20,2025-06-28,40.0,USD,Launch Price
+SKU-0043,B0FA6PK7S1,PureGlo Body Scrub — Ionic Technology & Gentle Formula,2025-06-29,2025-08-01,29.48,USD,Promotional Discount
+SKU-0043,B0FA6PK7S1,PureGlo Body Scrub — Ionic Technology & Gentle Formula,2025-08-02,2026-07-31,40.0,USD,Price Increase
+SKU-0044,B0U3W04VY2,ZenLife Hair Dryer — Gentle Formula & Dermatologist Tested,2025-06-09,2026-07-31,26.32,USD,Launch Price
+SKU-0045,B0GJL7P973,PureGlo Hair Straightener — Cruelty-Free & Ionic Technology,2025-01-05,2026-07-31,39.53,USD,Launch Price
+SKU-0046,B0C4JKS52V,ZenLife Face Roller — Cruelty-Free & Gentle Formula,2023-02-27,2026-07-31,14.15,USD,Launch Price
+SKU-0047,B0P5FBKME8,PureGlo Bath Bomb Set — Dermatologist Tested & Gentle Formula,2024-04-21,2024-07-04,31.59,USD,Launch Price
+SKU-0047,B0P5FBKME8,PureGlo Bath Bomb Set — Dermatologist Tested & Gentle Formula,2024-07-05,2024-08-09,26.59,USD,Promotional Discount
+SKU-0047,B0P5FBKME8,PureGlo Bath Bomb Set — Dermatologist Tested & Gentle Formula,2024-08-10,2025-08-08,31.59,USD,Price Increase
+SKU-0047,B0P5FBKME8,PureGlo Bath Bomb Set — Dermatologist Tested & Gentle Formula,2025-08-09,2026-07-31,29.77,USD,Promotional Discount
+SKU-0048,B0UD0VSZWR,ZenLife Facial Cleanser — Gentle Formula & Cruelty-Free,2023-10-30,2026-07-31,16.77,USD,Launch Price
+SKU-0049,B043M1S1C4,PureGlo Sunscreen Lotion — Ionic Technology & Dermatologist Tested,2024-11-06,2026-07-31,31.54,USD,Launch Price
+SKU-0050,B08UGTRB3Y,ZenLife Vitamin C Serum — Dermatologist Tested & Long Lasting,2023-10-07,2025-01-26,37.09,USD,Launch Price
+SKU-0050,B08UGTRB3Y,ZenLife Vitamin C Serum — Dermatologist Tested & Long Lasting,2025-01-27,2026-07-31,40.54,USD,Price Increase
+SKU-0051,B0NKTX370W,PureGlo Shampoo & Conditioner — Gentle Formula & Ionic Technology,2024-01-13,2025-08-02,11.33,USD,Launch Price
+SKU-0051,B0NKTX370W,PureGlo Shampoo & Conditioner — Gentle Formula & Ionic Technology,2025-08-03,2026-07-31,12.23,USD,Price Increase
+SKU-0052,B0G3W4FNRY,ZenLife Beard Trimmer — Cruelty-Free & Gentle Formula,2023-02-08,2026-07-31,41.64,USD,Launch Price
+SKU-0053,B09YYU37MZ,TrailBlaze Jump Rope — Heavy Duty & Waterproof,2024-01-03,2025-10-10,18.75,USD,Launch Price
+SKU-0053,B09YYU37MZ,TrailBlaze Jump Rope — Heavy Duty & Waterproof,2025-10-11,2026-07-31,20.63,USD,Price Increase
+SKU-0054,B0SSL9ZZJT,EverPeak Trekking Poles — Heavy Duty & Anti-Slip,2025-06-09,2026-01-31,16.66,USD,Launch Price
+SKU-0054,B0SSL9ZZJT,EverPeak Trekking Poles — Heavy Duty & Anti-Slip,2026-02-01,2026-02-27,13.53,USD,Promotional Discount
+SKU-0054,B0SSL9ZZJT,EverPeak Trekking Poles — Heavy Duty & Anti-Slip,2026-02-28,2026-07-31,16.66,USD,Price Increase
+SKU-0055,B0E32FCLF7,TrailBlaze Camping Tent — Lightweight & Waterproof,2023-02-23,2024-10-29,65.71,USD,Launch Price
+SKU-0055,B0E32FCLF7,TrailBlaze Camping Tent — Lightweight & Waterproof,2024-10-30,2026-07-31,73.73,USD,Price Increase
+SKU-0056,B03QFWA54M,EverPeak Running Belt — Anti-Slip & Waterproof,2024-02-16,2026-07-31,43.14,USD,Launch Price
+SKU-0057,B0SQ7F7BFE,TrailBlaze Dumbbell Set — Waterproof & Portable,2024-11-01,2026-07-31,46.37,USD,Launch Price
+SKU-0058,B03RTJKKB4,EverPeak Hiking Backpack — Waterproof & Anti-Slip,2023-03-29,2026-07-31,76.83,USD,Launch Price
+SKU-0059,B0GUBJ397E,TrailBlaze Yoga Mat — Portable & Lightweight,2023-08-06,2026-07-31,77.84,USD,Launch Price
+SKU-0060,B04N2RZ3JC,EverPeak Sleeping Bag — Waterproof & Lightweight,2023-01-07,2026-07-31,24.26,USD,Launch Price
+SKU-0061,B0NGF9R3E9,TrailBlaze Cooler Bag — Waterproof & Lightweight,2023-03-25,2024-05-17,72.06,USD,Launch Price
+SKU-0061,B0NGF9R3E9,TrailBlaze Cooler Bag — Waterproof & Lightweight,2024-05-18,2024-06-26,60.68,USD,Promotional Discount
+SKU-0061,B0NGF9R3E9,TrailBlaze Cooler Bag — Waterproof & Lightweight,2024-06-27,2024-12-22,72.06,USD,Price Increase
+SKU-0061,B0NGF9R3E9,TrailBlaze Cooler Bag — Waterproof & Lightweight,2024-12-23,2026-07-31,82.22,USD,Price Increase
+SKU-0062,B08B0R5CPH,EverPeak Kayak Paddle — Heavy Duty & Portable,2025-02-24,2025-12-30,78.93,USD,Launch Price
+SKU-0062,B08B0R5CPH,EverPeak Kayak Paddle — Heavy Duty & Portable,2025-12-31,2026-07-31,90.19,USD,Price Increase
+SKU-0063,B0M9DY5YFP,TrailBlaze Bike Helmet — Lightweight & Portable,2024-08-10,2026-07-31,13.26,USD,Launch Price
+SKU-0064,B0S2MJ6SBY,EverPeak Resistance Band Set — Heavy Duty & Portable,2023-12-14,2024-04-18,52.03,USD,Launch Price
+SKU-0064,B0S2MJ6SBY,EverPeak Resistance Band Set — Heavy Duty & Portable,2024-04-19,2024-05-25,45.31,USD,Promotional Discount
+SKU-0064,B0S2MJ6SBY,EverPeak Resistance Band Set — Heavy Duty & Portable,2024-05-26,2026-07-31,52.03,USD,Price Increase
+SKU-0065,B0FKKPVMZA,TrailBlaze Foam Roller — Heavy Duty & Anti-Slip,2025-03-02,2026-01-31,52.95,USD,Launch Price
+SKU-0065,B0FKKPVMZA,TrailBlaze Foam Roller — Heavy Duty & Anti-Slip,2026-02-01,2026-03-19,42.47,USD,Promotional Discount
+SKU-0065,B0FKKPVMZA,TrailBlaze Foam Roller — Heavy Duty & Anti-Slip,2026-03-20,2026-07-31,52.95,USD,Price Increase
+SKU-0066,B01U2VVLHF,EverPeak Water Bottle — Portable & Waterproof,2024-04-17,2025-01-13,66.14,USD,Launch Price
+SKU-0066,B01U2VVLHF,EverPeak Water Bottle — Portable & Waterproof,2025-01-14,2025-02-28,53.55,USD,Promotional Discount
+SKU-0066,B01U2VVLHF,EverPeak Water Bottle — Portable & Waterproof,2025-03-01,2026-07-31,66.14,USD,Price Increase
+SKU-0067,B0C9DBLSN2,KiddoCraft Board Game — STEM Learning & Ages 3+,2024-09-16,2025-12-22,8.67,USD,Launch Price
+SKU-0067,B0C9DBLSN2,KiddoCraft Board Game — STEM Learning & Ages 3+,2025-12-23,2026-07-31,9.73,USD,Price Increase
+SKU-0068,B0DLXACSTN,CloudNest Plush Toy — Non-Toxic & Ages 3+,2024-11-02,2026-07-31,21.32,USD,Launch Price
+SKU-0069,B0Z5ASHJRH,KiddoCraft Fidget Toy Pack — Non-Toxic & Educational,2024-05-12,2026-07-31,22.58,USD,Launch Price
+SKU-0070,B01CQYLRS7,CloudNest Art Supplies Kit — STEM Learning & Interactive,2023-06-19,2026-07-31,13.62,USD,Launch Price
+SKU-0071,B0HE56LV1G,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,2023-10-16,2024-08-04,22.81,USD,Launch Price
+SKU-0071,B0HE56LV1G,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,2024-08-05,2024-09-17,16.65,USD,Promotional Discount
+SKU-0071,B0HE56LV1G,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,2024-09-18,2026-07-31,22.81,USD,Price Increase
+SKU-0072,B03WTWXEDC,CloudNest Magnetic Tiles — STEM Learning & Educational,2023-05-31,2026-07-31,19.25,USD,Launch Price
+SKU-0073,B0XGURFLW0,KiddoCraft Building Blocks Set — Educational & Non-Toxic,2023-05-21,2026-07-31,47.02,USD,Launch Price
+SKU-0074,B0M2UGJMKQ,CloudNest RC Car — STEM Learning & Interactive,2024-03-05,2024-09-25,11.77,USD,Launch Price
+SKU-0074,B0M2UGJMKQ,CloudNest RC Car — STEM Learning & Interactive,2024-09-26,2024-11-07,9.3,USD,Promotional Discount
+SKU-0074,B0M2UGJMKQ,CloudNest RC Car — STEM Learning & Interactive,2024-11-08,2025-11-30,11.77,USD,Price Increase
+SKU-0074,B0M2UGJMKQ,CloudNest RC Car — STEM Learning & Interactive,2025-12-01,2026-07-31,12.84,USD,Price Increase
+SKU-0075,B0SH0V1DCR,KiddoCraft Nerf-Style Blaster — Ages 3+ & Interactive,2024-06-22,2025-02-26,15.04,USD,Launch Price
+SKU-0075,B0SH0V1DCR,KiddoCraft Nerf-Style Blaster — Ages 3+ & Interactive,2025-02-27,2026-07-31,17.07,USD,Price Increase
+SKU-0076,B0FPMT2SF9,CloudNest Science Kit — Educational & Non-Toxic,2025-04-30,2025-12-30,12.73,USD,Launch Price
+SKU-0076,B0FPMT2SF9,CloudNest Science Kit — Educational & Non-Toxic,2025-12-31,2026-01-31,14.63,USD,Price Increase
+SKU-0076,B0FPMT2SF9,CloudNest Science Kit — Educational & Non-Toxic,2026-02-01,2026-03-04,11.88,USD,Promotional Discount
+SKU-0076,B0FPMT2SF9,CloudNest Science Kit — Educational & Non-Toxic,2026-03-05,2026-07-31,14.63,USD,Price Increase
+SKU-0077,B09V1N9TED,KiddoCraft Puzzle Set — Non-Toxic & STEM Learning,2025-02-10,2026-07-31,29.15,USD,Launch Price
+SKU-0078,B02LTJA2NA,CloudNest Dollhouse — Ages 3+ & Interactive,2023-03-26,2023-10-11,36.75,USD,Launch Price
+SKU-0078,B02LTJA2NA,CloudNest Dollhouse — Ages 3+ & Interactive,2023-10-12,2023-11-07,28.26,USD,Promotional Discount
+SKU-0078,B02LTJA2NA,CloudNest Dollhouse — Ages 3+ & Interactive,2023-11-08,2024-04-18,36.75,USD,Price Increase
+SKU-0078,B02LTJA2NA,CloudNest Dollhouse — Ages 3+ & Interactive,2024-04-19,2026-07-31,41.1,USD,Price Increase
+SKU-0079,B0E48MCY15,WriteWell Label Maker — Durable & Multipurpose,2024-09-14,2025-09-28,49.25,USD,Launch Price
+SKU-0079,B0E48MCY15,WriteWell Label Maker — Durable & Multipurpose,2025-09-29,2025-11-08,37.17,USD,Promotional Discount
+SKU-0079,B0E48MCY15,WriteWell Label Maker — Durable & Multipurpose,2025-11-09,2026-07-31,49.25,USD,Price Increase
+SKU-0080,B06HX4SP7L,ProGrip Gel Pen Set — Ergonomic & Durable,2023-04-27,2023-12-30,13.43,USD,Launch Price
+SKU-0080,B06HX4SP7L,ProGrip Gel Pen Set — Ergonomic & Durable,2023-12-31,2026-07-31,12.33,USD,Promotional Discount
+SKU-0081,B0NQJ9A5QP,WriteWell Paper Shredder — Ergonomic & Space Saving,2025-05-15,2025-11-05,15.31,USD,Launch Price
+SKU-0081,B0NQJ9A5QP,WriteWell Paper Shredder — Ergonomic & Space Saving,2025-11-06,2025-12-30,11.7,USD,Promotional Discount
+SKU-0081,B0NQJ9A5QP,WriteWell Paper Shredder — Ergonomic & Space Saving,2025-12-31,2026-07-31,13.62,USD,Price Increase
+SKU-0082,B0TJL2AZQH,ProGrip File Folders — Ergonomic & Multipurpose,2024-08-09,2026-07-31,48.76,USD,Launch Price
+SKU-0083,B0M6YEW145,WriteWell Standing Desk Converter — Durable & Multipurpose,2025-04-28,2025-12-28,9.99,USD,Launch Price
+SKU-0083,B0M6YEW145,WriteWell Standing Desk Converter — Durable & Multipurpose,2025-12-29,2026-07-31,10.68,USD,Price Increase
+SKU-0084,B0J4AJH5Y5,ProGrip Monitor Stand — Space Saving & Multipurpose,2023-07-21,2024-02-18,57.15,USD,Launch Price
+SKU-0084,B0J4AJH5Y5,ProGrip Monitor Stand — Space Saving & Multipurpose,2024-02-19,2024-03-19,47.06,USD,Promotional Discount
+SKU-0084,B0J4AJH5Y5,ProGrip Monitor Stand — Space Saving & Multipurpose,2024-03-20,2026-07-31,57.15,USD,Price Increase
+SKU-0085,B0M1WJMA8T,WriteWell Planner Notebook — Ergonomic & Multipurpose,2025-02-24,2026-07-31,8.44,USD,Launch Price
+SKU-0086,B0AZBDRH38,ProGrip Sticky Notes Pack — Ergonomic & Multipurpose,2023-11-17,2025-03-18,29.73,USD,Launch Price
+SKU-0086,B0AZBDRH38,ProGrip Sticky Notes Pack — Ergonomic & Multipurpose,2025-03-19,2026-07-31,27.71,USD,Promotional Discount
+SKU-0087,B0TXQ65ZFV,WriteWell Desk Organizer — Ergonomic & Multipurpose,2025-06-05,2026-07-31,21.66,USD,Launch Price
+SKU-0088,B0N90348CD,ProGrip Desk Chair Cushion — Multipurpose & Ergonomic,2025-06-22,2025-12-30,17.61,USD,Launch Price
+SKU-0088,B0N90348CD,ProGrip Desk Chair Cushion — Multipurpose & Ergonomic,2025-12-31,2026-07-31,19.37,USD,Price Increase
+SKU-0089,B0LD11QTH5,PawPals Dog Bed — Easy to Clean & Durable,2025-02-12,2025-06-02,26.5,USD,Launch Price
+SKU-0089,B0LD11QTH5,PawPals Dog Bed — Easy to Clean & Durable,2025-06-03,2025-07-02,19.86,USD,Promotional Discount
+SKU-0089,B0LD11QTH5,PawPals Dog Bed — Easy to Clean & Durable,2025-07-03,2026-07-31,26.5,USD,Price Increase
+SKU-0090,B0GKG0B3EA,PawPals Dog Leash — Easy to Clean & Vet Recommended,2025-04-28,2026-07-31,54.55,USD,Launch Price
+SKU-0091,B05P1Y30A5,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,2025-03-04,2025-07-12,10.4,USD,Launch Price
+SKU-0091,B05P1Y30A5,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,2025-07-13,2025-08-18,8.78,USD,Promotional Discount
+SKU-0091,B05P1Y30A5,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,2025-08-19,2025-12-30,10.4,USD,Price Increase
+SKU-0091,B05P1Y30A5,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,2025-12-31,2026-07-31,11.7,USD,Price Increase
+SKU-0092,B0CYFJJNVP,PawPals Pet Grooming Brush — Vet Recommended & Non-Toxic,2024-11-09,2025-12-26,42.18,USD,Launch Price
+SKU-0092,B0CYFJJNVP,PawPals Pet Grooming Brush — Vet Recommended & Non-Toxic,2025-12-27,2026-01-18,30.81,USD,Promotional Discount
+SKU-0092,B0CYFJJNVP,PawPals Pet Grooming Brush — Vet Recommended & Non-Toxic,2026-01-19,2026-07-31,42.18,USD,Price Increase
+SKU-0093,B0PGGKXQ9K,PawPals Pet Water Fountain — Easy to Clean & Vet Recommended,2023-10-23,2024-09-11,34.22,USD,Launch Price
+SKU-0093,B0PGGKXQ9K,PawPals Pet Water Fountain — Easy to Clean & Vet Recommended,2024-09-12,2024-11-10,27.31,USD,Promotional Discount
+SKU-0093,B0PGGKXQ9K,PawPals Pet Water Fountain — Easy to Clean & Vet Recommended,2024-11-11,2026-07-31,34.22,USD,Price Increase
+SKU-0094,B0R7U9K93R,PawPals Pet Carrier — Non-Toxic & Durable,2024-03-28,2024-06-22,21.64,USD,Launch Price
+SKU-0094,B0R7U9K93R,PawPals Pet Carrier — Non-Toxic & Durable,2024-06-23,2024-07-29,17.33,USD,Promotional Discount
+SKU-0094,B0R7U9K93R,PawPals Pet Carrier — Non-Toxic & Durable,2024-07-30,2025-06-25,21.64,USD,Price Increase
+SKU-0094,B0R7U9K93R,PawPals Pet Carrier — Non-Toxic & Durable,2025-06-26,2026-07-31,23.08,USD,Price Increase
+SKU-0095,B00JXDXVG6,PawPals Dog Treat Pouch — Easy to Clean & Non-Toxic,2024-11-28,2025-12-16,18.93,USD,Launch Price
+SKU-0095,B00JXDXVG6,PawPals Dog Treat Pouch — Easy to Clean & Non-Toxic,2025-12-17,2026-07-31,20.29,USD,Price Increase
+SKU-0096,B0UX1US6RV,PawPals Cat Scratching Post — Durable & Non-Toxic,2023-06-29,2026-07-31,34.97,USD,Launch Price
+SKU-0097,B0F635F86R,PawPals Dog Chew Toys — Durable & Easy to Clean,2023-05-18,2026-07-31,21.36,USD,Launch Price
+SKU-0098,B03ZGX0DF9,PawPals Catnip Toys — Easy to Clean & Non-Toxic,2023-03-30,2026-07-31,48.23,USD,Launch Price
+SKU-0099,B0PXWSPMXC,PawPals Cat Litter Mat — Durable & Easy to Clean,2023-11-11,2024-07-01,38.71,USD,Launch Price
+SKU-0099,B0PXWSPMXC,PawPals Cat Litter Mat — Durable & Easy to Clean,2024-07-02,2026-07-31,34.73,USD,Promotional Discount
+SKU-0100,B0TURPLSHH,PawPals Automatic Pet Feeder — Easy to Clean & Vet Recommended,2024-04-27,2026-07-31,43.13,USD,Launch Price
+SKU-0101,B0HTFHF1FT,LittleNest Silicone Bibs — Hypoallergenic & Safety Certified,2024-05-15,2026-07-31,61.11,USD,Launch Price
+SKU-0102,B02X1DSSZM,LittleNest Diaper Bag — Hypoallergenic & Easy to Clean,2023-03-03,2026-07-31,13.44,USD,Launch Price
+SKU-0103,B04ZD4ZURZ,LittleNest Baby Monitor — Safety Certified & Hypoallergenic,2024-10-31,2026-07-31,31.9,USD,Launch Price
+SKU-0104,B01NLXW82L,LittleNest Bassinet — Safety Certified & BPA-Free,2025-01-12,2026-07-31,24.09,USD,Launch Price
+SKU-0105,B04Z7XKKST,LittleNest Swaddle Blankets — BPA-Free & Safety Certified,2025-06-03,2025-09-12,54.16,USD,Launch Price
+SKU-0105,B04Z7XKKST,LittleNest Swaddle Blankets — BPA-Free & Safety Certified,2025-09-13,2025-10-23,47.89,USD,Promotional Discount
+SKU-0105,B04Z7XKKST,LittleNest Swaddle Blankets — BPA-Free & Safety Certified,2025-10-24,2026-07-31,54.16,USD,Price Increase
+SKU-0106,B0EGZYNSAE,LittleNest Baby Bath Tub — Hypoallergenic & Safety Certified,2023-06-29,2024-06-29,27.32,USD,Launch Price
+SKU-0106,B0EGZYNSAE,LittleNest Baby Bath Tub — Hypoallergenic & Safety Certified,2024-06-30,2026-07-31,25.43,USD,Promotional Discount
+SKU-0107,B0YJ486MXU,LittleNest Baby Safety Gate — Safety Certified & BPA-Free,2023-03-01,2026-07-31,60.8,USD,Launch Price
+SKU-0108,B0QKGVBY0X,LittleNest Baby Bottle Set — BPA-Free & Hypoallergenic,2025-04-03,2026-01-31,32.0,USD,Launch Price
+SKU-0108,B0QKGVBY0X,LittleNest Baby Bottle Set — BPA-Free & Hypoallergenic,2026-02-01,2026-03-21,24.13,USD,Promotional Discount
+SKU-0108,B0QKGVBY0X,LittleNest Baby Bottle Set — BPA-Free & Hypoallergenic,2026-03-22,2026-07-31,32.0,USD,Price Increase
+SKU-0109,B0FTQRA6A1,DriveGuard Dash Cam — Heavy Duty & Easy Install,2024-06-09,2024-09-20,30.93,USD,Launch Price
+SKU-0109,B0FTQRA6A1,DriveGuard Dash Cam — Heavy Duty & Easy Install,2024-09-21,2024-11-08,27.12,USD,Promotional Discount
+SKU-0109,B0FTQRA6A1,DriveGuard Dash Cam — Heavy Duty & Easy Install,2024-11-09,2026-07-31,30.93,USD,Price Increase
+SKU-0110,B0YBRGQRFQ,DriveGuard Car Vacuum — Long Cord & Easy Install,2024-05-26,2025-06-30,18.37,USD,Launch Price
+SKU-0110,B0YBRGQRFQ,DriveGuard Car Vacuum — Long Cord & Easy Install,2025-07-01,2025-08-02,16.09,USD,Promotional Discount
+SKU-0110,B0YBRGQRFQ,DriveGuard Car Vacuum — Long Cord & Easy Install,2025-08-03,2026-07-31,18.37,USD,Price Increase
+SKU-0111,B02T104M25,DriveGuard Jump Starter — Long Cord & Universal Fit,2023-02-04,2024-12-21,60.42,USD,Launch Price
+SKU-0111,B02T104M25,DriveGuard Jump Starter — Long Cord & Universal Fit,2024-12-22,2026-07-31,55.67,USD,Promotional Discount
+SKU-0112,B0J9HPEX6X,DriveGuard Tire Pressure Gauge — Long Cord & Heavy Duty,2024-06-26,2025-07-20,36.82,USD,Launch Price
+SKU-0112,B0J9HPEX6X,DriveGuard Tire Pressure Gauge — Long Cord & Heavy Duty,2025-07-21,2026-07-31,34.7,USD,Promotional Discount
+SKU-0113,B0PAU2ZN1D,DriveGuard Car Organizer — Heavy Duty & Easy Install,2024-08-01,2024-11-28,24.69,USD,Launch Price
+SKU-0113,B0PAU2ZN1D,DriveGuard Car Organizer — Heavy Duty & Easy Install,2024-11-29,2024-12-21,20.57,USD,Promotional Discount
+SKU-0113,B0PAU2ZN1D,DriveGuard Car Organizer — Heavy Duty & Easy Install,2024-12-22,2026-07-31,24.69,USD,Price Increase
+SKU-0114,B0ZWX7WPK9,DriveGuard Seat Covers — Universal Fit & Heavy Duty,2024-08-02,2025-12-30,19.42,USD,Launch Price
+SKU-0114,B0ZWX7WPK9,DriveGuard Seat Covers — Universal Fit & Heavy Duty,2025-12-31,2026-07-31,20.72,USD,Price Increase
+SKU-0115,B0KKUPJDRS,ProGrip LED Work Light — Cordless & High Torque,2023-03-20,2026-07-31,57.78,USD,Launch Price
+SKU-0116,B0S19ZGCXE,EverPeak Screwdriver Set — Cordless & High Torque,2024-09-01,2026-07-31,46.08,USD,Launch Price
+SKU-0117,B0A30AC946,ProGrip Stud Finder — Ergonomic Grip & Rust Resistant,2023-06-07,2024-02-13,17.72,USD,Launch Price
+SKU-0117,B0A30AC946,ProGrip Stud Finder — Ergonomic Grip & Rust Resistant,2024-02-14,2026-07-31,19.86,USD,Price Increase
+SKU-0118,B09D2WWZK5,EverPeak Cordless Drill — Cordless & High Torque,2025-06-03,2026-01-31,18.98,USD,Launch Price
+SKU-0118,B09D2WWZK5,EverPeak Cordless Drill — Cordless & High Torque,2026-02-01,2026-03-26,17.07,USD,Promotional Discount
+SKU-0118,B09D2WWZK5,EverPeak Cordless Drill — Cordless & High Torque,2026-03-27,2026-07-31,18.98,USD,Price Increase
+SKU-0119,B088ML63AY,ProGrip Socket Set — Rust Resistant & Ergonomic Grip,2025-03-12,2025-06-02,23.37,USD,Launch Price
+SKU-0119,B088ML63AY,ProGrip Socket Set — Rust Resistant & Ergonomic Grip,2025-06-03,2025-07-24,19.33,USD,Promotional Discount
+SKU-0119,B088ML63AY,ProGrip Socket Set — Rust Resistant & Ergonomic Grip,2025-07-25,2026-07-31,23.37,USD,Price Increase
+SKU-0120,B0LPG6DAQM,EverPeak Tool Bag — Rust Resistant & Ergonomic Grip,2023-05-20,2024-09-29,38.1,USD,Launch Price
+SKU-0120,B0LPG6DAQM,EverPeak Tool Bag — Rust Resistant & Ergonomic Grip,2024-09-30,2024-10-23,30.08,USD,Promotional Discount
+SKU-0120,B0LPG6DAQM,EverPeak Tool Bag — Rust Resistant & Ergonomic Grip,2024-10-24,2026-07-31,38.1,USD,Price Increase

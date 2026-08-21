@@ -1,0 +1,416 @@
+return_id,order_id,order_item_id,asin,sku,product_title,return_request_date,return_reason,return_status,refund_amount,currency
+RET-000001,114-7980239-8748475,1,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2025-12-26,Wrong item sent,Refunded,51.35,USD
+RET-000002,114-3760251-5920470,1,B055PLDLF8,SKU-0005,BrightBeam Webcam — Compact Design & 30H Battery Life,2025-02-02,Defective,Refunded,40.21,USD
+RET-000003,114-7653465-5050622,6,B0Q85PD1G6,SKU-0018,EverPeak Power Bank — 30H Battery Life & Noise Cancelling,2025-09-01,Inaccurate website description,Processing,12.17,USD
+RET-000004,114-7816044-3421205,2,B02T104M25,SKU-0111,DriveGuard Jump Starter — Long Cord & Universal Fit,2025-12-11,Defective,Refunded,55.67,USD
+RET-000005,114-5903912-2854303,1,B0GUBJ397E,SKU-0059,TrailBlaze Yoga Mat — Portable & Lightweight,2025-02-13,No longer needed,Refunded,126.0,USD
+RET-000006,114-4601629-5527803,1,B0PGGKXQ9K,SKU-0093,PawPals Pet Water Fountain — Easy to Clean & Vet Recommended,2025-03-18,Inaccurate website description,Refunded,17.13,USD
+RET-000007,114-3990767-3165349,2,B0A30AC946,SKU-0117,ProGrip Stud Finder — Ergonomic Grip & Rust Resistant,2025-03-14,Defective,Refunded,19.86,USD
+RET-000008,114-7469859-1682526,1,B0FTQRA6A1,SKU-0109,DriveGuard Dash Cam — Heavy Duty & Easy Install,2025-02-22,Missing parts or accessories,Refunded,123.72,USD
+RET-000009,114-5770818-9720948,4,B0A30AC946,SKU-0117,ProGrip Stud Finder — Ergonomic Grip & Rust Resistant,2025-03-26,Not as described,Refunded,13.2,USD
+RET-000010,114-8789111-7637791,1,B0JH68DJ8G,SKU-0032,UrbanKitchen Blender — Non-Stick Coating & Space Saving,2025-05-10,Damaged during shipping,Refunded,26.96,USD
+RET-000011,114-4180902-3495920,2,B00EGECWF5,SKU-0030,ZenLife Laundry Hamper — Dishwasher Safe & Premium Finish,2026-01-05,Not as described,Processing,40.29,USD
+RET-000012,114-4538150-2964885,1,B0CWALEK2Y,SKU-0036,ZenLife Air Fryer — Dishwasher Safe & Non-Stick Coating,2025-10-20,Not as described,Refunded,10.11,USD
+RET-000013,114-7320713-5696796,1,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2026-01-17,Defective,Refunded,51.35,USD
+RET-000014,114-8649557-1479843,1,B0ANDXF98K,SKU-0004,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,2026-04-27,Damaged during shipping,Refunded,109.5,USD
+RET-000015,114-8457880-6554087,1,B0NKTX370W,SKU-0051,PureGlo Shampoo & Conditioner — Gentle Formula & Ionic Technology,2026-03-15,Defective,Refunded,12.23,USD
+RET-000016,114-6968141-9704181,1,B0PGGKXQ9K,SKU-0093,PawPals Pet Water Fountain — Easy to Clean & Vet Recommended,2026-03-28,Defective,Refunded,34.22,USD
+RET-000017,114-7001447-8382749,3,B02LTJA2NA,SKU-0078,CloudNest Dollhouse — Ages 3+ & Interactive,2026-01-20,Wrong item sent,Refunded,41.1,USD
+RET-000018,114-7806348-7010895,1,B0A8X9FRKN,SKU-0031,Nordic Home Coffee Grinder — BPA-Free & Premium Finish,2025-08-01,No longer needed,Refunded,163.11,USD
+RET-000019,114-7123271-4147796,1,B0J4AJH5Y5,SKU-0084,ProGrip Monitor Stand — Space Saving & Multipurpose,2025-05-08,Better price available,Refunded,44.05,USD
+RET-000020,114-4115369-4032184,1,B0F635F86R,SKU-0097,PawPals Dog Chew Toys — Durable & Easy to Clean,2026-04-27,Wrong item sent,Refunded,64.08,USD
+RET-000021,114-1667591-8590566,1,B0CWALEK2Y,SKU-0036,ZenLife Air Fryer — Dishwasher Safe & Non-Stick Coating,2025-12-09,Wrong item sent,Closed,19.47,USD
+RET-000022,114-3276586-7369059,1,B08H6XVAML,SKU-0006,EverPeak Gaming Mouse — RGB Backlit & Compact Design,2026-06-28,No longer needed,Refunded,55.15,USD
+RET-000023,114-2706522-4918671,1,B0J9HPEX6X,SKU-0112,DriveGuard Tire Pressure Gauge — Long Cord & Heavy Duty,2026-02-05,Defective,Closed,127.3,USD
+RET-000024,114-1727027-3696228,3,B0NQJ9A5QP,SKU-0081,WriteWell Paper Shredder — Ergonomic & Space Saving,2026-07-15,Defective,Refunded,27.24,USD
+RET-000025,114-1194871-3566062,1,B0FA6PK7S1,SKU-0043,PureGlo Body Scrub — Ionic Technology & Gentle Formula,2025-04-30,Missing parts or accessories,Refunded,40.0,USD
+RET-000026,114-7257735-8426175,3,B0U0VF1HMG,SKU-0040,ZenLife Nail Clipper Set — Gentle Formula & Cruelty-Free,2025-06-13,No longer needed,Closed,0.0,USD
+RET-000027,114-1869207-1089689,5,B0QKGVBY0X,SKU-0108,LittleNest Baby Bottle Set — BPA-Free & Hypoallergenic,2025-11-19,Defective,Processing,32.0,USD
+RET-000028,114-8157573-4128472,1,B088K2QTZJ,SKU-0007,AuroraTech Car Mount — Bluetooth 5.3 & RGB Backlit,2025-09-12,Damaged during shipping,Processing,52.27,USD
+RET-000029,114-9060755-6614760,3,B0E48MCY15,SKU-0079,WriteWell Label Maker — Durable & Multipurpose,2026-01-31,Defective,Refunded,49.25,USD
+RET-000030,114-2343722-3679963,1,B0QKGVBY0X,SKU-0108,LittleNest Baby Bottle Set — BPA-Free & Hypoallergenic,2026-03-26,Damaged during shipping,Refunded,24.13,USD
+RET-000031,114-1640552-9927838,1,B0M6YEW145,SKU-0083,WriteWell Standing Desk Converter — Durable & Multipurpose,2025-11-29,Not as described,Processing,4.87,USD
+RET-000032,114-5970532-1534227,1,B08RJE02WW,SKU-0016,AuroraTech Headphones — Bluetooth 5.3 & Water Resistant,2025-04-28,Wrong item sent,Refunded,87.93,USD
+RET-000033,114-9435536-2301306,3,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2025-11-16,Better price available,Processing,130.96,USD
+RET-000034,114-5065883-8480522,1,B0ANDXF98K,SKU-0004,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,2025-12-24,Inaccurate website description,Refunded,97.42,USD
+RET-000035,114-3884191-5832175,1,B04Z7XKKST,SKU-0105,LittleNest Swaddle Blankets — BPA-Free & Safety Certified,2026-06-02,Arrived too late,Refunded,36.08,USD
+RET-000036,114-1740603-3053231,2,B0ZWX7WPK9,SKU-0114,DriveGuard Seat Covers — Universal Fit & Heavy Duty,2025-12-28,Defective,Refunded,19.42,USD
+RET-000037,114-1403445-1843850,1,B0P5FBKME8,SKU-0047,PureGlo Bath Bomb Set — Dermatologist Tested & Gentle Formula,2025-09-24,Better price available,Refunded,15.02,USD
+RET-000038,114-5029094-7174257,1,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2026-04-24,Missing parts or accessories,Refunded,73.81,USD
+RET-000039,114-8970430-8318098,1,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2026-07-15,Wrong item sent,Refunded,51.35,USD
+RET-000040,114-3975387-8917129,1,B09D2WWZK5,SKU-0118,EverPeak Cordless Drill — Cordless & High Torque,2026-01-08,Wrong item sent,Refunded,18.98,USD
+RET-000041,114-9295063-9257653,3,B0R7U9K93R,SKU-0094,PawPals Pet Carrier — Non-Toxic & Durable,2026-02-10,Damaged during shipping,Processing,46.16,USD
+RET-000042,114-2334618-3817927,2,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2025-11-22,Defective,Processing,44.43,USD
+RET-000043,114-5698885-9344199,1,B04Z7XKKST,SKU-0105,LittleNest Swaddle Blankets — BPA-Free & Safety Certified,2025-12-12,Not as described,Refunded,33.2,USD
+RET-000044,114-9667024-7173977,2,B0ANDXF98K,SKU-0004,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,2026-06-17,No longer needed,Refunded,67.0,USD
+RET-000045,114-9878202-7240771,1,B0HE56LV1G,SKU-0071,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,2026-01-03,Arrived too late,Processing,17.24,USD
+RET-000046,114-3817316-5822101,2,B06AZNEH47,SKU-0008,BrightBeam Mechanical Keyboard — 30H Battery Life & Water Resistant,2025-09-01,Defective,Refunded,75.67,USD
+RET-000047,114-9650043-6422015,2,B04Z7XKKST,SKU-0105,LittleNest Swaddle Blankets — BPA-Free & Safety Certified,2026-01-09,Not as described,Refunded,45.42,USD
+RET-000048,114-2258222-2375690,4,B0ZWX7WPK9,SKU-0114,DriveGuard Seat Covers — Universal Fit & Heavy Duty,2025-01-13,Better price available,Processing,35.08,USD
+RET-000049,114-8733733-5927218,3,B08H6XVAML,SKU-0006,EverPeak Gaming Mouse — RGB Backlit & Compact Design,2025-01-20,No longer needed,Processing,86.49,USD
+RET-000050,114-9497062-2983613,1,B09D2WWZK5,SKU-0118,EverPeak Cordless Drill — Cordless & High Torque,2026-01-04,Not as described,Refunded,14.87,USD
+RET-000051,114-4985461-2247754,2,B0MVKP1792,SKU-0002,BrightBeam HDMI Cable — Bluetooth 5.3 & HD 1080p,2025-03-03,Not as described,Refunded,133.74,USD
+RET-000052,114-1634124-2686460,2,B08H6XVAML,SKU-0006,EverPeak Gaming Mouse — RGB Backlit & Compact Design,2025-03-07,Better price available,Closed,0.0,USD
+RET-000053,114-1424015-2198780,2,B0ANDXF98K,SKU-0004,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,2025-02-27,Not as described,Refunded,86.28,USD
+RET-000054,114-3402037-9881980,4,B0DLXACSTN,SKU-0068,CloudNest Plush Toy — Non-Toxic & Ages 3+,2026-07-15,Defective,Processing,63.96,USD
+RET-000055,114-3970450-7972650,2,B0WR597BPU,SKU-0015,EverPeak Streaming Stick — Bluetooth 5.3 & HD 1080p,2026-01-03,Defective,Refunded,120.59,USD
+RET-000056,114-6965855-6340079,1,B08H6XVAML,SKU-0006,EverPeak Gaming Mouse — RGB Backlit & Compact Design,2025-07-27,Arrived too late,Refunded,65.08,USD
+RET-000057,114-8186119-1866050,3,B01NLXW82L,SKU-0104,LittleNest Bassinet — Safety Certified & BPA-Free,2025-08-30,Defective,Processing,48.18,USD
+RET-000058,114-7029298-2134458,1,B0M6YEW145,SKU-0083,WriteWell Standing Desk Converter — Durable & Multipurpose,2025-06-14,Not as described,Refunded,6.14,USD
+RET-000059,114-1356586-6662173,1,B0R7U9K93R,SKU-0094,PawPals Pet Carrier — Non-Toxic & Durable,2025-01-13,No longer needed,Refunded,11.74,USD
+RET-000060,114-1641726-6341250,3,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2025-07-19,Defective,Refunded,443.64,USD
+RET-000061,114-4814129-5354867,1,B0F635F86R,SKU-0097,PawPals Dog Chew Toys — Durable & Easy to Clean,2026-04-02,Damaged during shipping,Refunded,21.36,USD
+RET-000062,114-1071499-7849359,2,B0U0VF1HMG,SKU-0040,ZenLife Nail Clipper Set — Gentle Formula & Cruelty-Free,2025-12-11,Damaged during shipping,Processing,28.36,USD
+RET-000063,114-9521443-9812858,2,B02X1DSSZM,SKU-0102,LittleNest Diaper Bag — Hypoallergenic & Easy to Clean,2025-12-22,Not as described,Refunded,7.14,USD
+RET-000064,114-7371211-6915111,1,B02T104M25,SKU-0111,DriveGuard Jump Starter — Long Cord & Universal Fit,2025-06-28,Arrived too late,Refunded,53.84,USD
+RET-000065,114-2223458-3788216,1,B0E48MCY15,SKU-0079,WriteWell Label Maker — Durable & Multipurpose,2025-06-16,No longer needed,Refunded,48.02,USD
+RET-000066,114-1630875-3841611,1,B0ERBP9846,SKU-0033,ZenLife Throw Blanket — BPA-Free & Non-Stick Coating,2026-03-11,Wrong item sent,Refunded,42.34,USD
+RET-000067,114-3181928-6543836,1,B0EGZYNSAE,SKU-0106,LittleNest Baby Bath Tub — Hypoallergenic & Safety Certified,2026-07-15,Missing parts or accessories,Closed,101.72,USD
+RET-000068,114-2904455-6633895,1,B0M9299AJ4,SKU-0024,ZenLife Electric Kettle — Non-Stick Coating & Space Saving,2026-06-16,Defective,Refunded,79.07,USD
+RET-000069,114-8104723-3330234,1,B0J9HPEX6X,SKU-0112,DriveGuard Tire Pressure Gauge — Long Cord & Heavy Duty,2026-07-01,No longer needed,Refunded,21.81,USD
+RET-000070,114-6937465-1898548,1,B01NLXW82L,SKU-0104,LittleNest Bassinet — Safety Certified & BPA-Free,2025-03-14,Damaged during shipping,Refunded,48.18,USD
+RET-000071,114-1023891-6025522,2,B0P5FBKME8,SKU-0047,PureGlo Bath Bomb Set — Dermatologist Tested & Gentle Formula,2025-12-10,Not as described,Processing,15.29,USD
+RET-000072,114-3811691-3318931,2,B0FPMT2SF9,SKU-0076,CloudNest Science Kit — Educational & Non-Toxic,2025-07-26,Damaged during shipping,Refunded,38.19,USD
+RET-000073,114-2185411-5373061,5,B01CQYLRS7,SKU-0070,CloudNest Art Supplies Kit — STEM Learning & Interactive,2026-01-09,Defective,Processing,13.62,USD
+RET-000074,114-9768429-9793064,2,B055PLDLF8,SKU-0005,BrightBeam Webcam — Compact Design & 30H Battery Life,2025-12-11,Defective,Refunded,120.63,USD
+RET-000075,114-9991823-3666514,4,B0TXQ65ZFV,SKU-0087,WriteWell Desk Organizer — Ergonomic & Multipurpose,2025-12-13,Wrong item sent,Processing,21.66,USD
+RET-000076,114-1056349-9659693,1,B0WKPVSC0B,SKU-0025,Nordic Home Tea Infuser — Non-Stick Coating & Dishwasher Safe,2025-04-14,No longer needed,Refunded,33.96,USD
+RET-000077,114-4320375-5317522,1,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2026-05-23,Not as described,Refunded,60.4,USD
+RET-000078,114-6550320-7112026,3,B0QKGVBY0X,SKU-0108,LittleNest Baby Bottle Set — BPA-Free & Hypoallergenic,2025-04-19,Defective,Refunded,32.0,USD
+RET-000079,114-5565868-7827850,1,B0PGGKXQ9K,SKU-0093,PawPals Pet Water Fountain — Easy to Clean & Vet Recommended,2026-01-07,No longer needed,Refunded,23.93,USD
+RET-000080,114-8205561-5257397,1,B0LPG6DAQM,SKU-0120,EverPeak Tool Bag — Rust Resistant & Ergonomic Grip,2025-10-14,Better price available,Refunded,21.75,USD
+RET-000081,114-1784190-5924400,1,B0HE56LV1G,SKU-0071,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,2026-07-13,Defective,Refunded,22.81,USD
+RET-000082,114-8019404-9309706,1,B0NQJ9A5QP,SKU-0081,WriteWell Paper Shredder — Ergonomic & Space Saving,2025-11-28,No longer needed,Processing,27.25,USD
+RET-000083,114-9104003-1366539,1,B0MVKP1792,SKU-0002,BrightBeam HDMI Cable — Bluetooth 5.3 & HD 1080p,2025-12-16,Defective,Refunded,63.85,USD
+RET-000084,114-4593330-8410501,1,B0QKGVBY0X,SKU-0108,LittleNest Baby Bottle Set — BPA-Free & Hypoallergenic,2025-10-10,Damaged during shipping,Refunded,32.0,USD
+RET-000085,114-8203855-8301883,2,B00JXDXVG6,SKU-0095,PawPals Dog Treat Pouch — Easy to Clean & Non-Toxic,2025-01-30,Damaged during shipping,Processing,18.93,USD
+RET-000086,114-8926872-9877472,1,B0GJL7P973,SKU-0045,PureGlo Hair Straightener — Cruelty-Free & Ionic Technology,2025-12-21,No longer needed,Refunded,33.37,USD
+RET-000087,114-2185411-5373061,4,B09D2WWZK5,SKU-0118,EverPeak Cordless Drill — Cordless & High Torque,2025-12-08,Wrong item sent,Refunded,18.98,USD
+RET-000088,114-5875471-9606378,3,B0GJL7P973,SKU-0045,PureGlo Hair Straightener — Cruelty-Free & Ionic Technology,2025-09-08,No longer needed,Refunded,26.34,USD
+RET-000089,114-7368799-4660541,2,B0QKGVBY0X,SKU-0108,LittleNest Baby Bottle Set — BPA-Free & Hypoallergenic,2025-10-09,Not as described,Refunded,28.34,USD
+RET-000090,114-1074924-8331938,4,B02X1DSSZM,SKU-0102,LittleNest Diaper Bag — Hypoallergenic & Easy to Clean,2026-02-06,Not as described,Closed,0.0,USD
+RET-000091,114-7519642-7551047,1,B08H6XVAML,SKU-0006,EverPeak Gaming Mouse — RGB Backlit & Compact Design,2025-08-23,Defective,Refunded,88.7,USD
+RET-000092,114-4457407-2682205,1,B03WTWXEDC,SKU-0072,CloudNest Magnetic Tiles — STEM Learning & Educational,2025-07-30,Arrived too late,Refunded,11.83,USD
+RET-000093,114-9752470-7307579,1,B0TXQ65ZFV,SKU-0087,WriteWell Desk Organizer — Ergonomic & Multipurpose,2025-06-16,Missing parts or accessories,Refunded,21.66,USD
+RET-000094,114-8666056-9083617,4,B0GJL7P973,SKU-0045,PureGlo Hair Straightener — Cruelty-Free & Ionic Technology,2025-03-09,Inaccurate website description,Refunded,78.15,USD
+RET-000095,114-3418432-3758975,1,B0FTQRA6A1,SKU-0109,DriveGuard Dash Cam — Heavy Duty & Easy Install,2025-07-15,No longer needed,Refunded,22.94,USD
+RET-000096,114-8740350-6232620,1,B01NLXW82L,SKU-0104,LittleNest Bassinet — Safety Certified & BPA-Free,2025-08-01,Damaged during shipping,Refunded,24.09,USD
+RET-000097,114-6044884-3511364,1,B0NQJ9A5QP,SKU-0081,WriteWell Paper Shredder — Ergonomic & Space Saving,2025-08-17,Wrong item sent,Processing,13.84,USD
+RET-000098,114-9004511-5420628,2,B05P1Y30A5,SKU-0091,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,2025-07-15,Damaged during shipping,Processing,10.4,USD
+RET-000099,114-2442367-7339320,1,B0NQJ9A5QP,SKU-0081,WriteWell Paper Shredder — Ergonomic & Space Saving,2025-11-17,No longer needed,Refunded,11.11,USD
+RET-000100,114-8104723-9467237,2,B01NLXW82L,SKU-0104,LittleNest Bassinet — Safety Certified & BPA-Free,2025-07-16,Not as described,Closed,0.0,USD
+RET-000101,114-7649529-8773281,1,B0M9DY5YFP,SKU-0063,TrailBlaze Bike Helmet — Lightweight & Portable,2025-11-27,Not as described,Closed,0.0,USD
+RET-000102,114-2060677-4158199,1,B02LTJA2NA,SKU-0078,CloudNest Dollhouse — Ages 3+ & Interactive,2026-01-08,Damaged during shipping,Processing,41.1,USD
+RET-000103,114-9717867-9828712,1,B0AZBDRH38,SKU-0086,ProGrip Sticky Notes Pack — Ergonomic & Multipurpose,2025-06-10,Defective,Refunded,27.71,USD
+RET-000104,114-6076400-1006857,1,B0NQJ9A5QP,SKU-0081,WriteWell Paper Shredder — Ergonomic & Space Saving,2026-03-29,Inaccurate website description,Refunded,7.94,USD
+RET-000105,114-1426112-4203835,1,B0M6YEW145,SKU-0083,WriteWell Standing Desk Converter — Durable & Multipurpose,2025-01-22,Defective,Refunded,9.99,USD
+RET-000106,114-1894881-4659331,1,B05P1Y30A5,SKU-0091,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,2026-06-15,Wrong item sent,Refunded,11.7,USD
+RET-000107,114-5755437-5686347,1,B0ANDXF98K,SKU-0004,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,2026-05-11,Defective,Closed,109.5,USD
+RET-000108,114-4329896-7109128,1,B0M2QT36J4,SKU-0010,AuroraTech Portable Charger — Fast Charging & HD 1080p,2026-03-18,Defective,Refunded,64.56,USD
+RET-000109,114-6251431-6891283,4,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2026-04-14,Damaged during shipping,Processing,73.81,USD
+RET-000110,114-9951272-4069223,5,B08H6XVAML,SKU-0006,EverPeak Gaming Mouse — RGB Backlit & Compact Design,2026-01-07,Defective,Refunded,88.7,USD
+RET-000111,114-3227060-7604903,2,B0R7U9K93R,SKU-0094,PawPals Pet Carrier — Non-Toxic & Durable,2025-12-10,No longer needed,Refunded,17.89,USD
+RET-000112,114-9336274-5396971,2,B0ZWX7WPK9,SKU-0114,DriveGuard Seat Covers — Universal Fit & Heavy Duty,2025-10-18,No longer needed,Processing,23.86,USD
+RET-000113,114-2318644-3660212,1,B03WTWXEDC,SKU-0072,CloudNest Magnetic Tiles — STEM Learning & Educational,2025-08-28,Arrived too late,Closed,0.0,USD
+RET-000114,114-4402432-7455564,1,B0AZBDRH38,SKU-0086,ProGrip Sticky Notes Pack — Ergonomic & Multipurpose,2025-10-31,No longer needed,Refunded,40.15,USD
+RET-000115,114-9717867-9828712,2,B0Q85PD1G6,SKU-0018,EverPeak Power Bank — 30H Battery Life & Noise Cancelling,2025-06-13,Not as described,Refunded,29.09,USD
+RET-000116,114-9213416-8651209,3,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2025-12-17,Wrong item sent,Refunded,51.35,USD
+RET-000117,114-1822483-7591382,1,B0NKTX370W,SKU-0051,PureGlo Shampoo & Conditioner — Gentle Formula & Ionic Technology,2026-01-17,No longer needed,Processing,6.19,USD
+RET-000118,114-4565762-3182864,1,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2025-02-12,Not as described,Refunded,33.18,USD
+RET-000119,114-9813864-9222291,1,B0AZBDRH38,SKU-0086,ProGrip Sticky Notes Pack — Ergonomic & Multipurpose,2025-08-15,Damaged during shipping,Refunded,27.71,USD
+RET-000120,114-9834338-8318221,1,B0SH0V1DCR,SKU-0075,KiddoCraft Nerf-Style Blaster — Ages 3+ & Interactive,2025-03-10,Damaged during shipping,Processing,30.08,USD
+RET-000121,114-5028339-3014052,5,B08RJE02WW,SKU-0016,AuroraTech Headphones — Bluetooth 5.3 & Water Resistant,2025-03-20,Not as described,Refunded,71.32,USD
+RET-000122,114-4006157-1142126,1,B0FKKPVMZA,SKU-0065,TrailBlaze Foam Roller — Heavy Duty & Anti-Slip,2025-06-26,Better price available,Refunded,23.67,USD
+RET-000123,114-3145079-4299107,1,B0M2UGJMKQ,SKU-0074,CloudNest RC Car — STEM Learning & Interactive,2026-05-27,No longer needed,Closed,0.0,USD
+RET-000124,114-2832300-1546987,1,B02LTJA2NA,SKU-0078,CloudNest Dollhouse — Ages 3+ & Interactive,2025-12-25,No longer needed,Refunded,36.52,USD
+RET-000125,114-3993629-8249594,5,B0M2QT36J4,SKU-0010,AuroraTech Portable Charger — Fast Charging & HD 1080p,2025-08-01,Not as described,Closed,0.0,USD
+RET-000126,114-8014407-3606044,1,B05P1Y30A5,SKU-0091,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,2026-01-07,Defective,Refunded,10.4,USD
+RET-000127,114-5622848-5228381,1,B0SQ7F7BFE,SKU-0057,TrailBlaze Dumbbell Set — Waterproof & Portable,2025-11-30,Not as described,Refunded,27.04,USD
+RET-000128,114-5900791-2212136,2,B0HE56LV1G,SKU-0071,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,2025-08-12,Wrong item sent,Refunded,22.81,USD
+RET-000129,114-4180902-3495920,1,B0K12NKA8N,SKU-0013,AuroraTech Smart Watch — 30H Battery Life & Bluetooth 5.3,2025-12-23,Defective,Refunded,83.42,USD
+RET-000130,114-1775541-5069646,2,B0S19ZGCXE,SKU-0116,EverPeak Screwdriver Set — Cordless & High Torque,2025-08-24,Wrong item sent,Refunded,46.08,USD
+RET-000131,114-2403528-8609301,2,B0N90348CD,SKU-0088,ProGrip Desk Chair Cushion — Multipurpose & Ergonomic,2025-02-15,Better price available,Processing,15.4,USD
+RET-000132,114-2210269-1684129,1,B0R5E97R3C,SKU-0001,AuroraTech Smart Plug — Noise Cancelling & HD 1080p,2026-06-19,Not as described,Refunded,61.07,USD
+RET-000133,114-7956025-6100742,1,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2025-11-24,Wrong item sent,Refunded,51.35,USD
+RET-000134,114-8598149-1182174,1,B0AZBDRH38,SKU-0086,ProGrip Sticky Notes Pack — Ergonomic & Multipurpose,2025-12-21,Defective,Refunded,27.71,USD
+RET-000135,114-1628047-9606373,1,B0ANDXF98K,SKU-0004,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,2026-06-25,Arrived too late,Refunded,84.2,USD
+RET-000136,114-1744769-1395428,1,B03WTWXEDC,SKU-0072,CloudNest Magnetic Tiles — STEM Learning & Educational,2025-08-19,Missing parts or accessories,Refunded,19.25,USD
+RET-000137,114-4209825-7219265,3,B0PXWSPMXC,SKU-0099,PawPals Cat Litter Mat — Durable & Easy to Clean,2025-09-06,No longer needed,Refunded,25.11,USD
+RET-000138,114-7058540-8778136,1,B0M9299AJ4,SKU-0024,ZenLife Electric Kettle — Non-Stick Coating & Space Saving,2026-06-12,Inaccurate website description,Refunded,31.93,USD
+RET-000139,114-5342322-7131060,1,B01U2VVLHF,SKU-0066,EverPeak Water Bottle — Portable & Waterproof,2025-01-29,No longer needed,Refunded,42.45,USD
+RET-000140,114-1882583-5778457,3,B02X1DSSZM,SKU-0102,LittleNest Diaper Bag — Hypoallergenic & Easy to Clean,2025-04-25,No longer needed,Refunded,16.83,USD
+RET-000141,114-9555363-4745893,4,B0A30AC946,SKU-0117,ProGrip Stud Finder — Ergonomic Grip & Rust Resistant,2025-01-30,Arrived too late,Processing,13.01,USD
+RET-000142,114-3347697-2824269,1,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2025-12-15,Defective,Refunded,51.35,USD
+RET-000143,114-3640810-2981040,1,B06AZNEH47,SKU-0008,BrightBeam Mechanical Keyboard — 30H Battery Life & Water Resistant,2025-04-08,Missing parts or accessories,Processing,75.67,USD
+RET-000144,114-1295982-6899272,2,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2025-09-25,Wrong item sent,Refunded,332.73,USD
+RET-000145,114-6037384-4920511,1,B0JH68DJ8G,SKU-0032,UrbanKitchen Blender — Non-Stick Coating & Space Saving,2026-01-16,Arrived too late,Refunded,17.37,USD
+RET-000146,114-7280832-9129618,3,B03WTWXEDC,SKU-0072,CloudNest Magnetic Tiles — STEM Learning & Educational,2025-03-21,Damaged during shipping,Refunded,19.25,USD
+RET-000147,114-4962441-9580264,1,B0SH0V1DCR,SKU-0075,KiddoCraft Nerf-Style Blaster — Ages 3+ & Interactive,2026-07-07,No longer needed,Refunded,11.33,USD
+RET-000148,114-9555363-4745893,3,B0MVKP1792,SKU-0002,BrightBeam HDMI Cable — Bluetooth 5.3 & HD 1080p,2025-01-21,No longer needed,Refunded,67.55,USD
+RET-000149,114-2175979-8005284,2,B0FTQRA6A1,SKU-0109,DriveGuard Dash Cam — Heavy Duty & Easy Install,2025-10-26,Damaged during shipping,Refunded,61.86,USD
+RET-000150,114-9499000-9775993,3,B0TURPLSHH,SKU-0100,PawPals Automatic Pet Feeder — Easy to Clean & Vet Recommended,2026-03-08,Arrived too late,Processing,35.71,USD
+RET-000151,114-5952250-7067055,3,B0E32FCLF7,SKU-0055,TrailBlaze Camping Tent — Lightweight & Waterproof,2026-01-22,Defective,Refunded,135.04,USD
+RET-000152,114-3229635-9274081,1,B0FPMT2SF9,SKU-0076,CloudNest Science Kit — Educational & Non-Toxic,2026-06-19,Damaged during shipping,Refunded,14.63,USD
+RET-000153,114-6115213-3047234,1,B08RJE02WW,SKU-0016,AuroraTech Headphones — Bluetooth 5.3 & Water Resistant,2025-06-13,Inaccurate website description,Refunded,65.02,USD
+RET-000154,114-1336009-4292858,4,B0FTQRA6A1,SKU-0109,DriveGuard Dash Cam — Heavy Duty & Easy Install,2026-03-03,Defective,Closed,30.93,USD
+RET-000155,114-4734158-5791625,1,B0ZWX7WPK9,SKU-0114,DriveGuard Seat Covers — Universal Fit & Heavy Duty,2025-06-03,Not as described,Refunded,14.63,USD
+RET-000156,114-9528030-5409809,1,B0U0VF1HMG,SKU-0040,ZenLife Nail Clipper Set — Gentle Formula & Cruelty-Free,2025-04-15,No longer needed,Refunded,22.72,USD
+RET-000157,114-1667618-2160739,3,B0GJL7P973,SKU-0045,PureGlo Hair Straightener — Cruelty-Free & Ionic Technology,2025-10-06,Defective,Refunded,39.53,USD
+RET-000158,114-9086174-1320427,2,B0ZWX7WPK9,SKU-0114,DriveGuard Seat Covers — Universal Fit & Heavy Duty,2026-02-03,Better price available,Refunded,11.52,USD
+RET-000159,114-4731908-7877393,4,B0A8X9FRKN,SKU-0031,Nordic Home Coffee Grinder — BPA-Free & Premium Finish,2025-09-10,Not as described,Processing,38.11,USD
+RET-000160,114-9501949-5857499,2,B03QFWA54M,SKU-0056,EverPeak Running Belt — Anti-Slip & Waterproof,2025-01-29,Inaccurate website description,Closed,0.0,USD
+RET-000161,114-7876130-8135215,1,B0HE56LV1G,SKU-0071,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,2026-01-12,Defective,Refunded,22.81,USD
+RET-000162,114-7509604-6617119,2,B05P1Y30A5,SKU-0091,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,2026-03-08,Defective,Refunded,11.7,USD
+RET-000163,114-5604580-2866156,3,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2025-08-02,Arrived too late,Processing,81.42,USD
+RET-000164,114-7266653-1930815,1,B01CQYLRS7,SKU-0070,CloudNest Art Supplies Kit — STEM Learning & Interactive,2026-04-14,Wrong item sent,Refunded,25.06,USD
+RET-000165,114-6210505-9660904,1,B0CWALEK2Y,SKU-0036,ZenLife Air Fryer — Dishwasher Safe & Non-Stick Coating,2025-05-02,Better price available,Closed,0.0,USD
+RET-000166,114-5505739-9378197,3,B0F635F86R,SKU-0097,PawPals Dog Chew Toys — Durable & Easy to Clean,2025-10-01,Defective,Processing,21.36,USD
+RET-000167,114-7195501-1552596,3,B09V1N9TED,SKU-0077,KiddoCraft Puzzle Set — Non-Toxic & STEM Learning,2025-05-10,Defective,Refunded,26.1,USD
+RET-000168,114-6774032-1053482,1,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2025-08-05,No longer needed,Processing,212.77,USD
+RET-000169,114-5764423-9382060,1,B0SFWKQDD5,SKU-0022,Nordic Home Plant Pots — Non-Stick Coating & BPA-Free,2025-10-28,Not as described,Refunded,54.54,USD
+RET-000170,114-5336203-1232800,1,B0A30AC946,SKU-0117,ProGrip Stud Finder — Ergonomic Grip & Rust Resistant,2026-03-02,No longer needed,Refunded,15.83,USD
+RET-000171,114-7940178-2405817,1,B00JXDXVG6,SKU-0095,PawPals Dog Treat Pouch — Easy to Clean & Non-Toxic,2026-07-04,Not as described,Refunded,33.95,USD
+RET-000172,114-4821230-6888868,1,B0HE56LV1G,SKU-0071,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,2026-04-18,No longer needed,Refunded,14.14,USD
+RET-000173,114-7219910-4368734,2,B0J9HPEX6X,SKU-0112,DriveGuard Tire Pressure Gauge — Long Cord & Heavy Duty,2025-12-07,Better price available,Refunded,16.76,USD
+RET-000174,114-9991823-3666514,5,B02T104M25,SKU-0111,DriveGuard Jump Starter — Long Cord & Universal Fit,2025-11-05,Wrong item sent,Refunded,55.67,USD
+RET-000175,114-1965307-1777145,1,B0A8X9FRKN,SKU-0031,Nordic Home Coffee Grinder — BPA-Free & Premium Finish,2026-03-18,No longer needed,Refunded,138.54,USD
+RET-000176,114-3422865-4628876,1,B08H6XVAML,SKU-0006,EverPeak Gaming Mouse — RGB Backlit & Compact Design,2025-04-07,Defective,Refunded,88.7,USD
+RET-000177,114-2557710-1974641,2,B04ZD4ZURZ,SKU-0103,LittleNest Baby Monitor — Safety Certified & Hypoallergenic,2026-03-15,Defective,Refunded,31.9,USD
+RET-000178,114-3179290-5530167,1,B0EGZYNSAE,SKU-0106,LittleNest Baby Bath Tub — Hypoallergenic & Safety Certified,2026-03-16,Defective,Processing,50.86,USD
+RET-000179,114-2387142-7207788,2,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2025-09-23,No longer needed,Closed,0.0,USD
+RET-000180,114-4018266-9516874,1,B03WTWXEDC,SKU-0072,CloudNest Magnetic Tiles — STEM Learning & Educational,2025-02-25,Defective,Processing,38.5,USD
+RET-000181,114-4584557-2065817,2,B0NKTX370W,SKU-0051,PureGlo Shampoo & Conditioner — Gentle Formula & Ionic Technology,2025-11-13,Damaged during shipping,Processing,10.97,USD
+RET-000182,114-1207531-3103598,1,B0YXU5G7D1,SKU-0011,BrightBeam Bluetooth Speaker — Fast Charging & Noise Cancelling,2025-05-30,Defective,Refunded,107.91,USD
+RET-000183,114-6481567-5951639,1,B0HE56LV1G,SKU-0071,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,2025-03-15,Defective,Refunded,45.62,USD
+RET-000184,114-5783664-8824531,1,B00EGECWF5,SKU-0030,ZenLife Laundry Hamper — Dishwasher Safe & Premium Finish,2025-09-22,Wrong item sent,Refunded,68.26,USD
+RET-000185,114-2554833-4412989,3,B0N90348CD,SKU-0088,ProGrip Desk Chair Cushion — Multipurpose & Ergonomic,2025-10-11,No longer needed,Refunded,19.45,USD
+RET-000186,114-3651430-1948263,1,B0WCY6LU8P,SKU-0029,UrbanKitchen Wall Clock — Easy Clean & Dishwasher Safe,2026-06-18,Arrived too late,Processing,84.91,USD
+RET-000187,114-9736811-2480839,1,B0J4AJH5Y5,SKU-0084,ProGrip Monitor Stand — Space Saving & Multipurpose,2025-02-05,No longer needed,Refunded,33.47,USD
+RET-000188,114-8733733-5927218,2,B00EGECWF5,SKU-0030,ZenLife Laundry Hamper — Dishwasher Safe & Premium Finish,2025-02-10,Defective,Refunded,145.2,USD
+RET-000189,114-5254385-9053977,1,B01NLXW82L,SKU-0104,LittleNest Bassinet — Safety Certified & BPA-Free,2025-12-07,Arrived too late,Refunded,16.98,USD
+RET-000190,114-2475212-5442304,1,B03QFWA54M,SKU-0056,EverPeak Running Belt — Anti-Slip & Waterproof,2026-06-24,Not as described,Refunded,77.09,USD
+RET-000191,114-5952250-7067055,1,B06AZNEH47,SKU-0008,BrightBeam Mechanical Keyboard — 30H Battery Life & Water Resistant,2025-12-19,Damaged during shipping,Refunded,75.67,USD
+RET-000192,114-5377586-3019769,1,B0DLXACSTN,SKU-0068,CloudNest Plush Toy — Non-Toxic & Ages 3+,2025-03-10,Inaccurate website description,Refunded,13.26,USD
+RET-000193,114-3474218-9012950,1,B0MVKP1792,SKU-0002,BrightBeam HDMI Cable — Bluetooth 5.3 & HD 1080p,2025-12-22,Better price available,Refunded,46.7,USD
+RET-000194,114-6660363-6277201,2,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2025-10-02,No longer needed,Processing,131.88,USD
+RET-000195,114-3862345-8418392,1,B0NQJ9A5QP,SKU-0081,WriteWell Paper Shredder — Ergonomic & Space Saving,2025-07-10,Defective,Closed,15.31,USD
+RET-000196,114-3801766-6814121,2,B0AZBDRH38,SKU-0086,ProGrip Sticky Notes Pack — Ergonomic & Multipurpose,2025-05-26,Not as described,Refunded,16.21,USD
+RET-000197,114-8063855-6468515,4,B0FPMT2SF9,SKU-0076,CloudNest Science Kit — Educational & Non-Toxic,2025-08-29,No longer needed,Refunded,11.04,USD
+RET-000198,114-6320116-5892932,3,B0PAU2ZN1D,SKU-0113,DriveGuard Car Organizer — Heavy Duty & Easy Install,2025-06-29,Defective,Refunded,24.69,USD
+RET-000199,114-1909160-8752101,1,B0CWALEK2Y,SKU-0036,ZenLife Air Fryer — Dishwasher Safe & Non-Stick Coating,2026-07-07,Missing parts or accessories,Processing,19.47,USD
+RET-000200,114-3666472-7988135,1,B0A8X9FRKN,SKU-0031,Nordic Home Coffee Grinder — BPA-Free & Premium Finish,2025-03-17,Better price available,Processing,58.18,USD
+RET-000201,114-8198110-5519410,1,B0P5FBKME8,SKU-0047,PureGlo Bath Bomb Set — Dermatologist Tested & Gentle Formula,2025-05-17,Wrong item sent,Refunded,31.59,USD
+RET-000202,114-3123388-3855738,2,B05P1Y30A5,SKU-0091,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,2025-06-22,Damaged during shipping,Processing,10.4,USD
+RET-000203,114-2583632-7791789,1,B0ANDXF98K,SKU-0004,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,2026-06-23,Defective,Refunded,109.5,USD
+RET-000204,114-9295063-9257653,4,B0DLXACSTN,SKU-0068,CloudNest Plush Toy — Non-Toxic & Ages 3+,2026-03-24,Missing parts or accessories,Refunded,21.32,USD
+RET-000205,114-7433863-2219835,2,B0U0VF1HMG,SKU-0040,ZenLife Nail Clipper Set — Gentle Formula & Cruelty-Free,2025-09-30,Not as described,Processing,27.29,USD
+RET-000206,114-3133694-5334105,1,B0YXU5G7D1,SKU-0011,BrightBeam Bluetooth Speaker — Fast Charging & Noise Cancelling,2025-09-01,Not as described,Refunded,82.01,USD
+RET-000207,114-5742703-2057860,2,B0TXQ65ZFV,SKU-0087,WriteWell Desk Organizer — Ergonomic & Multipurpose,2025-06-28,Not as described,Refunded,20.51,USD
+RET-000208,114-1905377-7459138,1,B02T104M25,SKU-0111,DriveGuard Jump Starter — Long Cord & Universal Fit,2025-09-09,No longer needed,Refunded,44.93,USD
+RET-000209,114-8010183-6241542,1,B088K2QTZJ,SKU-0007,AuroraTech Car Mount — Bluetooth 5.3 & RGB Backlit,2026-06-10,No longer needed,Processing,34.95,USD
+RET-000210,114-2093600-2773585,2,B0R7U9K93R,SKU-0094,PawPals Pet Carrier — Non-Toxic & Durable,2025-05-01,Defective,Refunded,56.62,USD
+RET-000211,114-5147923-3712287,2,B0H9GJQWK8,SKU-0009,EverPeak Phone Case — Noise Cancelling & Bluetooth 5.3,2026-02-23,Defective,Refunded,23.15,USD
+RET-000212,114-4319766-5280659,1,B0NQJ9A5QP,SKU-0081,WriteWell Paper Shredder — Ergonomic & Space Saving,2026-04-22,Wrong item sent,Refunded,40.86,USD
+RET-000213,114-9991823-3666514,3,B06AZNEH47,SKU-0008,BrightBeam Mechanical Keyboard — 30H Battery Life & Water Resistant,2025-11-21,No longer needed,Processing,59.06,USD
+RET-000214,114-8199730-8026853,2,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2025-02-20,Defective,Refunded,51.35,USD
+RET-000215,114-4042513-3113236,3,B0N90348CD,SKU-0088,ProGrip Desk Chair Cushion — Multipurpose & Ergonomic,2025-05-12,Not as described,Refunded,12.37,USD
+RET-000216,114-4678992-4496745,6,B00EGECWF5,SKU-0030,ZenLife Laundry Hamper — Dishwasher Safe & Premium Finish,2026-06-18,No longer needed,Refunded,47.03,USD
+RET-000217,114-3471987-4780379,1,B0ZWX7WPK9,SKU-0114,DriveGuard Seat Covers — Universal Fit & Heavy Duty,2025-02-09,No longer needed,Refunded,37.44,USD
+RET-000218,114-6087212-1558164,1,B0R5E97R3C,SKU-0001,AuroraTech Smart Plug — Noise Cancelling & HD 1080p,2026-05-04,Defective,Refunded,89.73,USD
+RET-000219,114-8054145-9295417,2,B0R5E97R3C,SKU-0001,AuroraTech Smart Plug — Noise Cancelling & HD 1080p,2025-09-26,Defective,Refunded,358.92,USD
+RET-000220,114-4446435-4943305,1,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2025-11-27,Defective,Refunded,51.35,USD
+RET-000221,114-3383215-5185490,2,B0M6YEW145,SKU-0083,WriteWell Standing Desk Converter — Durable & Multipurpose,2025-08-08,Arrived too late,Refunded,8.52,USD
+RET-000222,114-8633504-2955624,2,B0Q85PD1G6,SKU-0018,EverPeak Power Bank — 30H Battery Life & Noise Cancelling,2025-08-22,No longer needed,Closed,0.0,USD
+RET-000223,114-1985840-2339450,3,B0EGZYNSAE,SKU-0106,LittleNest Baby Bath Tub — Hypoallergenic & Safety Certified,2026-05-24,Not as described,Refunded,16.01,USD
+RET-000224,114-6690813-9474196,2,B0N90348CD,SKU-0088,ProGrip Desk Chair Cushion — Multipurpose & Ergonomic,2026-01-21,Damaged during shipping,Closed,19.37,USD
+RET-000225,114-7596826-4153748,1,B0NQJ9A5QP,SKU-0081,WriteWell Paper Shredder — Ergonomic & Space Saving,2025-03-26,Not as described,Refunded,10.61,USD
+RET-000226,114-1775541-5069646,1,B0QKGVBY0X,SKU-0108,LittleNest Baby Bottle Set — BPA-Free & Hypoallergenic,2025-09-09,Defective,Processing,32.0,USD
+RET-000227,114-3921178-2715740,2,B0PGGKXQ9K,SKU-0093,PawPals Pet Water Fountain — Easy to Clean & Vet Recommended,2025-03-27,Defective,Refunded,31.65,USD
+RET-000228,114-6925744-8784315,1,B0ANDXF98K,SKU-0004,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,2025-10-15,No longer needed,Refunded,63.76,USD
+RET-000229,114-1824058-9056135,4,B08H6XVAML,SKU-0006,EverPeak Gaming Mouse — RGB Backlit & Compact Design,2025-02-05,No longer needed,Processing,163.17,USD
+RET-000230,114-6583198-1813885,2,B0A8X9FRKN,SKU-0031,Nordic Home Coffee Grinder — BPA-Free & Premium Finish,2025-02-03,Missing parts or accessories,Processing,74.65,USD
+RET-000231,114-4024776-5176643,1,B055PLDLF8,SKU-0005,BrightBeam Webcam — Compact Design & 30H Battery Life,2025-05-06,Damaged during shipping,Processing,80.42,USD
+RET-000232,114-5497124-5808585,1,B0NQJ9A5QP,SKU-0081,WriteWell Paper Shredder — Ergonomic & Space Saving,2025-04-06,Defective,Refunded,15.31,USD
+RET-000233,114-8900187-2975230,1,B0FTQRA6A1,SKU-0109,DriveGuard Dash Cam — Heavy Duty & Easy Install,2025-12-07,Defective,Refunded,30.93,USD
+RET-000234,114-8993284-9557662,1,B0ANDXF98K,SKU-0004,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,2025-12-22,Defective,Processing,109.5,USD
+RET-000235,114-6129446-6611691,1,B0QKGVBY0X,SKU-0108,LittleNest Baby Bottle Set — BPA-Free & Hypoallergenic,2026-03-25,No longer needed,Refunded,14.44,USD
+RET-000236,114-8953202-2488175,1,B02LTJA2NA,SKU-0078,CloudNest Dollhouse — Ages 3+ & Interactive,2026-02-25,No longer needed,Processing,39.92,USD
+RET-000237,114-8634919-7772365,3,B0N90348CD,SKU-0088,ProGrip Desk Chair Cushion — Multipurpose & Ergonomic,2025-10-01,Better price available,Refunded,11.03,USD
+RET-000238,114-2632871-9803553,1,B03WTWXEDC,SKU-0072,CloudNest Magnetic Tiles — STEM Learning & Educational,2025-08-18,Not as described,Processing,29.1,USD
+RET-000239,114-6959962-7029324,1,B0WCY6LU8P,SKU-0029,UrbanKitchen Wall Clock — Easy Clean & Dishwasher Safe,2025-08-31,Better price available,Refunded,83.64,USD
+RET-000240,114-1222628-9167792,1,B0AZBDRH38,SKU-0086,ProGrip Sticky Notes Pack — Ergonomic & Multipurpose,2025-07-24,Damaged during shipping,Refunded,27.71,USD
+RET-000241,114-1453303-3307012,2,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2025-02-21,Damaged during shipping,Refunded,45.32,USD
+RET-000242,114-8575349-1903147,1,B0HE56LV1G,SKU-0071,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,2026-07-15,Defective,Refunded,22.81,USD
+RET-000243,114-1462791-9944486,1,B0ANDXF98K,SKU-0004,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,2025-07-05,Damaged during shipping,Refunded,109.5,USD
+RET-000244,114-2442367-7339320,2,B0U0VF1HMG,SKU-0040,ZenLife Nail Clipper Set — Gentle Formula & Cruelty-Free,2025-11-01,Not as described,Processing,19.7,USD
+RET-000245,114-5880139-7039002,2,B0FA6PK7S1,SKU-0043,PureGlo Body Scrub — Ionic Technology & Gentle Formula,2026-03-18,Inaccurate website description,Refunded,37.76,USD
+RET-000246,114-6157968-7753014,1,B05P1Y30A5,SKU-0091,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,2025-10-06,Missing parts or accessories,Refunded,20.8,USD
+RET-000247,114-1685796-3669613,1,B0MVKP1792,SKU-0002,BrightBeam HDMI Cable — Bluetooth 5.3 & HD 1080p,2025-09-14,No longer needed,Refunded,54.57,USD
+RET-000248,114-7052813-7251399,3,B02LTJA2NA,SKU-0078,CloudNest Dollhouse — Ages 3+ & Interactive,2026-04-19,Better price available,Refunded,27.17,USD
+RET-000249,114-8211972-7788118,3,B0TURPLSHH,SKU-0100,PawPals Automatic Pet Feeder — Easy to Clean & Vet Recommended,2026-04-15,Defective,Refunded,40.93,USD
+RET-000250,114-5829884-8013146,2,B0YJ486MXU,SKU-0107,LittleNest Baby Safety Gate — Safety Certified & BPA-Free,2026-01-08,Damaged during shipping,Refunded,182.4,USD
+RET-000251,114-8347263-4923595,3,B03WTWXEDC,SKU-0072,CloudNest Magnetic Tiles — STEM Learning & Educational,2026-03-24,Damaged during shipping,Closed,19.25,USD
+RET-000252,114-3845107-4833000,2,B05P1Y30A5,SKU-0091,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,2025-07-19,No longer needed,Refunded,6.54,USD
+RET-000253,114-5885714-2537230,2,B0FTQRA6A1,SKU-0109,DriveGuard Dash Cam — Heavy Duty & Easy Install,2026-04-09,Arrived too late,Refunded,30.43,USD
+RET-000254,114-3461675-1923821,6,B0R5E97R3C,SKU-0001,AuroraTech Smart Plug — Noise Cancelling & HD 1080p,2025-07-19,Inaccurate website description,Processing,56.26,USD
+RET-000255,114-9295063-9257653,2,B04ZD4ZURZ,SKU-0103,LittleNest Baby Monitor — Safety Certified & Hypoallergenic,2026-03-04,Not as described,Refunded,20.61,USD
+RET-000256,114-6354606-6694220,1,B0SQ7F7BFE,SKU-0057,TrailBlaze Dumbbell Set — Waterproof & Portable,2025-05-09,Defective,Refunded,46.37,USD
+RET-000257,114-2807429-7227310,1,B06AZNEH47,SKU-0008,BrightBeam Mechanical Keyboard — 30H Battery Life & Water Resistant,2025-04-22,No longer needed,Refunded,40.93,USD
+RET-000258,114-4987452-4879075,2,B0YBRGQRFQ,SKU-0110,DriveGuard Car Vacuum — Long Cord & Easy Install,2025-12-19,No longer needed,Refunded,12.53,USD
+RET-000259,114-2895920-9221915,2,B0NQJ9A5QP,SKU-0081,WriteWell Paper Shredder — Ergonomic & Space Saving,2025-03-27,Arrived too late,Refunded,14.93,USD
+RET-000260,114-5143130-6014853,1,B05P1Y30A5,SKU-0091,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,2026-06-03,Missing parts or accessories,Refunded,11.7,USD
+RET-000261,114-1910845-4161506,2,B02T104M25,SKU-0111,DriveGuard Jump Starter — Long Cord & Universal Fit,2025-09-08,No longer needed,Refunded,43.14,USD
+RET-000262,114-3920867-1436887,3,B0SQ7F7BFE,SKU-0057,TrailBlaze Dumbbell Set — Waterproof & Portable,2025-03-01,Better price available,Closed,0.0,USD
+RET-000263,114-5059623-3890762,1,B0YJ486MXU,SKU-0107,LittleNest Baby Safety Gate — Safety Certified & BPA-Free,2026-02-21,No longer needed,Processing,55.15,USD
+RET-000264,114-4092823-4058136,4,B0YJ486MXU,SKU-0107,LittleNest Baby Safety Gate — Safety Certified & BPA-Free,2025-03-27,No longer needed,Refunded,52.55,USD
+RET-000265,114-6026046-9445312,1,B0P5FBKME8,SKU-0047,PureGlo Bath Bomb Set — Dermatologist Tested & Gentle Formula,2026-07-15,Inaccurate website description,Processing,64.0,USD
+RET-000266,114-9828041-8224494,2,B0AZBDRH38,SKU-0086,ProGrip Sticky Notes Pack — Ergonomic & Multipurpose,2025-08-17,Defective,Refunded,27.71,USD
+RET-000267,114-8784269-9228269,2,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2026-07-15,Defective,Refunded,103.75,USD
+RET-000268,114-7662761-1700728,1,B02X1DSSZM,SKU-0102,LittleNest Diaper Bag — Hypoallergenic & Easy to Clean,2025-08-26,Damaged during shipping,Refunded,26.88,USD
+RET-000269,114-4252186-5848213,2,B0P5FBKME8,SKU-0047,PureGlo Bath Bomb Set — Dermatologist Tested & Gentle Formula,2026-05-08,Wrong item sent,Refunded,27.8,USD
+RET-000270,114-3402037-9881980,3,B02X1DSSZM,SKU-0102,LittleNest Diaper Bag — Hypoallergenic & Easy to Clean,2026-07-15,No longer needed,Refunded,10.67,USD
+RET-000271,114-8405483-2346854,1,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2025-03-29,No longer needed,Refunded,75.49,USD
+RET-000272,114-5770818-9720948,6,B0SQ7F7BFE,SKU-0057,TrailBlaze Dumbbell Set — Waterproof & Portable,2025-04-02,No longer needed,Processing,27.05,USD
+RET-000273,114-7579359-5250843,2,B07GWT52HM,SKU-0021,ZenLife Cutting Board Set — BPA-Free & Easy Clean,2025-08-15,Not as described,Refunded,17.74,USD
+RET-000274,114-4169589-3224150,1,B043M1S1C4,SKU-0049,PureGlo Sunscreen Lotion — Ionic Technology & Dermatologist Tested,2025-10-27,Arrived too late,Refunded,15.91,USD
+RET-000275,114-6753744-3116351,2,B0U0VF1HMG,SKU-0040,ZenLife Nail Clipper Set — Gentle Formula & Cruelty-Free,2025-04-23,No longer needed,Refunded,16.34,USD
+RET-000276,114-7374992-4732932,3,B08UGTRB3Y,SKU-0050,ZenLife Vitamin C Serum — Dermatologist Tested & Long Lasting,2026-07-11,Not as described,Refunded,29.42,USD
+RET-000277,114-5271754-1939699,2,B0ANDXF98K,SKU-0004,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,2026-06-30,Missing parts or accessories,Refunded,109.5,USD
+RET-000278,114-7547783-1567849,1,B0CWALEK2Y,SKU-0036,ZenLife Air Fryer — Dishwasher Safe & Non-Stick Coating,2025-08-14,Wrong item sent,Refunded,19.47,USD
+RET-000279,114-6249530-1044315,1,B0TXQ65ZFV,SKU-0087,WriteWell Desk Organizer — Ergonomic & Multipurpose,2025-01-28,No longer needed,Refunded,16.64,USD
+RET-000280,114-7183138-3335391,1,B08H6XVAML,SKU-0006,EverPeak Gaming Mouse — RGB Backlit & Compact Design,2026-06-07,No longer needed,Refunded,74.39,USD
+RET-000281,114-1846631-1599611,4,B00EGECWF5,SKU-0030,ZenLife Laundry Hamper — Dishwasher Safe & Premium Finish,2025-02-28,Wrong item sent,Closed,72.6,USD
+RET-000282,114-2972032-1682701,1,B0ZWX7WPK9,SKU-0114,DriveGuard Seat Covers — Universal Fit & Heavy Duty,2025-01-28,No longer needed,Processing,31.27,USD
+RET-000283,114-5588065-9678193,1,B0Q85PD1G6,SKU-0018,EverPeak Power Bank — 30H Battery Life & Noise Cancelling,2025-08-04,No longer needed,Refunded,14.08,USD
+RET-000284,114-3969484-8341566,3,B0WCY6LU8P,SKU-0029,UrbanKitchen Wall Clock — Easy Clean & Dishwasher Safe,2025-06-09,No longer needed,Refunded,38.65,USD
+RET-000285,114-5728628-6079237,3,B0SH0V1DCR,SKU-0075,KiddoCraft Nerf-Style Blaster — Ages 3+ & Interactive,2026-05-08,Wrong item sent,Processing,14.79,USD
+RET-000286,114-8665949-2755534,1,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2025-05-05,Missing parts or accessories,Processing,110.91,USD
+RET-000287,114-9236643-6509692,2,B0671R2A1G,SKU-0012,EverPeak Laptop Stand — Water Resistant & 30H Battery Life,2026-07-15,Arrived too late,Refunded,32.43,USD
+RET-000288,114-2320311-8024192,4,B0JH68DJ8G,SKU-0032,UrbanKitchen Blender — Non-Stick Coating & Space Saving,2025-09-15,Damaged during shipping,Refunded,26.96,USD
+RET-000289,114-7243070-9350868,1,B02T104M25,SKU-0111,DriveGuard Jump Starter — Long Cord & Universal Fit,2025-04-21,No longer needed,Closed,0.0,USD
+RET-000290,114-7538758-4697229,1,B0MVKP1792,SKU-0002,BrightBeam HDMI Cable — Bluetooth 5.3 & HD 1080p,2025-02-04,Arrived too late,Refunded,50.49,USD
+RET-000291,114-5260211-2147253,2,B0CWALEK2Y,SKU-0036,ZenLife Air Fryer — Dishwasher Safe & Non-Stick Coating,2026-01-16,Wrong item sent,Refunded,38.94,USD
+RET-000292,114-9060352-7014574,1,B0FPMT2SF9,SKU-0076,CloudNest Science Kit — Educational & Non-Toxic,2025-04-04,Wrong item sent,Refunded,12.73,USD
+RET-000293,114-6900463-9259031,1,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2025-11-18,Missing parts or accessories,Refunded,45.47,USD
+RET-000294,114-9959503-9537777,3,B0P5FBKME8,SKU-0047,PureGlo Bath Bomb Set — Dermatologist Tested & Gentle Formula,2025-11-14,No longer needed,Processing,24.19,USD
+RET-000295,114-6983124-3368038,2,B04ZD4ZURZ,SKU-0103,LittleNest Baby Monitor — Safety Certified & Hypoallergenic,2025-07-22,Defective,Refunded,31.9,USD
+RET-000296,114-8533031-8905860,1,B08UGTRB3Y,SKU-0050,ZenLife Vitamin C Serum — Dermatologist Tested & Long Lasting,2025-12-11,No longer needed,Refunded,29.44,USD
+RET-000297,114-7947194-4702232,1,B0MVKP1792,SKU-0002,BrightBeam HDMI Cable — Bluetooth 5.3 & HD 1080p,2025-12-13,Inaccurate website description,Closed,0.0,USD
+RET-000298,114-6559996-2327411,2,B0P5FBKME8,SKU-0047,PureGlo Bath Bomb Set — Dermatologist Tested & Gentle Formula,2025-02-09,Wrong item sent,Refunded,31.59,USD
+RET-000299,114-2959175-1438857,1,B0TURPLSHH,SKU-0100,PawPals Automatic Pet Feeder — Easy to Clean & Vet Recommended,2026-05-10,No longer needed,Refunded,37.67,USD
+RET-000300,114-5718376-5309477,6,B06AZNEH47,SKU-0008,BrightBeam Mechanical Keyboard — 30H Battery Life & Water Resistant,2026-06-05,Wrong item sent,Refunded,65.37,USD
+RET-000301,114-1601533-7099658,1,B0QKGVBY0X,SKU-0108,LittleNest Baby Bottle Set — BPA-Free & Hypoallergenic,2025-06-11,Wrong item sent,Refunded,32.0,USD
+RET-000302,114-1395398-3733001,1,B0FA6PK7S1,SKU-0043,PureGlo Body Scrub — Ionic Technology & Gentle Formula,2025-04-24,Wrong item sent,Closed,40.0,USD
+RET-000303,114-3527377-4710478,2,B0N90348CD,SKU-0088,ProGrip Desk Chair Cushion — Multipurpose & Ergonomic,2025-04-28,Not as described,Refunded,12.01,USD
+RET-000304,114-9427442-1996373,1,B0M2UGJMKQ,SKU-0074,CloudNest RC Car — STEM Learning & Interactive,2026-04-18,No longer needed,Closed,0.0,USD
+RET-000305,114-1739811-6686039,1,B0A30AC946,SKU-0117,ProGrip Stud Finder — Ergonomic Grip & Rust Resistant,2025-02-02,Wrong item sent,Refunded,19.86,USD
+RET-000306,114-4678992-4496745,3,B0E48MCY15,SKU-0079,WriteWell Label Maker — Durable & Multipurpose,2026-07-08,No longer needed,Refunded,38.36,USD
+RET-000307,114-3981309-5593695,1,B00EGECWF5,SKU-0030,ZenLife Laundry Hamper — Dishwasher Safe & Premium Finish,2025-09-25,Damaged during shipping,Refunded,68.26,USD
+RET-000308,114-4235692-7471985,1,B03WTWXEDC,SKU-0072,CloudNest Magnetic Tiles — STEM Learning & Educational,2025-09-23,Damaged during shipping,Refunded,19.25,USD
+RET-000309,114-6792919-4374218,1,B05P1Y30A5,SKU-0091,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,2026-05-05,Damaged during shipping,Refunded,11.7,USD
+RET-000310,114-5469467-5150050,1,B043M1S1C4,SKU-0049,PureGlo Sunscreen Lotion — Ionic Technology & Dermatologist Tested,2026-05-31,Not as described,Refunded,28.19,USD
+RET-000311,114-1869207-1089689,3,B0TXQ65ZFV,SKU-0087,WriteWell Desk Organizer — Ergonomic & Multipurpose,2025-11-11,Not as described,Refunded,19.81,USD
+RET-000312,114-7448613-2236018,1,B09V1N9TED,SKU-0077,KiddoCraft Puzzle Set — Non-Toxic & STEM Learning,2026-06-23,Missing parts or accessories,Refunded,29.15,USD
+RET-000313,114-6444426-1278043,3,B02X1DSSZM,SKU-0102,LittleNest Diaper Bag — Hypoallergenic & Easy to Clean,2025-11-19,Defective,Refunded,13.44,USD
+RET-000314,114-7055412-7851615,2,B0Q85PD1G6,SKU-0018,EverPeak Power Bank — 30H Battery Life & Noise Cancelling,2026-01-08,Inaccurate website description,Closed,0.0,USD
+RET-000315,114-5867630-3778714,3,B00JXDXVG6,SKU-0095,PawPals Dog Treat Pouch — Easy to Clean & Non-Toxic,2025-12-19,Better price available,Refunded,59.64,USD
+RET-000316,114-9317175-5228295,3,B0ZWX7WPK9,SKU-0114,DriveGuard Seat Covers — Universal Fit & Heavy Duty,2026-04-10,Defective,Closed,20.72,USD
+RET-000317,114-6751144-3827901,2,B0A30AC946,SKU-0117,ProGrip Stud Finder — Ergonomic Grip & Rust Resistant,2025-09-19,No longer needed,Closed,0.0,USD
+RET-000318,114-7725217-3071361,2,B0FTQRA6A1,SKU-0109,DriveGuard Dash Cam — Heavy Duty & Easy Install,2025-10-28,Not as described,Processing,27.39,USD
+RET-000319,114-4706182-1979022,2,B0SQ7F7BFE,SKU-0057,TrailBlaze Dumbbell Set — Waterproof & Portable,2025-12-19,Missing parts or accessories,Processing,46.37,USD
+RET-000320,114-5044925-2533751,1,B0PF199V27,SKU-0037,Nordic Home Utensil Set — Non-Stick Coating & BPA-Free,2026-01-02,Defective,Refunded,62.82,USD
+RET-000321,114-3217128-4356911,1,B01NLXW82L,SKU-0104,LittleNest Bassinet — Safety Certified & BPA-Free,2025-07-30,Wrong item sent,Refunded,24.09,USD
+RET-000322,114-9823976-9008410,2,B0N90348CD,SKU-0088,ProGrip Desk Chair Cushion — Multipurpose & Ergonomic,2025-04-30,Better price available,Refunded,24.41,USD
+RET-000323,114-1445758-1493220,1,B04ZD4ZURZ,SKU-0103,LittleNest Baby Monitor — Safety Certified & Hypoallergenic,2025-05-10,Not as described,Closed,0.0,USD
+RET-000324,114-7193765-5521004,1,B08H6XVAML,SKU-0006,EverPeak Gaming Mouse — RGB Backlit & Compact Design,2026-06-20,Defective,Refunded,81.06,USD
+RET-000325,114-5128333-4430825,1,B0M2UGJMKQ,SKU-0074,CloudNest RC Car — STEM Learning & Interactive,2025-03-14,Wrong item sent,Refunded,11.77,USD
+RET-000326,114-8221154-4404305,2,B0TURPLSHH,SKU-0100,PawPals Automatic Pet Feeder — Easy to Clean & Vet Recommended,2025-07-08,Damaged during shipping,Refunded,43.13,USD
+RET-000327,114-9963980-5857528,1,B0JH68DJ8G,SKU-0032,UrbanKitchen Blender — Non-Stick Coating & Space Saving,2025-06-13,Not as described,Refunded,19.52,USD
+RET-000328,114-2684394-6985812,1,B0FPMT2SF9,SKU-0076,CloudNest Science Kit — Educational & Non-Toxic,2026-06-03,No longer needed,Refunded,11.42,USD
+RET-000329,114-5770818-9720948,2,B0HE56LV1G,SKU-0071,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,2025-03-24,Damaged during shipping,Refunded,68.43,USD
+RET-000330,114-4238575-7536220,1,B0FTQRA6A1,SKU-0109,DriveGuard Dash Cam — Heavy Duty & Easy Install,2025-11-16,Defective,Processing,61.86,USD
+RET-000331,114-8531023-9781792,1,B0YXU5G7D1,SKU-0011,BrightBeam Bluetooth Speaker — Fast Charging & Noise Cancelling,2025-09-03,Wrong item sent,Refunded,107.91,USD
+RET-000332,114-1805209-6442146,2,B0W61EHTPX,SKU-0019,Nordic Home Serving Bowls — Dishwasher Safe & Easy Clean,2026-07-15,Arrived too late,Refunded,114.97,USD
+RET-000333,114-4128270-6035338,1,B0J9HPEX6X,SKU-0112,DriveGuard Tire Pressure Gauge — Long Cord & Heavy Duty,2025-03-02,Defective,Processing,36.82,USD
+RET-000334,114-4479052-3984361,3,B0FPMT2SF9,SKU-0076,CloudNest Science Kit — Educational & Non-Toxic,2026-07-15,Wrong item sent,Closed,29.26,USD
+RET-000335,114-3261128-1559846,4,B0HE56LV1G,SKU-0071,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,2026-06-04,No longer needed,Processing,16.26,USD
+RET-000336,114-7674214-9645484,4,B04Z7XKKST,SKU-0105,LittleNest Swaddle Blankets — BPA-Free & Safety Certified,2025-10-06,Not as described,Refunded,50.87,USD
+RET-000337,114-1986368-8920000,1,B0EGZYNSAE,SKU-0106,LittleNest Baby Bath Tub — Hypoallergenic & Safety Certified,2026-01-02,Damaged during shipping,Refunded,76.29,USD
+RET-000338,114-2376926-4185689,1,B0SH0V1DCR,SKU-0075,KiddoCraft Nerf-Style Blaster — Ages 3+ & Interactive,2026-07-15,Inaccurate website description,Refunded,13.22,USD
+RET-000339,114-8325380-9312160,1,B03WTWXEDC,SKU-0072,CloudNest Magnetic Tiles — STEM Learning & Educational,2025-08-07,Damaged during shipping,Refunded,19.25,USD
+RET-000340,114-3372887-6968855,1,B0U0VF1HMG,SKU-0040,ZenLife Nail Clipper Set — Gentle Formula & Cruelty-Free,2025-03-05,No longer needed,Refunded,19.79,USD
+RET-000341,114-3843853-8865185,1,B0YXU5G7D1,SKU-0011,BrightBeam Bluetooth Speaker — Fast Charging & Noise Cancelling,2025-12-02,No longer needed,Processing,55.9,USD
+RET-000342,114-1842268-4624716,1,B0TXQ65ZFV,SKU-0087,WriteWell Desk Organizer — Ergonomic & Multipurpose,2025-12-17,Better price available,Refunded,16.61,USD
+RET-000343,114-7898158-2174433,2,B0SH0V1DCR,SKU-0075,KiddoCraft Nerf-Style Blaster — Ages 3+ & Interactive,2026-04-03,Not as described,Processing,12.48,USD
+RET-000344,114-9162832-1259473,4,B088K2QTZJ,SKU-0007,AuroraTech Car Mount — Bluetooth 5.3 & RGB Backlit,2025-12-10,No longer needed,Refunded,47.07,USD
+RET-000345,114-9435536-2301306,2,B0GJL7P973,SKU-0045,PureGlo Hair Straightener — Cruelty-Free & Ionic Technology,2025-11-07,Not as described,Refunded,21.59,USD
+RET-000346,114-7166495-6861565,4,B0MVKP1792,SKU-0002,BrightBeam HDMI Cable — Bluetooth 5.3 & HD 1080p,2026-07-15,Arrived too late,Processing,36.97,USD
+RET-000347,114-7374774-5264310,2,B055PLDLF8,SKU-0005,BrightBeam Webcam — Compact Design & 30H Battery Life,2025-12-31,Not as described,Refunded,24.32,USD
+RET-000348,114-2665331-5671330,3,B02X1DSSZM,SKU-0102,LittleNest Diaper Bag — Hypoallergenic & Easy to Clean,2025-04-05,No longer needed,Processing,8.57,USD
+RET-000349,114-8227715-7103897,1,B01CQYLRS7,SKU-0070,CloudNest Art Supplies Kit — STEM Learning & Interactive,2025-03-03,No longer needed,Refunded,10.54,USD
+RET-000350,114-3639760-8299367,1,B0SQ7F7BFE,SKU-0057,TrailBlaze Dumbbell Set — Waterproof & Portable,2025-11-06,Arrived too late,Processing,111.1,USD
+RET-000351,114-2427420-9746588,1,B08RJE02WW,SKU-0016,AuroraTech Headphones — Bluetooth 5.3 & Water Resistant,2026-01-02,Not as described,Refunded,90.68,USD
+RET-000352,114-9872495-6264000,1,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2026-01-03,Wrong item sent,Refunded,102.7,USD
+RET-000353,114-5427729-4335575,1,B0J9HPEX6X,SKU-0112,DriveGuard Tire Pressure Gauge — Long Cord & Heavy Duty,2025-05-16,Arrived too late,Refunded,68.15,USD
+RET-000354,114-5372718-1076788,1,B0HE56LV1G,SKU-0071,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,2025-08-22,No longer needed,Refunded,12.07,USD
+RET-000355,114-1637805-4706899,3,B08RJE02WW,SKU-0016,AuroraTech Headphones — Bluetooth 5.3 & Water Resistant,2026-06-15,No longer needed,Processing,69.08,USD
+RET-000356,114-2825233-5921118,1,B085JJ3ZXF,SKU-0041,PureGlo Electric Toothbrush — Long Lasting & Dermatologist Tested,2026-01-23,No longer needed,Refunded,81.89,USD
+RET-000357,114-4083015-2648873,1,B0U0VF1HMG,SKU-0040,ZenLife Nail Clipper Set — Gentle Formula & Cruelty-Free,2025-07-11,Damaged during shipping,Refunded,24.82,USD
+RET-000358,114-7819810-2895795,1,B0P5FBKME8,SKU-0047,PureGlo Bath Bomb Set — Dermatologist Tested & Gentle Formula,2025-11-07,Missing parts or accessories,Processing,29.77,USD
+RET-000359,114-4705608-6587167,2,B0ZWX7WPK9,SKU-0114,DriveGuard Seat Covers — Universal Fit & Heavy Duty,2026-05-07,No longer needed,Processing,12.13,USD
+RET-000360,114-8530924-3031316,2,B0U0VF1HMG,SKU-0040,ZenLife Nail Clipper Set — Gentle Formula & Cruelty-Free,2025-09-29,Wrong item sent,Refunded,49.11,USD
+RET-000361,114-7304758-5823825,3,B085JJ3ZXF,SKU-0041,PureGlo Electric Toothbrush — Long Lasting & Dermatologist Tested,2025-12-24,Defective,Refunded,90.76,USD
+RET-000362,114-1706718-1933707,1,B00JXDXVG6,SKU-0095,PawPals Dog Treat Pouch — Easy to Clean & Non-Toxic,2025-05-06,Arrived too late,Refunded,13.63,USD
+RET-000363,114-2320311-8024192,1,B0ANDXF98K,SKU-0004,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,2025-09-08,Defective,Refunded,109.5,USD
+RET-000364,114-4506027-7542320,2,B0NQJ9A5QP,SKU-0081,WriteWell Paper Shredder — Ergonomic & Space Saving,2026-02-02,Not as described,Refunded,9.84,USD
+RET-000365,114-4238575-7536220,2,B0A30AC946,SKU-0117,ProGrip Stud Finder — Ergonomic Grip & Rust Resistant,2025-11-09,Arrived too late,Refunded,11.57,USD
+RET-000366,114-9714211-9306532,1,B01U2VVLHF,SKU-0066,EverPeak Water Bottle — Portable & Waterproof,2025-12-05,Damaged during shipping,Refunded,66.14,USD
+RET-000367,114-5173007-9827364,2,B0CWALEK2Y,SKU-0036,ZenLife Air Fryer — Dishwasher Safe & Non-Stick Coating,2026-03-31,No longer needed,Processing,15.23,USD
+RET-000368,114-7176574-7470157,2,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2025-02-16,Missing parts or accessories,Refunded,97.78,USD
+RET-000369,114-8452671-8427035,1,B0DLXACSTN,SKU-0068,CloudNest Plush Toy — Non-Toxic & Ages 3+,2025-05-17,Better price available,Refunded,35.81,USD
+RET-000370,114-5547185-2130907,1,B0HE56LV1G,SKU-0071,KiddoCraft Play Kitchen Set — Interactive & Ages 3+,2026-04-04,No longer needed,Refunded,25.14,USD
+RET-000371,114-6832076-2353223,1,B0Q85PD1G6,SKU-0018,EverPeak Power Bank — 30H Battery Life & Noise Cancelling,2025-03-28,Damaged during shipping,Refunded,17.84,USD
+RET-000372,114-6498821-3719729,1,B0NQJ9A5QP,SKU-0081,WriteWell Paper Shredder — Ergonomic & Space Saving,2026-03-11,No longer needed,Refunded,12.37,USD
+RET-000373,114-1461792-3027565,1,B08H6XVAML,SKU-0006,EverPeak Gaming Mouse — RGB Backlit & Compact Design,2025-11-24,No longer needed,Closed,0.0,USD
+RET-000374,114-7245743-4688718,1,B03WTWXEDC,SKU-0072,CloudNest Magnetic Tiles — STEM Learning & Educational,2025-06-23,Damaged during shipping,Refunded,38.5,USD
+RET-000375,114-3145504-6470508,3,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2025-05-15,Wrong item sent,Refunded,51.35,USD
+RET-000376,114-6970949-1750988,1,B0TXQ65ZFV,SKU-0087,WriteWell Desk Organizer — Ergonomic & Multipurpose,2025-01-19,Wrong item sent,Processing,43.32,USD
+RET-000377,114-4595723-9445045,1,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2025-09-08,Defective,Refunded,221.82,USD
+RET-000378,114-9147493-4323521,1,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2026-01-19,No longer needed,Refunded,31.5,USD
+RET-000379,114-7401792-4999043,1,B0FTQRA6A1,SKU-0109,DriveGuard Dash Cam — Heavy Duty & Easy Install,2025-12-23,No longer needed,Refunded,26.17,USD
+RET-000380,114-6792919-4374218,4,B0GJL7P973,SKU-0045,PureGlo Hair Straightener — Cruelty-Free & Ionic Technology,2026-05-13,Not as described,Processing,39.44,USD
+RET-000381,114-1347445-5072102,3,B0ZWX7WPK9,SKU-0114,DriveGuard Seat Covers — Universal Fit & Heavy Duty,2025-09-16,Defective,Refunded,58.26,USD
+RET-000382,114-3350701-1293499,1,B055PLDLF8,SKU-0005,BrightBeam Webcam — Compact Design & 30H Battery Life,2026-03-09,Damaged during shipping,Refunded,40.21,USD
+RET-000383,114-8608039-3601196,1,B0WCY6LU8P,SKU-0029,UrbanKitchen Wall Clock — Easy Clean & Dishwasher Safe,2025-04-15,Defective,Refunded,72.21,USD
+RET-000384,114-5606801-9110374,1,B0K12NKA8N,SKU-0013,AuroraTech Smart Watch — 30H Battery Life & Bluetooth 5.3,2025-09-11,Defective,Refunded,83.42,USD
+RET-000385,114-9873881-4519366,1,B0F635F86R,SKU-0097,PawPals Dog Chew Toys — Durable & Easy to Clean,2026-01-18,Inaccurate website description,Processing,18.92,USD
+RET-000386,114-5338042-6890588,1,B04ZD4ZURZ,SKU-0103,LittleNest Baby Monitor — Safety Certified & Hypoallergenic,2025-06-28,No longer needed,Refunded,22.61,USD
+RET-000387,114-3128186-7280747,4,B0J4AJH5Y5,SKU-0084,ProGrip Monitor Stand — Space Saving & Multipurpose,2025-04-20,No longer needed,Refunded,30.37,USD
+RET-000388,114-5225804-5563573,1,B0R5E97R3C,SKU-0001,AuroraTech Smart Plug — Noise Cancelling & HD 1080p,2026-05-05,Better price available,Processing,59.92,USD
+RET-000389,114-1035751-2046696,1,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2025-12-30,Defective,Processing,51.35,USD
+RET-000390,114-9521443-9812858,4,B00JXDXVG6,SKU-0095,PawPals Dog Treat Pouch — Easy to Clean & Non-Toxic,2025-12-24,Wrong item sent,Refunded,18.93,USD
+RET-000391,114-6321605-5878302,3,B01NLXW82L,SKU-0104,LittleNest Bassinet — Safety Certified & BPA-Free,2025-03-18,Wrong item sent,Processing,24.09,USD
+RET-000392,114-2087833-5854480,5,B0GKG0B3EA,SKU-0090,PawPals Dog Leash — Easy to Clean & Vet Recommended,2025-01-25,Not as described,Closed,0.0,USD
+RET-000393,114-1554536-4704808,1,B05P1Y30A5,SKU-0091,PawPals Slow Feeder Bowl — Easy to Clean & Non-Toxic,2025-06-25,Not as described,Closed,0.0,USD
+RET-000394,114-3261128-1559846,1,B0CWALEK2Y,SKU-0036,ZenLife Air Fryer — Dishwasher Safe & Non-Stick Coating,2026-05-14,Better price available,Refunded,14.54,USD
+RET-000395,114-5625498-2916650,1,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2025-01-17,Defective,Refunded,110.91,USD
+RET-000396,114-3718518-9299028,2,B0K12NKA8N,SKU-0013,AuroraTech Smart Watch — 30H Battery Life & Bluetooth 5.3,2025-05-29,No longer needed,Refunded,58.34,USD
+RET-000397,114-3640810-2981040,2,B08H6XVAML,SKU-0006,EverPeak Gaming Mouse — RGB Backlit & Compact Design,2025-04-11,Defective,Refunded,88.7,USD
+RET-000398,114-8462902-5129209,1,B0YBRGQRFQ,SKU-0110,DriveGuard Car Vacuum — Long Cord & Easy Install,2026-04-28,Not as described,Refunded,19.45,USD
+RET-000399,114-8362911-3724162,1,B0ZWX7WPK9,SKU-0114,DriveGuard Seat Covers — Universal Fit & Heavy Duty,2025-02-19,Better price available,Refunded,38.41,USD
+RET-000400,114-5492325-6597078,1,B0NL5Q5CZM,SKU-0003,EverPeak USB-C Hub — Water Resistant & HD 1080p,2025-09-02,Missing parts or accessories,Closed,221.82,USD
+RET-000401,114-6583198-1813885,4,B00EGECWF5,SKU-0030,ZenLife Laundry Hamper — Dishwasher Safe & Premium Finish,2025-03-09,Missing parts or accessories,Refunded,145.2,USD
+RET-000402,114-3227060-7604903,3,B0SQ7F7BFE,SKU-0057,TrailBlaze Dumbbell Set — Waterproof & Portable,2025-12-29,Wrong item sent,Refunded,46.37,USD
+RET-000403,114-6442067-6902088,2,B0R5E97R3C,SKU-0001,AuroraTech Smart Plug — Noise Cancelling & HD 1080p,2026-03-02,No longer needed,Refunded,71.63,USD
+RET-000404,114-6583198-1813885,5,B0E48MCY15,SKU-0079,WriteWell Label Maker — Durable & Multipurpose,2025-02-20,Not as described,Refunded,93.46,USD
+RET-000405,114-4572034-1474171,1,B0ANDXF98K,SKU-0004,AuroraTech WiFi Range Extender — Bluetooth 5.3 & Fast Charging,2025-08-19,Better price available,Processing,54.36,USD
+RET-000406,114-4610859-2352637,1,B02LTJA2NA,SKU-0078,CloudNest Dollhouse — Ages 3+ & Interactive,2025-10-29,Wrong item sent,Refunded,41.1,USD
+RET-000407,114-6626848-5165129,1,B0FTQRA6A1,SKU-0109,DriveGuard Dash Cam — Heavy Duty & Easy Install,2026-06-15,No longer needed,Refunded,27.42,USD
+RET-000408,114-3253741-1660353,1,B0F635F86R,SKU-0097,PawPals Dog Chew Toys — Durable & Easy to Clean,2025-05-05,Better price available,Refunded,15.14,USD
+RET-000409,114-4028779-9011739,1,B0M2UGJMKQ,SKU-0074,CloudNest RC Car — STEM Learning & Interactive,2026-01-22,No longer needed,Refunded,12.79,USD
+RET-000410,114-9482997-8447225,1,B01U2VVLHF,SKU-0066,EverPeak Water Bottle — Portable & Waterproof,2026-04-10,Not as described,Closed,0.0,USD
+RET-000411,114-5991806-8738519,3,B055PLDLF8,SKU-0005,BrightBeam Webcam — Compact Design & 30H Battery Life,2026-01-25,Wrong item sent,Refunded,40.21,USD
+RET-000412,114-9354366-6738494,2,B0J9HPEX6X,SKU-0112,DriveGuard Tire Pressure Gauge — Long Cord & Heavy Duty,2026-06-05,Better price available,Refunded,22.17,USD
+RET-000413,114-2990897-2583759,2,B0279XVVC5,SKU-0014,BrightBeam Desk Lamp — RGB Backlit & Noise Cancelling,2025-12-05,Inaccurate website description,Processing,68.89,USD
+RET-000414,114-9999901-0000001,1,B08B0R5CPH,SKU-0062,EverPeak Kayak Paddle — Heavy Duty & Portable,2026-05-01,No longer needed,Refunded,78.93,USD
+RET-000415,114-9999902-0000002,1,B0936760J9,SKU-0034,Nordic Home Shower Caddy — Easy Clean & Non-Stick Coating,2026-05-02,No longer needed,Refunded,25.31,USD
